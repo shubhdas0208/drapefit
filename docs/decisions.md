@@ -45,3 +45,11 @@ Newest decisions at the bottom. Each entry gives the decision, the options that 
 - Whether Sarvam JSON-schema output is reliable, and how well it handles Hinglish
 - Telegram chat vs a Telegram Mini App for image-heavy browsing
 
+## 2026-11-08: Naming & Shopify onboarding
+
+| # | Decision | Alternatives | Why |
+|---|---|---|---|
+| D12 | Project renamed **DrapeFit**; folder is now `Desktop\Building\DrapeFit`; Shopify dev org is also named DrapeFit | Keep "chat-to-cart-agent" | User's choice. A product name reads better on a portfolio than a description. |
+| D13 | Shopify's dashboard now has an **Agents** page (not "Catalogs"): (1) **Create a catalog** = choose which products the agent can search; (2) **Agent identities → New identity** = API credentials + agent name shown at checkout. Spike catalog scope: broad (all products), with India filters applied per query in code | Narrow catalog to a few stores up front | Spike is measuring India coverage, so pre-filtering in the dashboard would hide the answer. Narrow later if results are noisy. |
+| D14 | Catalog "DrapeFit" config: all stores, Shopify only (Off-Shopify beta off); buyer country IN, ships to IN, ships from Anywhere; category Apparel; condition New; in stock only; colour/size/gender/price/rating left open | Off-Shopify on; ships from IN only; bake size/colour into catalog | Off-Shopify items may lack Shopify cart permalinks (handoff breaks). Ships-from left open so the spike can measure the Indian share. Size, colour, gender and price change per request, so code sets them per query. Indian D2C has few reviews, so no rating filter. |
+
