@@ -1,0 +1,16 @@
+.env
+*.env
+!.env.example
+__pycache__/
+.venv/
+*.db
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+.env.*
+!.env.example
+.neon/credentials*
+.neon
+node_modules/
