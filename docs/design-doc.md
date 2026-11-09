@@ -163,3 +163,5 @@ UPI collection plus catalog suggestions plus a group vote. M effort. Deferred.
 ## Spike outcome (2026-11-09)
 GO on the Shopify Global Catalog (20/20 queries passed; see `docs/research/spike-01-catalog-20-queries.md`, decisions D15-D18). The curated index fallback is dropped. Retrieval changes: always filter `ships_from=IN`; send the price cap converted to USD (API filters in USD) and keep the exact INR check in code; get each shown product's size/stock matrix with `get_product`, after normalising size labels.
 
+Spike (d) + (e) (2026-11-09): cart permalinks reached Shopify checkout on 7/7 Indian stores (one forces login first); every sampled variant has `native_checkout=false`, so handoff via `/cart/<variant_id>:<qty>,...` is confirmed, with the catalog's `checkout_url` as fallback. Sarvam `sarvam-105b` returned valid schema JSON (user-reported). Channel: Telegram. See `docs/research/spike-02-checkout-and-sarvam.md`, decisions D19-D21.
+

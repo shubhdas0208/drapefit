@@ -62,3 +62,13 @@ Newest decisions at the bottom. Each entry gives the decision, the options that 
 | D17 | Price cap: send a USD-converted cap (+~10% headroom) to the API, exact INR check in code | Trust API price filter | API applies price filters in USD (stated in result.messages). |
 | D18 | Two-step retrieval: `search_catalog` -> `get_product` per shown product for the size/stock matrix | Search only | Search hits carry 1 variant; get_product returns availability per size in one call. Size labels normalised before use (XXL vs 2XL fails silently). |
 
+## 2026-11-09: Spike (d) + (e) results (docs/research/spike-02-checkout-and-sarvam.md)
+
+| # | Decision | Alternatives | Why |
+|---|---|---|---|
+| D19 | Checkout handoff = one Shopify cart permalink per merchant, `https://<store>/cart/<variant_id>:<qty>,...`. Fallback: the catalog's per-variant `checkout_url` (`/buy/...`), then product deep link `?variant=<id>` | Catalog `checkout_url` as primary; UCP native checkout | Permalink reached checkout on 7/7 Indian stores, and it takes several variants in one link (one "Pay on <brand>" button per merchant). `/buy` also resolved, but it is per-variant. All sampled variants have `native_checkout=false`, so UCP checkout stays out of the MVP. |
+| D20 | Sarvam `sarvam-105b` with JSON-schema output is the parser. Code validates against the schema and retries once on failure. No repair layer. | Regex/rule parser; a second LLM as fallback | Spike (e) returned valid JSON every time (user-reported). Validating at the boundary is cheap insurance. More only if real traffic breaks it. |
+| D21 | Channel confirmed: **Telegram** bot (BotFather token in `TELEGRAM_BOT_TOKEN`) | WhatsApp; web chat | Re-confirmed at spike close. Same reasoning as before: no ban risk, free, shareable by link. |
+
+Spike complete (a-e). Next: `/plan-eng-review` to lock the architecture.
+
