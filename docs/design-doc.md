@@ -160,3 +160,6 @@ UPI collection plus catalog suggestions plus a group vote. M effort. Deferred.
 - Your spec arrived as a real request, not a feature list: "grey tutleneck size 30 and blue bellbottom pant size 32 for Men under 2000 each". That sentence is now the first eval case.
 - You asked about cost before capability ("cost effective api yet useful"). That is the right order for a solo builder.
 
+## Spike outcome (2026-11-09)
+GO on the Shopify Global Catalog (20/20 queries passed; see `docs/research/spike-01-catalog-20-queries.md`, decisions D15-D18). The curated index fallback is dropped. Retrieval changes: always filter `ships_from=IN`; send the price cap converted to USD (API filters in USD) and keep the exact INR check in code; get each shown product's size/stock matrix with `get_product`, after normalising size labels.
+

@@ -53,3 +53,12 @@ Newest decisions at the bottom. Each entry gives the decision, the options that 
 | D13 | Shopify's dashboard now has an **Agents** page (not "Catalogs"): (1) **Create a catalog** = choose which products the agent can search; (2) **Agent identities → New identity** = API credentials + agent name shown at checkout. Spike catalog scope: broad (all products), with India filters applied per query in code | Narrow catalog to a few stores up front | Spike is measuring India coverage, so pre-filtering in the dashboard would hide the answer. Narrow later if results are noisy. |
 | D14 | Catalog "DrapeFit" config: all stores, Shopify only (Off-Shopify beta off); buyer country IN, ships to IN, ships from Anywhere; category Apparel; condition New; in stock only; colour/size/gender/price/rating left open | Off-Shopify on; ships from IN only; bake size/colour into catalog | Off-Shopify items may lack Shopify cart permalinks (handoff breaks). Ships-from left open so the spike can measure the Indian share. Size, colour, gender and price change per request, so code sets them per query. Indian D2C has few reviews, so no rating filter. |
 
+## 2026-11-09: Catalog spike results (docs/research/spike-01-catalog-20-queries.md)
+
+| # | Decision | Alternatives | Why |
+|---|---|---|---|
+| D15 | **GO on Shopify Global Catalog**; curated `/products.json` index dropped as plan of record | Curated index of 20-30 stores | 20/20 queries had >=3 relevant, in-stock, INR, ships-from-IN hits (bar was 30%). 154 distinct Indian sellers. |
+| D16 | Every search sends `ships_from=[IN]` | Ship-to-IN only | Without it foreign stores crowd out results (grey turtleneck: 0 good hits vs 5). |
+| D17 | Price cap: send a USD-converted cap (+~10% headroom) to the API, exact INR check in code | Trust API price filter | API applies price filters in USD (stated in result.messages). |
+| D18 | Two-step retrieval: `search_catalog` -> `get_product` per shown product for the size/stock matrix | Search only | Search hits carry 1 variant; get_product returns availability per size in one call. Size labels normalised before use (XXL vs 2XL fails silently). |
+
