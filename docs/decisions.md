@@ -72,3 +72,9 @@ Newest decisions at the bottom. Each entry gives the decision, the options that 
 
 Spike complete (a-e). Next: `/plan-eng-review` to lock the architecture.
 
+## 2026-11-09: Admin dashboard (deferred)
+
+| # | Decision | Alternatives | Why |
+|---|---|---|---|
+| D22 | Admin dashboard (every user request, bot response, funnel step reached) is built **after** the Telegram bot works end to end. But the bot writes an append-only event log from day one (request received, parsed spec, results shown, item added, checkout link sent, link clicked), keyed by telegram_user_id + session. The dashboard is then only a read layer on that log. | Build dashboard alongside the bot; add logging later | Logging added later loses the early sessions, and those are the most useful ones. The schema is cheap now and costly to retrofit. The dashboard UI itself doesn't block the core loop. |
+
