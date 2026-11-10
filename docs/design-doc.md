@@ -165,3 +165,10 @@ GO on the Shopify Global Catalog (20/20 queries passed; see `docs/research/spike
 
 Spike (d) + (e) (2026-11-09): cart permalinks reached Shopify checkout on 7/7 Indian stores (one forces login first); every sampled variant has `native_checkout=false`, so handoff via `/cart/<variant_id>:<qty>,...` is confirmed, with the catalog's `checkout_url` as fallback. Sarvam `sarvam-105b` returned valid schema JSON (user-reported). Channel: Telegram. See `docs/research/spike-02-checkout-and-sarvam.md`, decisions D19-D21.
 
+## Eng review outcome (2026-11-10)
+Rung 1 architecture locked in `docs/eng-review-rung1.md` (decisions D23-D36). Scope and stack changes:
+- Fixed 5 options per item; the "More" button moves to Rung 2.
+- Host: Render free + Neon free Postgres (₹0). **Neon replaces SQLite** because Render's disk is wiped on restart. cron-job.org pings `/healthz` every 10 min to stop Render sleeping.
+- Webhook: immediate 200, async task, update_id dedupe, secret_token check, one in-flight search per user.
+- `get_product` in rank order until 5 pass the size check (max 8 per item); results streamed per item.
+

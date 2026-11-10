@@ -78,3 +78,24 @@ Spike complete (a-e). Next: `/plan-eng-review` to lock the architecture.
 |---|---|---|---|
 | D22 | Admin dashboard (every user request, bot response, funnel step reached) is built **after** the Telegram bot works end to end. But the bot writes an append-only event log from day one (request received, parsed spec, results shown, item added, checkout link sent, link clicked), keyed by telegram_user_id + session. The dashboard is then only a read layer on that log. | Build dashboard alongside the bot; add logging later | Logging added later loses the early sessions, and those are the most useful ones. The schema is cheap now and costly to retrofit. The dashboard UI itself doesn't block the core loop. |
 
+## 2026-11-10: /plan-eng-review, Rung 1 architecture lock (docs/eng-review-rung1.md)
+
+The user picked D23 and D24 and delegated the rest ("take all decisions; the goal is to not spend money").
+
+| # | Decision | Alternatives | Why |
+|---|---|---|---|
+| D23 | **Lean Rung 1**: fixed 5 options per item, asyncio tasks inside one process; keep `/r/{token}` redirect, D22 event log and clarifying questions | Full doc Rung 1 (More button to 10, job queue); bare loop without redirect/log | Keeps every success metric measurable and drops only what no user has asked for. "More" moves to Rung 2. |
+| D24 | **Host: Render free web service + Neon free Postgres** (user's pick; ₹0) | Fly.io + volume (~$2-5/mo); laptop + tunnel | Hard ₹0 constraint. Render's disk is ephemeral, so no state is stored on the box. |
+| D25 | Keep-warm: cron-job.org hits `GET /healthz` every 10 min | Accept cold starts; paid instance | Render free sleeps after ~15 min idle (30-60 s wake breaks the 8 s budget). One always-on free service fits the 750 h/month limit. |
+| D26 | All state in Neon (sessions, results, link tokens, events, processed updates); this replaces SQLite from the design doc | SQLite on Render disk | Render free wipes the disk on restart and redeploy. |
+| D27 | Webhook returns 200 immediately, work runs in an asyncio task, `update_id` dedupe table, `secret_token` header check | Process inline before returning | Telegram retries slow webhooks, which would duplicate searches. The secret blocks forged updates. |
+| D28 | One in-flight search per Telegram user; a new message during a search gets "Still working…" | Queue messages; cancel and restart | Simplest correct behaviour. Stops users doubling the catalog load. |
+| D29 | `/r/{token}`: random token → stored URL, 404 if unknown, target host must equal the API seller domain | `/r?url=...` | Prevents an open redirect. |
+| D30 | `Option` is a frozen dataclass built only from the `get_product` variant; the renderer accepts only `Option`; grounding test is a build gate | Render from search hits | Grounding becomes structural, not a convention. Search hits carry 1 variant (D18). |
+| D31 | Catalog client: async httpx port of the spike client, one global rate limiter (5 req/s shared by all users), token refresh behind a lock, 10-min in-memory `get_product` cache | Per-request limiter; no cache | The limit is per API client, not per user. 10 min is the ToS maximum. |
+| D32 | `get_product` runs in rank order until 5 options pass the size check, max 8 calls per item; search limit 30 | get_product on all hits; on the top 5 only | Top 5 alone often fails the size check. A cap of 8 keeps the latency budget. |
+| D33 | USD cap = INR cap / `INR_PER_USD` × 1.15 (config constant); exact INR check in code | Live FX API | A stale rate only lowers recall slightly; no extra dependency. |
+| D34 | Size and colour tables are data; an unmapped size label fails closed and logs `size_unmapped` | Fuzzy match | Showing a wrong size is worse than showing fewer options. The log tells us which labels to add. |
+| D35 | Stream results per item; album (images) then a text list; text-only fallback if the album fails | Wait for all items; one combined message | Faster first result; albums can't carry buttons. |
+| D36 | Write the 50-request parse eval before the parser prompt (T1); tests run on the spike-01 raw fixtures | Write the eval after the parser | Design doc step 2, plus fixtures already exist. Accepted risk: a Render restart mid-search loses that request (visible in the events table). |
+
