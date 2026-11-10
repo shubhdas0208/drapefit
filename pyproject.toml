@@ -1,0 +1,32 @@
+[project]
+name = "drapefit"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi==0.137.1",
+  "uvicorn==0.49.0",
+  "httpx==0.28.1",
+  "pydantic==2.12.5",
+  "SQLAlchemy[asyncio]==2.0.57",
+  "asyncpg==0.32.0",
+  "aiosqlite==0.22.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==9.2.0", "pytest-asyncio==1.5.0", "pytest-cov==7.1.0", "respx==0.23.1"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["drapefit*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+markers = ["live: hits real external APIs (skipped by default)"]
+addopts = "-m 'not live'"
