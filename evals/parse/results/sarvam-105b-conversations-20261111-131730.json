@@ -1,0 +1,3071 @@
+{
+ "model": "sarvam-105b-conversations",
+ "cases": 50,
+ "exact_match": 0.98,
+ "parse_failures": 0,
+ "retries": 0,
+ "field_accuracy": {
+  "ambiguous": 1.0,
+  "budget_type": 1.0,
+  "cap": 1.0,
+  "cat": 1.0,
+  "col": 1.0,
+  "g": 1.0,
+  "item_count": 1.0,
+  "size": 0.983,
+  "total_max_inr": 1.0
+ },
+ "missed_clarifications": 0.0,
+ "needless_clarifications": 0.0,
+ "latency_ms_p50": 389,
+ "latency_ms_p95": 594,
+ "failures": [
+  {
+   "id": 21,
+   "text": "running shoes size 9 under 3000",
+   "notes": [
+    "item 0 size: got '9', want None"
+   ]
+  }
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "text": "grey tutleneck size 30 and blue bellbottom pant size 32 for Men under 2000 each",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "turtleneck",
+      "category": "top",
+      "color": "grey",
+      "size": "30",
+      "size_system": "chest_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     },
+     {
+      "query_terms": "bell bottom pant",
+      "category": "bottom",
+      "color": "blue",
+      "size": "32",
+      "size_system": "waist_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": [
+     {
+      "item_index": 0,
+      "field": "size",
+      "question": "chest 30 inches, or XS?"
+     }
+    ]
+   },
+   "attempts": 1,
+   "latency_ms": 750,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": true
+   }
+  },
+  {
+   "id": 2,
+   "text": "grey turtleneck M and blue bell-bottoms waist 32, men, under ₹2,000 each",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "turtleneck",
+      "category": "top",
+      "color": "grey",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     },
+     {
+      "query_terms": "bell bottom jeans",
+      "category": "bottom",
+      "color": "blue",
+      "size": "32",
+      "size_system": "waist_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 594,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 3,
+   "text": "black hoodie L under 1500",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "hoodie",
+      "category": "outerwear",
+      "color": "black",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 454,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 4,
+   "text": "white linen shirt for men size 40 below 2500",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "shirt",
+      "category": "top",
+      "color": "white",
+      "size": "40",
+      "size_system": "chest_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 532,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 5,
+   "text": "mujhe ek maroon kurta chahiye, size L, 1500 tak",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "kurta",
+      "category": "ethnic",
+      "color": "maroon",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 327,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 6,
+   "text": "navy chinos 32 waist under 2k",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "chino",
+      "category": "bottom",
+      "color": "navy",
+      "size": "32",
+      "size_system": "waist_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 389,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 7,
+   "text": "olive cargo pants men 34 within 2500",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "cargo pants",
+      "category": "bottom",
+      "color": "olive",
+      "size": "34",
+      "size_system": "waist_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 375,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 8,
+   "text": "beige oversized tshirt XL, 999 max",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "oversized t-shirt",
+      "category": "top",
+      "color": "beige",
+      "size": "XL",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": "oversized",
+      "quantity": 1,
+      "max_price_inr": 999
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 342,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 9,
+   "text": "black joggers M and grey sweatshirt M, men, total budget 3000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "joggers",
+      "category": "bottom",
+      "color": "black",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     },
+     {
+      "query_terms": "sweatshirt",
+      "category": "top",
+      "color": "grey",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "total",
+    "total_max_inr": 3000,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 436,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 10,
+   "text": "denim jacket for my husband, size L, under 3000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "denim jacket",
+      "category": "outerwear",
+      "color": null,
+      "size": "L",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 3000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 1641,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 11,
+   "text": "pink co-ord set for my sister, S, under 3k",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "co-ord set",
+      "category": "set",
+      "color": "pink",
+      "size": "S",
+      "size_system": "alpha",
+      "gender": "women",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 3000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 375,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 12,
+   "text": "black bodycon dress S under 2500",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "bodycon dress",
+      "category": "dress",
+      "color": "black",
+      "size": "S",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 297,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 13,
+   "text": "white kurti M 1500 ke andar",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "kurti",
+      "category": "ethnic",
+      "color": "white",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 297,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 14,
+   "text": "mustard saree under 3000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "saree",
+      "category": "ethnic",
+      "color": "mustard",
+      "size": null,
+      "size_system": "unknown",
+      "gender": "women",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 3000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 358,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 15,
+   "text": "blue straight fit jeans women 30 waist under 2000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "jeans",
+      "category": "bottom",
+      "color": "blue",
+      "size": "30",
+      "size_system": "waist_in",
+      "gender": "women",
+      "fit": "straight",
+      "quantity": 1,
+      "max_price_inr": 2000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 405,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 16,
+   "text": "green anarkali kurta, M, max 3500",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "anarkali kurta",
+      "category": "ethnic",
+      "color": "green",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": "women",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 3500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 391,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 17,
+   "text": "red crop top XS under 1000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "crop top",
+      "category": "top",
+      "color": "red",
+      "size": "XS",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 358,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 18,
+   "text": "black palazzo pants free size under 1200",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "palazzo pants",
+      "category": "bottom",
+      "color": "black",
+      "size": "FREE SIZE",
+      "size_system": "unknown",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1200
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 313,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 19,
+   "text": "2 white t-shirts M under 500 each",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "t-shirt",
+      "category": "top",
+      "color": "white",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 2,
+      "max_price_inr": 500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 311,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 20,
+   "text": "iphone 15 cover",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "phone cover",
+      "category": "not_fashion",
+      "color": null,
+      "size": null,
+      "size_system": "unknown",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 297,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 21,
+   "text": "running shoes size 9 under 3000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "running shoes",
+      "category": "not_fashion",
+      "color": null,
+      "size": "9",
+      "size_system": "unknown",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 3000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 327,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      false
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [
+     "item 0 size: got '9', want None"
+    ],
+    "exact": false,
+    "asked": false
+   }
+  },
+  {
+   "id": 22,
+   "text": "grey hoodie and a bluetooth speaker",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "hoodie",
+      "category": "outerwear",
+      "color": "grey",
+      "size": null,
+      "size_system": "unknown",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     },
+     {
+      "query_terms": "bluetooth speaker",
+      "category": "not_fashion",
+      "color": null,
+      "size": null,
+      "size_system": "unknown",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 375,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 23,
+   "text": "kurta pajama set for men XL, 2000 tak",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "kurta pajama",
+      "category": "set",
+      "color": null,
+      "size": "XL",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 297,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 24,
+   "text": "dad ke liye ek white shirt 42",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "shirt",
+      "category": "top",
+      "color": "white",
+      "size": "42",
+      "size_system": "chest_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 297,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 25,
+   "text": "jeans 32",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "jeans",
+      "category": "bottom",
+      "color": null,
+      "size": "32",
+      "size_system": "waist_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 422,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 26,
+   "text": "M size black tee",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "tee",
+      "category": "top",
+      "color": "black",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 360,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 27,
+   "text": "turtleneck size 30",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "turtleneck",
+      "category": "top",
+      "color": null,
+      "size": "30",
+      "size_system": "chest_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": [
+     {
+      "item_index": 0,
+      "field": "size",
+      "question": "chest 30 inches, or XS?"
+     }
+    ]
+   },
+   "attempts": 1,
+   "latency_ms": 500,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": true
+   }
+  },
+  {
+   "id": 28,
+   "text": "maroon sweater for mom, L",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "sweater",
+      "category": "top",
+      "color": "maroon",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": "women",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 405,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 29,
+   "text": "blue polo tshirt L under 1200 and navy shorts 32 under 900",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "polo t-shirt",
+      "category": "top",
+      "color": "blue",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1200
+     },
+     {
+      "query_terms": "shorts",
+      "category": "bottom",
+      "color": "navy",
+      "size": "32",
+      "size_system": "waist_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 900
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 514,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 30,
+   "text": "linen shirt aur chinos dono M, 4000 total",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "linen shirt",
+      "category": "top",
+      "color": null,
+      "size": "M",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     },
+     {
+      "query_terms": "chinos",
+      "category": "bottom",
+      "color": null,
+      "size": "M",
+      "size_system": "waist_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "total",
+    "total_max_inr": 4000,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 500,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 31,
+   "text": "show me hoodies",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "hoodie",
+      "category": "outerwear",
+      "color": null,
+      "size": null,
+      "size_system": "unknown",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 280,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 32,
+   "text": "olive bomber jacket XL men under 3500",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "bomber jacket",
+      "category": "outerwear",
+      "color": "olive",
+      "size": "XL",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 3500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 313,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 33,
+   "text": "yellow saree for wedding under 5k",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "saree",
+      "category": "ethnic",
+      "color": "yellow",
+      "size": null,
+      "size_system": "unknown",
+      "gender": "women",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 5000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 407,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 34,
+   "text": "black blazer 40 men under 4000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "blazer",
+      "category": "outerwear",
+      "color": "black",
+      "size": "40",
+      "size_system": "unknown",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 4000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 358,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 35,
+   "text": "white sneakers",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "sneakers",
+      "category": "not_fashion",
+      "color": "white",
+      "size": null,
+      "size_system": "unknown",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 391,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 36,
+   "text": "cream ethnic kurta set for men, L, 2.5k",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "kurta set",
+      "category": "ethnic",
+      "color": "cream",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 389,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 37,
+   "text": "ek kala hoodie chahiye XL mein, 1200 se kam",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "hoodie",
+      "category": "outerwear",
+      "color": "black",
+      "size": "XL",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1200
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 467,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 38,
+   "text": "safed kurta L 999",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "kurta",
+      "category": "ethnic",
+      "color": "white",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 999
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 452,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 39,
+   "text": "neeli jeans 34 waist 1500 tak",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "jeans",
+      "category": "bottom",
+      "color": "blue",
+      "size": "34",
+      "size_system": "waist_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 422,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 40,
+   "text": "grey trackpants L and black tshirt L, under 800 each",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "trackpants",
+      "category": "bottom",
+      "color": "grey",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 800
+     },
+     {
+      "query_terms": "tshirt",
+      "category": "top",
+      "color": "black",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 800
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 422,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 41,
+   "text": "women's black leggings M under 600",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "leggings",
+      "category": "bottom",
+      "color": "black",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": "women",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 600
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 297,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 42,
+   "text": "gym tshirt men L under 700",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "gym t-shirt",
+      "category": "top",
+      "color": null,
+      "size": "L",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 700
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 391,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 43,
+   "text": "navy blue suit men 40 under 10000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "suit",
+      "category": "outerwear",
+      "color": "navy",
+      "size": "40",
+      "size_system": "chest_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 10000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 311,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 44,
+   "text": "lavender shirt slim fit M men 1800",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "shirt",
+      "category": "top",
+      "color": "lavender",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": "slim fit",
+      "quantity": 1,
+      "max_price_inr": 1800
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 375,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 45,
+   "text": "white formal shirt 38 and black trousers 32, both under 1500",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "formal shirt",
+      "category": "top",
+      "color": "white",
+      "size": "38",
+      "size_system": "chest_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     },
+     {
+      "query_terms": "trousers",
+      "category": "bottom",
+      "color": "black",
+      "size": "32",
+      "size_system": "waist_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 547,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 46,
+   "text": "hoodie under 2k each, one grey one black, size M",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "hoodie",
+      "category": "outerwear",
+      "color": "grey",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     },
+     {
+      "query_terms": "hoodie",
+      "category": "outerwear",
+      "color": "black",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 2000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 500,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 47,
+   "text": "blue denim shirt M",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "denim shirt",
+      "category": "top",
+      "color": "blue",
+      "size": "M",
+      "size_system": "alpha",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 389,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 48,
+   "text": "maroon lehenga for my wife under 8000",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "lehenga",
+      "category": "ethnic",
+      "color": "maroon",
+      "size": null,
+      "size_system": "unknown",
+      "gender": "women",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 8000
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 391,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 49,
+   "text": "shorts 30",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "shorts",
+      "category": "bottom",
+      "color": null,
+      "size": "30",
+      "size_system": "waist_in",
+      "gender": null,
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": null
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 313,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true
+     ],
+     "col": [
+      true
+     ],
+     "size": [
+      true
+     ],
+     "g": [
+      true
+     ],
+     "cap": [
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  },
+  {
+   "id": 50,
+   "text": "beige chinos 34 and white shirt L for men under 1500 each",
+   "spec": {
+    "items": [
+     {
+      "query_terms": "chino",
+      "category": "bottom",
+      "color": "beige",
+      "size": "34",
+      "size_system": "waist_in",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     },
+     {
+      "query_terms": "shirt",
+      "category": "top",
+      "color": "white",
+      "size": "L",
+      "size_system": "alpha",
+      "gender": "men",
+      "fit": null,
+      "quantity": 1,
+      "max_price_inr": 1500
+     }
+    ],
+    "budget_type": "each",
+    "total_max_inr": null,
+    "ambiguities": []
+   },
+   "attempts": 1,
+   "latency_ms": 516,
+   "grade": {
+    "fields": {
+     "item_count": [
+      true
+     ],
+     "cat": [
+      true,
+      true
+     ],
+     "col": [
+      true,
+      true
+     ],
+     "size": [
+      true,
+      true
+     ],
+     "g": [
+      true,
+      true
+     ],
+     "cap": [
+      true,
+      true
+     ],
+     "budget_type": [
+      true
+     ],
+     "total_max_inr": [
+      true
+     ],
+     "ambiguous": [
+      true
+     ]
+    },
+    "notes": [],
+    "exact": true,
+    "asked": false
+   }
+  }
+ ]
+}
