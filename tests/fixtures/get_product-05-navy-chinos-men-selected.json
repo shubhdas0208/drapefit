@@ -1,0 +1,314 @@
+{
+ "jsonrpc": "2.0",
+ "id": 4,
+ "result": {
+  "structuredContent": {
+   "ucp": {
+    "version": "2026-08-25",
+    "capabilities": {
+     "dev.ucp.shopping.catalog.search": [
+      {
+       "version": "2026-08-25",
+       "spec": "https://ucp.dev/2026-08-25/specification/shopping/catalog/",
+       "schema": "https://ucp.dev/2026-08-25/schemas/shopping/catalog_search.json"
+      }
+     ],
+     "dev.ucp.shopping.catalog.lookup": [
+      {
+       "version": "2026-08-25",
+       "spec": "https://ucp.dev/2026-08-25/specification/shopping/catalog/",
+       "schema": "https://ucp.dev/2026-08-25/schemas/shopping/catalog_lookup.json"
+      }
+     ],
+     "dev.shopify.catalog.global": [
+      {
+       "version": "2026-08-25",
+       "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+       "schema": "https://shopify.dev/ucp/schemas/2026-08-25/shopify_catalog_global.json",
+       "extends": [
+        "dev.ucp.shopping.catalog.search",
+        "dev.ucp.shopping.catalog.lookup"
+       ],
+       "requires": {
+        "protocol": {
+         "min": "2026-08-25"
+        }
+       }
+      }
+     ]
+    },
+    "status": "success"
+   },
+   "product": {
+    "id": "gid://shopify/p/2bubLyGAKY5LsPkkR65qiD",
+    "title": "Men's Navy Blue Regular Fit Solid Casual Chinos",
+    "description": {
+     "plain": "<strong>Color:</strong> Navy Blue<br><strong>Fabric:</strong> Cotton Blend<br><strong>Fit:</strong> Regular Fit<br><strong>Pattern:</strong> Solid<br><strong>Occasion:</strong> Casual<br><strong>Length:</strong> Full Length<br><strong>Number of Pockets:</strong> 4<br><strong>Number of Items:</strong> 1<br><strong>Wash Care:</strong> Machine Wash<br><strong>Closure:</strong> Button and Zip<br><strong>Waist Rise:</strong> Mid-Rise<br><strong>Usage:</strong> Casual"
+    },
+    "handle": "men-s-navy-blue-regular-fit-solid-casual-chinos-1125-metchn02-09",
+    "rating": {
+     "value": 4.5,
+     "scale_min": 1,
+     "scale_max": 5,
+     "count": 24
+    },
+    "media": [
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9247592841432.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 1",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9247592841432.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_1_dd72156a-19c5-4a01-bfb3-7da16b3c065a.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 2",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_1_dd72156a-19c5-4a01-bfb3-7da16b3c065a.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_2_771e8e8b-7090-44aa-87bd-d4f793e0d1c8.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 3",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_2_771e8e8b-7090-44aa-87bd-d4f793e0d1c8.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_3_f9dc7d6a-7533-47f0-9ff9-ff475de94fc1.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 4",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_3_f9dc7d6a-7533-47f0-9ff9-ff475de94fc1.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_4_f9b039de-02b0-4983-9427-9c802d1e1721.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 5",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_4_f9b039de-02b0-4983-9427-9c802d1e1721.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_5_1c0566da-bb36-4d65-9ab0-92b1973e18b8.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 6",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_5_1c0566da-bb36-4d65-9ab0-92b1973e18b8.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_6_898367e8-a0be-41b1-a196-87a9b8a86b96.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 7",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_6_898367e8-a0be-41b1-a196-87a9b8a86b96.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_7_b9a7ffec-1dc1-4853-9506-eab1f18212d4.jpg",
+      "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 8",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1125-METCHN02-09_7_b9a7ffec-1dc1-4853-9506-eab1f18212d4.jpg",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     }
+    ],
+    "options": [
+     {
+      "name": "Size",
+      "values": [
+       {
+        "label": "28",
+        "available": true,
+        "exists": true
+       },
+       {
+        "label": "30",
+        "available": true,
+        "exists": true
+       },
+       {
+        "label": "32",
+        "available": true,
+        "exists": true
+       },
+       {
+        "label": "34",
+        "available": true,
+        "exists": true
+       }
+      ]
+     },
+     {
+      "name": "Color",
+      "values": [
+       {
+        "label": "Navy Blue",
+        "available": true,
+        "exists": true,
+        "swatch": {
+         "image_url": "https://cdn.shopify.com/s/files/1/d/f6c8/0614/0903/4456/files/IG_calloutV_9247592841432.jpg"
+        }
+       }
+      ]
+     }
+    ],
+    "metadata": {
+     "unique_selling_points": [
+      "Solid navy blue regular fit chinos with a mid-rise waist and four-pocket design."
+     ],
+     "top_features": [
+      "Regular fit provides a classic, versatile silhouette for daily wear",
+      "Solid navy blue color offers timeless style suitable for any occasion",
+      "Cotton blend fabric ensures comfort and breathability",
+      "Mid-rise waist delivers a flattering and comfortable fit",
+      "Four-pocket design adds practicality for everyday use"
+     ],
+     "tech_specs": [
+      "Material: Cotton blend",
+      "Color: Navy blue",
+      "Fit: Regular",
+      "Pattern: Solid",
+      "Waist Rise: Mid",
+      "Length: Full length",
+      "Closure: Button and zip",
+      "Number of Pockets: 4"
+     ]
+    },
+    "variants": [
+     {
+      "id": "gid://shopify/ProductVariant/51687695646936",
+      "title": "Men's Navy Blue Regular Fit Solid Casual Chinos",
+      "description": {
+       "plain": "<strong>Color:</strong> Navy Blue<br><strong>Fabric:</strong> Cotton Blend<br><strong>Fit:</strong> Regular Fit<br><strong>Pattern:</strong> Solid<br><strong>Occasion:</strong> Casual<br><strong>Length:</strong> Full Length<br><strong>Number of Pockets:</strong> 4<br><strong>Number of Items:</strong> 1<br><strong>Wash Care:</strong> Machine Wash<br><strong>Closure:</strong> Button and Zip<br><strong>Waist Rise:</strong> Mid-Rise<br><strong>Usage:</strong> Casual"
+      },
+      "handle": "men-s-navy-blue-regular-fit-solid-casual-chinos-1125-metchn02-09",
+      "url": "https://tigc.in/products/men-s-navy-blue-regular-fit-solid-casual-chinos-1125-metchn02-09?variant=51687695646936&_gsid=35eB8ooHRHcH&utm_source=shopify&utm_medium=catalog",
+      "price": {
+       "amount": 128900,
+       "currency": "INR"
+      },
+      "list_price": {
+       "amount": 304900,
+       "currency": "INR"
+      },
+      "availability": {
+       "available": true
+      },
+      "options": [
+       {
+        "name": "Color",
+        "label": "Navy Blue"
+       },
+       {
+        "name": "Size",
+        "label": "30"
+       }
+      ],
+      "media": [
+       {
+        "type": "image",
+        "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9247592841432.jpg",
+        "alt_text": "Men's Navy Blue Regular Fit Solid Casual Chinos – Indian Garage – view 1",
+        "preview": {
+         "url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9247592841432.jpg",
+         "width": 1080,
+         "height": 1440
+        },
+        "width": 1080,
+        "height": 1440
+       }
+      ],
+      "seller": {
+       "id": "gid://shopify/Shop/61409034456",
+       "name": "TIGC",
+       "url": "https://tigc.in",
+       "domain": "the-indian-garage.myshopify.com",
+       "links": [
+        {
+         "type": "privacy_policy",
+         "url": "https://checkout.shopify.com/61409034456/policies/26179338456.html"
+        },
+        {
+         "type": "terms_of_service",
+         "url": "https://checkout.shopify.com/61409034456/policies/26179371224.html"
+        },
+        {
+         "type": "refund_policy",
+         "url": "https://checkout.shopify.com/61409034456/policies/26179305688.html"
+        }
+       ]
+      },
+      "checkout_url": "https://tigc.in/buy/51687695646936:1?ucp/version=2026-08-25&attribution/utm_source=shopify&attribution/utm_medium=catalog&attribution/click_id_tag=_gsid&attribution/click_id_value=35eB8ooHRHcH&_gsid=35eB8ooHRHcH",
+      "rating": {
+       "value": 3.0,
+       "scale_min": 1,
+       "scale_max": 5,
+       "count": 5
+      },
+      "condition": [
+       "new"
+      ],
+      "eligible": {
+       "native_checkout": false
+      },
+      "source": "shopify"
+     }
+    ],
+    "price_range": {
+     "min": {
+      "amount": 128900,
+      "currency": "INR"
+     },
+     "max": {
+      "amount": 128900,
+      "currency": "INR"
+     }
+    },
+    "selected": [
+     {
+      "name": "Size",
+      "label": "30"
+     }
+    ]
+   }
+  }
+ }
+}

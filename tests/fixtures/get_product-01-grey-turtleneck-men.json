@@ -1,0 +1,325 @@
+{
+ "jsonrpc": "2.0",
+ "id": 1,
+ "result": {
+  "structuredContent": {
+   "ucp": {
+    "version": "2026-08-25",
+    "capabilities": {
+     "dev.ucp.shopping.catalog.search": [
+      {
+       "version": "2026-08-25",
+       "spec": "https://ucp.dev/2026-08-25/specification/shopping/catalog/",
+       "schema": "https://ucp.dev/2026-08-25/schemas/shopping/catalog_search.json"
+      }
+     ],
+     "dev.ucp.shopping.catalog.lookup": [
+      {
+       "version": "2026-08-25",
+       "spec": "https://ucp.dev/2026-08-25/specification/shopping/catalog/",
+       "schema": "https://ucp.dev/2026-08-25/schemas/shopping/catalog_lookup.json"
+      }
+     ],
+     "dev.shopify.catalog.global": [
+      {
+       "version": "2026-08-25",
+       "spec": "https://shopify.dev/docs/agents/catalog/global-catalog",
+       "schema": "https://shopify.dev/ucp/schemas/2026-08-25/shopify_catalog_global.json",
+       "extends": [
+        "dev.ucp.shopping.catalog.search",
+        "dev.ucp.shopping.catalog.lookup"
+       ],
+       "requires": {
+        "protocol": {
+         "min": "2026-08-25"
+        }
+       }
+      }
+     ]
+    },
+    "status": "success"
+   },
+   "product": {
+    "id": "gid://shopify/p/3NTjJTWy9vK0iPzcpR6zn8",
+    "title": "Men’s Light Grey Merino Wool Turtle Neck Sweater – Refined Everyday Knit for Work, Travel & Winter Comfort",
+    "description": {
+     "plain": "<p>✳️ Product Overview\n<br>A symbol of understated class, this 98 Degree North light grey Merino sweater offers subtle sophistication for everyday wear. The fine wool construction ensures light warmth and exceptional softness — a versatile addition to your refined wardrobe.</p>\n\n<p>🌤 USP</p>\n\n<p>Light-grey tone perfect for mix-and-match looks</p>\n\n<p>Anti-odor, breathable Merino fibers</p>\n\n<p>Minimal aesthetic with 98 Degree North’s premium tailoring</p>\n\n<p>Easy to maintain and travel-friendly</p>\n\n<p>👔 Styling\n<br>Pair with navy trousers for work or dark denim for smart casual outings.</p>\n\n<p>👨‍💼 Target Audience\n<br>Men who appreciate 98 Degree North’s attention to detail and timeless design for urban living.</p>\n\n<p>🧵 Fabric &amp; Fit</p>\n\n<p>100% Merino wool</p>\n\n<p>Regular fit</p>\n\n<p>Ribbed hems</p>\n\n<p>📦 Highlights</p>\n\n<p>Wrinkle-free</p>\n\n<p>Soft, feather-light warmth</p>\n\n<p>Seasonless comfort</p>\n\n<p>🌍 SEO Keywords\n<br>men’s light grey sweater India, 98 Degree North turtle neck, winter pullover knitwear</p>"
+    },
+    "handle": "men-s-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-knit-for-work-travel-winter-comfort",
+    "rating": {
+     "value": 4.7,
+     "scale_min": 1,
+     "scale_max": 5,
+     "count": 103
+    },
+    "media": [
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-837.webp",
+      "alt_text": "A man in a 98degreenorth Light Grey Merino Wool Turtle Neck holds a tan coat while standing on a city street.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-837.webp",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-935.webp",
+      "alt_text": "A man wears a 98degreenorth Men's Light Grey Merino Wool Turtle Neck Sweater against a light gray background.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-935.webp",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-320.webp",
+      "alt_text": "A man in a 98degreenorth Men’s Light Grey Merino Wool Turtle Neck Sweater and dark jeans stands against a plain background.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-320.webp",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-835.webp",
+      "alt_text": "A man in a 98degreenorth light grey merino wool turtle neck sweater and dark jeans stands against a plain background.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-835.webp",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-212.webp",
+      "alt_text": "A man in a 98degreenorth Light Grey Merino Wool Turtle Neck walks a wet, foggy street with a tan coat, lights aglow behind.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-212.webp",
+       "width": 864,
+       "height": 1184
+      },
+      "width": 864,
+      "height": 1184
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-110.webp",
+      "alt_text": "A man wears a 98degreenorth Men’s Light Grey Merino Wool Turtle Neck Sweater against a light background.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-110.webp",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-214.webp",
+      "alt_text": "Man wears 98degreenorth Men’s Light Grey Merino Wool Turtle Neck Sweater with dark jeans, back to camera.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-214.webp",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     },
+     {
+      "type": "image",
+      "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-553.webp",
+      "alt_text": "Man in 98degreenorth Light Grey Merino Wool Turtle Neck Sweater—refined winter knitwear for work or travel.",
+      "preview": {
+       "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-553.webp",
+       "width": 1080,
+       "height": 1440
+      },
+      "width": 1080,
+      "height": 1440
+     }
+    ],
+    "options": [
+     {
+      "name": "Size",
+      "values": [
+       {
+        "label": "S",
+        "available": true,
+        "exists": true
+       },
+       {
+        "label": "M",
+        "available": true,
+        "exists": true
+       },
+       {
+        "label": "L",
+        "available": true,
+        "exists": true
+       },
+       {
+        "label": "XL",
+        "available": true,
+        "exists": true
+       },
+       {
+        "label": "2XL",
+        "available": true,
+        "exists": true
+       }
+      ]
+     },
+     {
+      "name": "Color",
+      "values": [
+       {
+        "label": "Light Grey",
+        "available": true,
+        "exists": true,
+        "swatch": {
+         "image_url": "https://cdn.shopify.com/s/files/1/d/4541/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-837.webp"
+        }
+       }
+      ]
+     }
+    ],
+    "metadata": {
+     "unique_selling_points": [
+      "Crafted from 100% merino wool with a subtle, versatile light grey tone and premium tailoring for effortless style and comfort."
+     ],
+     "top_features": [
+      "100% merino wool construction provides natural softness and breathability for all-day comfort",
+      "Anti-odor properties keep the sweater fresh during extended wear",
+      "Wrinkle-free and easy-care fabric ensures effortless maintenance and travel convenience",
+      "Turtle neck design offers a modern, minimal aesthetic suitable for work and casual outings",
+      "Light grey color is versatile for mix-and-match styling"
+     ],
+     "tech_specs": [
+      "Material: 100% merino wool",
+      "Color: Light grey",
+      "Fit: Regular",
+      "Neckline: Turtle",
+      "Pattern: Solid",
+      "Available sizes: S, M, L, XL, XXL"
+     ]
+    },
+    "variants": [
+     {
+      "id": "gid://shopify/ProductVariant/43297406451847",
+      "title": "Men’s Light Grey Merino Wool Turtle Neck Sweater – Refined Everyday Knit for Work, Travel & Winter Comfort",
+      "description": {
+       "plain": "<p>✳️ Product Overview\n<br>A symbol of understated class, this 98 Degree North light grey Merino sweater offers subtle sophistication for everyday wear. The fine wool construction ensures light warmth and exceptional softness — a versatile addition to your refined wardrobe.</p>\n\n<p>🌤 USP</p>\n\n<p>Light-grey tone perfect for mix-and-match looks</p>\n\n<p>Anti-odor, breathable Merino fibers</p>\n\n<p>Minimal aesthetic with 98 Degree North’s premium tailoring</p>\n\n<p>Easy to maintain and travel-friendly</p>\n\n<p>👔 Styling\n<br>Pair with navy trousers for work or dark denim for smart casual outings.</p>\n\n<p>👨‍💼 Target Audience\n<br>Men who appreciate 98 Degree North’s attention to detail and timeless design for urban living.</p>\n\n<p>🧵 Fabric &amp; Fit</p>\n\n<p>100% Merino wool</p>\n\n<p>Regular fit</p>\n\n<p>Ribbed hems</p>\n\n<p>📦 Highlights</p>\n\n<p>Wrinkle-free</p>\n\n<p>Soft, feather-light warmth</p>\n\n<p>Seasonless comfort</p>\n\n<p>🌍 SEO Keywords\n<br>men’s light grey sweater India, 98 Degree North turtle neck, winter pullover knitwear</p>"
+      },
+      "handle": "men-s-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-knit-for-work-travel-winter-comfort",
+      "url": "https://98degreenorth.com/products/men-s-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-knit-for-work-travel-winter-comfort?variant=43297406451847&_gsid=E6jeQe64BhYY&utm_source=shopify&utm_medium=catalog",
+      "price": {
+       "amount": 149800,
+       "currency": "INR"
+      },
+      "list_price": {
+       "amount": 319900,
+       "currency": "INR"
+      },
+      "availability": {
+       "available": true
+      },
+      "options": [
+       {
+        "name": "Color",
+        "label": "Light Grey"
+       },
+       {
+        "name": "Size",
+        "label": "S"
+       }
+      ],
+      "media": [
+       {
+        "type": "image",
+        "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-837.webp",
+        "alt_text": "A man in a 98degreenorth Light Grey Merino Wool Turtle Neck holds a tan coat while standing on a city street.",
+        "preview": {
+         "url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-837.webp",
+         "width": 1080,
+         "height": 1440
+        },
+        "width": 1080,
+        "height": 1440
+       }
+      ],
+      "seller": {
+       "id": "gid://shopify/Shop/60851781767",
+       "name": "98degreenorth",
+       "url": "https://98degreenorth.com",
+       "domain": "900e57-84.myshopify.com",
+       "links": [
+        {
+         "type": "privacy_policy",
+         "url": "https://checkout.shopify.com/60851781767/policies/47664562311.html"
+        },
+        {
+         "type": "terms_of_service",
+         "url": "https://checkout.shopify.com/60851781767/policies/47664595079.html"
+        },
+        {
+         "type": "refund_policy",
+         "url": "https://checkout.shopify.com/60851781767/policies/47664529543.html"
+        },
+        {
+         "type": "shipping_policy",
+         "url": "https://checkout.shopify.com/60851781767/policies/47664627847.html"
+        }
+       ]
+      },
+      "checkout_url": "https://98degreenorth.com/buy/43297406451847:1?ucp/version=2026-08-25&attribution/utm_source=shopify&attribution/utm_medium=catalog&attribution/click_id_tag=_gsid&attribution/click_id_value=E6jeQe64BhYY&_gsid=E6jeQe64BhYY",
+      "rating": {
+       "value": 4.0,
+       "scale_min": 1,
+       "scale_max": 5,
+       "count": 1
+      },
+      "condition": [
+       "new"
+      ],
+      "eligible": {
+       "native_checkout": false
+      },
+      "source": "shopify"
+     }
+    ],
+    "price_range": {
+     "min": {
+      "amount": 149800,
+      "currency": "INR"
+     },
+     "max": {
+      "amount": 149800,
+      "currency": "INR"
+     }
+    },
+    "selected": [
+     {
+      "name": "Color",
+      "label": "Light Grey"
+     },
+     {
+      "name": "Size",
+      "label": "S"
+     }
+    ]
+   }
+  }
+ }
+}
