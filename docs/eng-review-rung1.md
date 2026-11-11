@@ -140,3 +140,5 @@ Fixtures: the 20 raw responses in `docs/research/spike-01-raw/` plus 3-5 recorde
 
 Skipped to keep moving (user asked for no waiting). Run `/codex review` or a fresh-agent challenge on this file before Rung 2 if you want a second opinion.
 
+## Status (2026-11-11)
+Built. Tasks T1-T8 and T10 are done in code (T8 needs the user's accounts: see `docs/deploy.md`). T9 (self-hosted agent profile) is still open. Outside review: a code-reviewer subagent found 0 critical and 2 high issues, all fixed with regression tests (D45).

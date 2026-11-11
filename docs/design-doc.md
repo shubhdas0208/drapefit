@@ -172,3 +172,9 @@ Rung 1 architecture locked in `docs/eng-review-rung1.md` (decisions D23-D36). Sc
 - Webhook: immediate 200, async task, update_id dedupe, secret_token check, one in-flight search per user.
 - `get_product` in rank order until 5 pass the size check (max 8 per item); results streamed per item.
 
+## Build outcome (2026-11-11)
+Rung 1 built in `src/drapefit/` (decisions D37-D45). 167 tests with 96% coverage, including the grounding gate over all 20 spike queries. The live smoke test returns the canonical request ("grey turtleneck M and blue bell-bottoms waist 32, men, under 2,000 each") as 10 in-size options in ~6 s.
+- Parser: `sarvam-105b-conversations`, json_object mode. Parse eval: 49/50 on the tuning set, **14/15 held out** (target ≥ 90%), p95 under 0.6 s.
+- The catalog price filter accepts INR directly (correction to the spike note).
+- Deploy: `docs/deploy.md`. The user creates the accounts (BotFather, Neon, Render, cron-job.org); `scripts/run_local.py` runs the bot on a laptop with only a BotFather token.
+
