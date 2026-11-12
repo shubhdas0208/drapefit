@@ -29,8 +29,25 @@ FOLLOWUP_DELAY_HOURS = 24  # "did you buy?" ping after checkout links / a click-
 
 
 
+ENV_LOCAL = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), ".env.local")
+
+
+def _read_env_file(name: str, path: str = ENV_LOCAL) -> str | None:
+    """KEY=VALUE lines from .env.local (written by `neon deploy`, gitignored). Values are never logged."""
+    try:
+        with open(path, encoding="utf-8") as handle:
+            for line in handle:
+                key, sep, value = line.strip().partition("=")
+                if sep and key.strip().removeprefix("export ").strip() == name:
+                    return value.strip().strip('"').strip("'") or None
+    except OSError:
+        return None
+    return None
+
+
 def _read_env(name: str) -> str | None:
-    value = os.environ.get(name)
+    """Process env, then .env.local, then (Windows) HKCU\\Environment."""
+    value = os.environ.get(name) or _read_env_file(name)
     if value:
         return value
     try:

@@ -185,3 +185,14 @@ async def test_checkout_link_click_is_logged_as_checkout_clicked(setup):
     assert r.status_code == 302 and r.headers["location"] == "https://brand.example/cart/1:1"
     clicked = [e for e in await store.events_for(42) if e["type"] == "checkout_clicked"]
     assert clicked and clicked[0]["payload"]["host"] == "brand.example"
+
+
+def test_env_local_file_is_read(tmp_path):
+    from drapefit import config
+
+    env = tmp_path / ".env.local"
+    env.write_text('# neon\nexport DATABASE_URL="postgresql://u:p@h/db"\nOTHER=1\nEMPTY=\n', encoding="utf-8")
+    assert config._read_env_file("DATABASE_URL", str(env)) == "postgresql://u:p@h/db"
+    assert config._read_env_file("EMPTY", str(env)) is None
+    assert config._read_env_file("MISSING", str(env)) is None
+    assert config._read_env_file("X", str(tmp_path / "nope")) is None
