@@ -178,3 +178,13 @@ Rung 1 built in `src/drapefit/` (decisions D37-D45). 167 tests with 96% coverage
 - The catalog price filter accepts INR directly (correction to the spike note).
 - Deploy: `docs/deploy.md`. The user creates the accounts (BotFather, Neon, Render, cron-job.org); `scripts/run_local.py` runs the bot on a laptop with only a BotFather token.
 
+## Rung 2 build outcome (2026-11-12)
+
+Built: cart edits in chat, checkout handoff, and "did you buy?" (D47-D54).
+
+- **Cart actions**: a + button under every option, plus text like "add A1 B3", "remove B2", /cart, /checkout, /clear. These are handled in code (no LLM), and work while another item is still searching.
+- **Changing a search**: after results, free text goes to a small classifier (a second Sarvam call, about 0.3 s): "same but black", "show cheaper", "jeans in 34", "remove the jeans", "kuch sasta dikhao". Code applies the change and re-searches only the affected item. "Cheaper" = below the cheapest option shown, computed in code.
+- **Checkout**: the cart is grouped by brand, every line's stock and price are re-checked live, and the user gets one "Pay on <brand> · ₹X" button per brand linking to a Shopify cart permalink. Price changes are flagged; sold-out lines are removed and named.
+- **Did you buy?**: 24 h after checkout links are sent or a product link is clicked, one message asks: "Bought from <brand>" per brand / "Didn't buy" (then: why?) / "Not yet" (asks once more).
+- **New metrics in the event log**: cart_add, cart_remove, checkout_built, checkout_sent, checkout_clicked, followup_sent, purchase_reported, purchase_declined, purchase_blocker (reason), purchase_later, follow_up_classified, refined.
+- Not built: UCP checkout sessions (no merchant supports native checkout), "More" button, quantity edits after adding.
