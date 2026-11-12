@@ -1,0 +1,39 @@
+{"id": 1, "ctx": "two", "text": "same but black", "expect": {"action": "refine", "items": [], "changes": {"color": "black"}}}
+{"id": 2, "ctx": "two", "text": "show the jeans in black", "expect": {"action": "refine", "items": ["B"], "changes": {"color": "black"}}}
+{"id": 3, "ctx": "one", "text": "show cheaper", "expect": {"action": "refine", "changes": {"cheaper": true}}}
+{"id": 4, "ctx": "two", "text": "kuch sasta dikhao", "expect": {"action": "refine", "items": [], "changes": {"cheaper": true}}}
+{"id": 5, "ctx": "two", "text": "turtleneck under 1500", "expect": {"action": "refine", "items": ["A"], "changes": {"max_price_inr": 1500}}}
+{"id": 6, "ctx": "one", "text": "in L instead", "expect": {"action": "refine", "changes": {"size": "L"}}}
+{"id": 7, "ctx": "two", "text": "jeans in 34", "expect": {"action": "refine", "items": ["B"], "changes": {"size": "34"}}}
+{"id": 8, "ctx": "one", "text": "kala nahi, sleti wala dikhao", "expect": {"action": "refine", "changes": {"color": "grey"}}}
+{"id": 9, "ctx": "two", "text": "cheaper jeans please", "expect": {"action": "refine", "items": ["B"], "changes": {"cheaper": true}}}
+{"id": 10, "ctx": "one", "text": "make it a sweatshirt", "expect": {"action": "refine", "changes": {"query_terms": "sweatshirt"}}}
+{"id": 11, "ctx": "two", "text": "I'll take A2", "expect": {"action": "add", "labels": ["A2"]}}
+{"id": 12, "ctx": "two", "text": "B3 wala lelo", "expect": {"action": "add", "labels": ["B3"]}}
+{"id": 13, "ctx": "one", "text": "I like the second one, add it", "expect": {"action": "add", "labels": ["A2"]}}
+{"id": 14, "ctx": "two", "text": "put A1 and B4 in my bag", "expect": {"action": "add", "labels": ["A1", "B4"]}}
+{"id": 15, "ctx": "two_cart", "text": "remove the jeans", "expect": {"action": "remove", "items": ["B"]}}
+{"id": 16, "ctx": "two_cart", "text": "A1 nahi chahiye", "expect": {"action": "remove", "labels": ["A1"]}}
+{"id": 17, "ctx": "two_cart", "text": "take out the turtleneck from cart", "expect": {"action": "remove", "items": ["A"]}}
+{"id": 18, "ctx": "two_cart", "text": "what's in my cart?", "expect": {"action": "show_cart"}}
+{"id": 19, "ctx": "kurti", "text": "cart dikhao", "expect": {"action": "show_cart"}}
+{"id": 20, "ctx": "two_cart", "text": "ok let's buy these", "expect": {"action": "checkout"}}
+{"id": 21, "ctx": "kurti", "text": "I want to pay now", "expect": {"action": "checkout"}}
+{"id": 22, "ctx": "two_cart", "text": "done, checkout karo", "expect": {"action": "checkout"}}
+{"id": 23, "ctx": "two", "text": "also need a white linen shirt L", "expect": {"action": "new_search"}}
+{"id": 24, "ctx": "one", "text": "now show me kurtas for my mom", "expect": {"action": "new_search"}}
+{"id": 25, "ctx": "kurti", "text": "black saree under 3000", "expect": {"action": "new_search"}}
+{"id": 26, "ctx": "two", "text": "thanks!", "expect": {"action": "other"}}
+{"id": 27, "ctx": "two", "text": "do you deliver to Pune?", "expect": {"action": "other"}}
+{"id": 28, "ctx": "one", "text": "what is the return policy", "expect": {"action": "other"}}
+{"id": 29, "ctx": "kurti", "text": "hi", "expect": {"action": "other"}}
+{"id": 30, "ctx": "two", "text": "turtleneck in navy and jeans in black", "expect": {"action": "refine", "items": ["A", "B"]}}
+{"id": 31, "ctx": "kurti", "text": "same kurti but in pink", "expect": {"action": "refine", "changes": {"color": "pink"}}}
+{"id": 32, "ctx": "kurti", "text": "1000 ke andar dikhao", "expect": {"action": "refine", "changes": {"max_price_inr": 1000}}}
+{"id": 33, "ctx": "one", "text": "slim fit wala", "expect": {"action": "refine", "changes": {"fit": "slim"}}}
+{"id": 34, "ctx": "two", "text": "neela turtleneck", "expect": {"action": "refine", "items": ["A"], "changes": {"color": "blue"}}}
+{"id": 35, "ctx": "one", "text": "these are too expensive", "expect": {"action": "refine", "changes": {"cheaper": true}}}
+{"id": 36, "ctx": "two", "text": "A6", "expect": {"action": "other"}}
+{"id": 38, "ctx": "one", "text": "XXL hai kya?", "expect": {"action": "refine", "changes": {"size": "XXL"}}}
+{"id": 39, "ctx": "two", "text": "women's version of the turtleneck", "expect": {"action": "refine", "items": ["A"], "changes": {"gender": "women"}}}
+{"id": 37, "ctx": "kurti", "text": "add A3 too", "expect": {"action": "add", "labels": ["A3"]}}

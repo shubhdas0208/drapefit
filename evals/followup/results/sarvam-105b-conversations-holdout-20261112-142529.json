@@ -1,0 +1,314 @@
+{
+ "model": "sarvam-105b-conversations",
+ "cases": 12,
+ "action_accuracy": 1.0,
+ "exact_match": 1.0,
+ "failures_count": 0,
+ "latency_ms_p50": 311,
+ "latency_ms_p95": 422,
+ "misses": [],
+ "rows": [
+  {
+   "id": 101,
+   "text": "jeans thoda sasta",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "B"
+    ],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": true
+    }
+   },
+   "latency_ms": 390,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 102,
+   "text": "same hoodie in white",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": "white",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 405,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 103,
+   "text": "turtleneck in size L",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": null,
+     "size": "L",
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 422,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 104,
+   "text": "lemme get B1",
+   "got": {
+    "action": "add",
+    "labels": [
+     "B1"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 422,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 105,
+   "text": "first wala add karo",
+   "got": {
+    "action": "add",
+    "labels": [
+     "A1"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 311,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 106,
+   "text": "remove B2",
+   "got": {
+    "action": "remove",
+    "labels": [
+     "B2"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 313,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 107,
+   "text": "bas itna hi, payment karna hai",
+   "got": {
+    "action": "checkout",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 250,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 108,
+   "text": "also show joggers in M",
+   "got": {
+    "action": "new_search",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": "M",
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 250,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 109,
+   "text": "is COD available?",
+   "got": {
+    "action": "other",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 235,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 110,
+   "text": "under 800 please",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": 800,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 296,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 111,
+   "text": "show me what I've added",
+   "got": {
+    "action": "show_cart",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 296,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 112,
+   "text": "laal wala hai?",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": "red",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 297,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  }
+ ]
+}

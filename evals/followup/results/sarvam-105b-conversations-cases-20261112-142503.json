@@ -1,0 +1,1005 @@
+{
+ "model": "sarvam-105b-conversations",
+ "cases": 39,
+ "action_accuracy": 1.0,
+ "exact_match": 0.9487179487179487,
+ "failures_count": 0,
+ "latency_ms_p50": 311,
+ "latency_ms_p95": 390,
+ "misses": [
+  {
+   "id": 17,
+   "text": "take out the turtleneck from cart",
+   "notes": [
+    "items [] != ['A']"
+   ]
+  },
+  {
+   "id": 39,
+   "text": "women's version of the turtleneck",
+   "notes": [
+    "invented query_terms=\"women's\""
+   ]
+  }
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "text": "same but black",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": "black",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 389,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 2,
+   "text": "show the jeans in black",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "B"
+    ],
+    "changes": {
+     "color": "black",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 343,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 3,
+   "text": "show cheaper",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": true
+    }
+   },
+   "latency_ms": 390,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 4,
+   "text": "kuch sasta dikhao",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": true
+    }
+   },
+   "latency_ms": 360,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 5,
+   "text": "turtleneck under 1500",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": 1500,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 266,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 6,
+   "text": "in L instead",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": null,
+     "size": "L",
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 250,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 7,
+   "text": "jeans in 34",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "B"
+    ],
+    "changes": {
+     "color": null,
+     "size": "34",
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 389,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 8,
+   "text": "kala nahi, sleti wala dikhao",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": "grey",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 375,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 9,
+   "text": "cheaper jeans please",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "B"
+    ],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": true
+    }
+   },
+   "latency_ms": 360,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 10,
+   "text": "make it a sweatshirt",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": "sweatshirt",
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 327,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 11,
+   "text": "I'll take A2",
+   "got": {
+    "action": "add",
+    "labels": [
+     "A2"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 297,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 12,
+   "text": "B3 wala lelo",
+   "got": {
+    "action": "add",
+    "labels": [
+     "B3"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 250,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 13,
+   "text": "I like the second one, add it",
+   "got": {
+    "action": "add",
+    "labels": [
+     "A2"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 390,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 14,
+   "text": "put A1 and B4 in my bag",
+   "got": {
+    "action": "add",
+    "labels": [
+     "A1",
+     "B4"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 250,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 15,
+   "text": "remove the jeans",
+   "got": {
+    "action": "remove",
+    "labels": [],
+    "items": [
+     "B"
+    ],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 265,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 16,
+   "text": "A1 nahi chahiye",
+   "got": {
+    "action": "remove",
+    "labels": [
+     "A1"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 265,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 17,
+   "text": "take out the turtleneck from cart",
+   "got": {
+    "action": "remove",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 234,
+   "grade": {
+    "exact": false,
+    "action_ok": true,
+    "notes": [
+     "items [] != ['A']"
+    ]
+   }
+  },
+  {
+   "id": 18,
+   "text": "what's in my cart?",
+   "got": {
+    "action": "show_cart",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 311,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 19,
+   "text": "cart dikhao",
+   "got": {
+    "action": "show_cart",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 405,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 20,
+   "text": "ok let's buy these",
+   "got": {
+    "action": "checkout",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 296,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 21,
+   "text": "I want to pay now",
+   "got": {
+    "action": "checkout",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 311,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 22,
+   "text": "done, checkout karo",
+   "got": {
+    "action": "checkout",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 375,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 23,
+   "text": "also need a white linen shirt L",
+   "got": {
+    "action": "new_search",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": "L",
+     "query_terms": "white linen shirt",
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 375,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 24,
+   "text": "now show me kurtas for my mom",
+   "got": {
+    "action": "new_search",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": "kurtas for my mom",
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 313,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 25,
+   "text": "black saree under 3000",
+   "got": {
+    "action": "new_search",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": 3000,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 313,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 26,
+   "text": "thanks!",
+   "got": {
+    "action": "other",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 235,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 27,
+   "text": "do you deliver to Pune?",
+   "got": {
+    "action": "other",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 265,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 28,
+   "text": "what is the return policy",
+   "got": {
+    "action": "other",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 328,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 29,
+   "text": "hi",
+   "got": {
+    "action": "other",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 297,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 30,
+   "text": "turtleneck in navy and jeans in black",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A",
+     "B"
+    ],
+    "changes": {
+     "color": "navy",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 264,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 31,
+   "text": "same kurti but in pink",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": "pink",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 359,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 32,
+   "text": "1000 ke andar dikhao",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": 1000,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 280,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 33,
+   "text": "slim fit wala",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": "slim",
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 358,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 34,
+   "text": "neela turtleneck",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": "blue",
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 313,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 35,
+   "text": "these are too expensive",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": true
+    }
+   },
+   "latency_ms": 297,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 36,
+   "text": "A6",
+   "got": {
+    "action": "other",
+    "labels": [],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 297,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 38,
+   "text": "XXL hai kya?",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": null,
+     "size": "XXL",
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 297,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  },
+  {
+   "id": 39,
+   "text": "women's version of the turtleneck",
+   "got": {
+    "action": "refine",
+    "labels": [],
+    "items": [
+     "A"
+    ],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": "women's",
+     "gender": "women",
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 265,
+   "grade": {
+    "exact": false,
+    "action_ok": true,
+    "notes": [
+     "invented query_terms=\"women's\""
+    ]
+   }
+  },
+  {
+   "id": 37,
+   "text": "add A3 too",
+   "got": {
+    "action": "add",
+    "labels": [
+     "A3"
+    ],
+    "items": [],
+    "changes": {
+     "color": null,
+     "size": null,
+     "query_terms": null,
+     "gender": null,
+     "fit": null,
+     "max_price_inr": null,
+     "cheaper": false
+    }
+   },
+   "latency_ms": 281,
+   "grade": {
+    "exact": true,
+    "action_ok": true,
+    "notes": []
+   }
+  }
+ ]
+}

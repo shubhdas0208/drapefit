@@ -1,0 +1,12 @@
+{
+  "two": {"items": [{"query_terms": "turtleneck", "category": "top", "color": "grey", "size": "M", "gender": "men", "max_price_inr": 2000},
+                     {"query_terms": "bell bottom jeans", "category": "bottom", "color": "blue", "size": "32", "gender": "men", "max_price_inr": 2000}],
+          "shown": {"0": ["A1", "A2", "A3", "A4", "A5"], "1": ["B1", "B2", "B3", "B4", "B5"]}, "cart": []},
+  "two_cart": {"items": [{"query_terms": "turtleneck", "category": "top", "color": "grey", "size": "M", "gender": "men", "max_price_inr": 2000},
+                          {"query_terms": "bell bottom jeans", "category": "bottom", "color": "blue", "size": "32", "gender": "men", "max_price_inr": 2000}],
+               "shown": {"0": ["A1", "A2", "A3", "A4", "A5"], "1": ["B1", "B2", "B3", "B4", "B5"]}, "cart": ["A1", "B2"]},
+  "one": {"items": [{"query_terms": "hoodie", "category": "top", "color": "black", "size": "XL", "max_price_inr": 1500}],
+          "shown": {"0": ["A1", "A2", "A3", "A4", "A5"]}, "cart": []},
+  "kurti": {"items": [{"query_terms": "kurti", "category": "ethnic", "color": "white", "size": "M", "gender": "women", "max_price_inr": 1200}],
+            "shown": {"0": ["A1", "A2", "A3"]}, "cart": ["A2"]}
+}

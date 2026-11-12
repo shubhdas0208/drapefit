@@ -1,0 +1,12 @@
+{"id": 101, "ctx": "two", "text": "jeans thoda sasta", "expect": {"action": "refine", "items": ["B"], "changes": {"cheaper": true}}}
+{"id": 102, "ctx": "one", "text": "same hoodie in white", "expect": {"action": "refine", "changes": {"color": "white"}}}
+{"id": 103, "ctx": "two", "text": "turtleneck in size L", "expect": {"action": "refine", "items": ["A"], "changes": {"size": "L"}}}
+{"id": 104, "ctx": "two", "text": "lemme get B1", "expect": {"action": "add", "labels": ["B1"]}}
+{"id": 105, "ctx": "kurti", "text": "first wala add karo", "expect": {"action": "add", "labels": ["A1"]}}
+{"id": 106, "ctx": "two_cart", "text": "remove B2", "expect": {"action": "remove", "labels": ["B2"]}}
+{"id": 107, "ctx": "two_cart", "text": "bas itna hi, payment karna hai", "expect": {"action": "checkout"}}
+{"id": 108, "ctx": "one", "text": "also show joggers in M", "expect": {"action": "new_search"}}
+{"id": 109, "ctx": "two", "text": "is COD available?", "expect": {"action": "other"}}
+{"id": 110, "ctx": "kurti", "text": "under 800 please", "expect": {"action": "refine", "changes": {"max_price_inr": 800}}}
+{"id": 111, "ctx": "two_cart", "text": "show me what I've added", "expect": {"action": "show_cart"}}
+{"id": 112, "ctx": "one", "text": "laal wala hai?", "expect": {"action": "refine", "changes": {"color": "red"}}}
