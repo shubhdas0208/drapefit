@@ -558,3 +558,11 @@ class Store:
             await conn.execute(
                 followups.update().where(followups.c.id == followup_id).values(done=True, answered=True)
             )
+
+    # --- metrics (D64) --------------------------------------------------------------
+
+    async def events_since(self, since: datetime) -> list[dict]:
+        """All events from `since` on, oldest first (read-only, for scripts/report.py)."""
+        async with self._engine.connect() as conn:
+            rows = await conn.execute(sa.select(events).where(events.c.ts >= since).order_by(events.c.id))
+            return [dict(r._mapping) for r in rows]

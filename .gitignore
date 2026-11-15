@@ -18,3 +18,6 @@ node_modules/
 # Raw Shopify catalog responses stay local (API terms: no redistribution). Tests use tests/fixtures/search/.
 docs/research/spike-01-raw/
 docs/research/spike-01-sample-response.json
+
+# Saved metrics reports contain testers' messages: keep them private.
+docs/metrics/

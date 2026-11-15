@@ -78,3 +78,12 @@ Running `run_local.py` later removes the webhook. Re-run this step afterwards. (
 | Neon free | 0.5 GB; compute sleeps when idle | ~1 s extra on the first query after idle |
 | Shopify catalog | 5 req/s per client | Two users searching at once each get slower replies (~8-10 s) |
 | Sarvam | your credit balance | `parsed` events record the model and latency. sarvam-105b-conversations uses ~300 output tokens per parse. |
+
+## Metrics
+
+```
+setx DATABASE_URL "<Neon connection string>"     (once; then open a new terminal)
+.venv\Scripts\python scriptseport.py --days 7 --exclude <your Telegram id>
+.venv\Scripts\python scriptseport.py --save  # keeps a copy in docs/metrics/ (not committed)
+```
+
