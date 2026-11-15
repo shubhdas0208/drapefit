@@ -196,3 +196,12 @@ def test_env_local_file_is_read(tmp_path):
     assert config._read_env_file("EMPTY", str(env)) is None
     assert config._read_env_file("MISSING", str(env)) is None
     assert config._read_env_file("X", str(tmp_path / "nope")) is None
+
+
+def test_public_url_falls_back_to_render_external_url(monkeypatch):
+    from drapefit import config
+
+    env = {n: "x" for n in config.REQUIRED if n != "PUBLIC_BASE_URL"}
+    env["RENDER_EXTERNAL_URL"] = "https://drapefit-abc.onrender.com/"
+    monkeypatch.setattr(config, "_read_env", lambda name: env.get(name))
+    assert config.load_settings().public_base_url == "https://drapefit-abc.onrender.com"

@@ -97,6 +97,9 @@ REQUIRED = (
 
 def load_settings() -> Settings:
     values = {name: _read_env(name) for name in REQUIRED}
+    # Render sets RENDER_EXTERNAL_URL on every web service, so the first deploy works before
+    # anyone copies the URL into PUBLIC_BASE_URL.
+    values["PUBLIC_BASE_URL"] = values["PUBLIC_BASE_URL"] or _read_env("RENDER_EXTERNAL_URL")
     missing = [name for name, value in values.items() if not value]
     if missing:
         raise RuntimeError(f"Missing required environment variables: {', '.join(missing)}")
