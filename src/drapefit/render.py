@@ -6,6 +6,7 @@ catalog API variant objects. tests/test_render.py enforces this as a build gate.
 from __future__ import annotations
 
 import html
+import re
 from dataclasses import dataclass
 from typing import TYPE_CHECKING
 
@@ -311,7 +312,7 @@ WELCOME_TEXT = (
     "<blockquote>Grey turtleneck, size M, and blue jeans, waist 32. Under ₹2,000 each.</blockquote>\n"
     "<b>How it works</b>\n"
     "1. I show 5 in-stock options per item, in your size\n"
-    "2. Tap <b>+</b> to add an option, or ask for <i>cheaper</i> or <i>another colour</i>\n"
+    "2. Tap <b>Add to cart</b> on what you like, or ask for <i>cheaper</i> or <i>another colour</i>\n"
     "3. Check out on each brand's own website\n\n"
     "<i>Prices and stock come live from the brands. I never see your address or payment details.</i>\n\n"
     "<b>Try an example</b>"
@@ -336,7 +337,7 @@ def item_buttons(result_ids: dict[str, int], item_index: int) -> list[list[dict[
 def mark_added(buttons: list[list[dict[str, str]]], callback_data: str, label: str) -> list[list[dict[str, str]]]:
     """Same keyboard, with the tapped "+ A1" shown as "✓ A1". Returns a new structure."""
     return [
-        [{**b, "text": f"✓ Added {label}"} if b.get("callback_data") == callback_data else dict(b) for b in row]
+        [{**b, "text": "✓ In cart"} if b.get("callback_data") == callback_data else dict(b) for b in row]
         for row in buttons
     ]
 
@@ -348,19 +349,62 @@ def progress_text(item_count: int, done: list[str]) -> str:
 
 # --- Photo cards: one message per suggestion (D62) ---------------------------------
 
+CARD_TITLE_MAX_CHARS = 42
+_TITLE_TAIL = re.compile(r"\s+[–—|]\s+.*$|\s+-\s+.*$")  # " – Refined Everyday Knit for Work…"
+_TITLE_AUDIENCE = re.compile(r"\s+(for|For)\s+(men|women|Men|Women|boys|girls|kids|unisex|Unisex)\b.*$")
+
+
+_TITLE_LEAD = re.compile(r"^(men|women|mens|womens|men's|women's|men’s|women’s|unisex|boys|girls)\s+", re.IGNORECASE)
+_BRACKETS = re.compile(r"\s*[\(\[][^\)\]]*[\)\]]")
+
+
+def card_title(title: str, seller: str) -> str:
+    """A short, readable product name (D63).
+
+    Drops a leading brand, gender word, bracketed notes, marketing tails ("– Refined…")
+    and "for Men"; if still long, drops words from the middle so the product type at the
+    end survives: "Vintage Blue Tailored Relaxed Fit Stretch Jeans" -> "... Relaxed Fit Jeans".
+    """
+    original = " ".join(title.split())
+    text = original
+    brand = seller.strip()
+    if brand and text.lower().startswith(brand.lower() + " "):
+        text = text[len(brand) + 1:]
+    text = _BRACKETS.sub("", text)
+    text = _TITLE_TAIL.sub("", text)
+    text = _TITLE_AUDIENCE.sub("", text)
+    text = _TITLE_LEAD.sub("", text).strip(" ,-") or original
+    if len(text) <= CARD_TITLE_MAX_CHARS:
+        return text
+    words = text.split()
+    last = words[-1]
+    kept: list[str] = []
+    for word in words[:-1]:
+        if len(" ".join([*kept, word, last])) > CARD_TITLE_MAX_CHARS:
+            break
+        kept.append(word)
+    return " ".join([*kept, last]) if kept else text[: CARD_TITLE_MAX_CHARS - 1].rstrip() + "…"
+
+
 def option_caption(option: Option) -> str:
-    """Card caption under the product photo. Every value comes from the Option (API data)."""
+    """Card caption under the product photo (D63). Every value comes from the Option (API data).
+
+        <b>Grey Regular Fit Round Neck Sweater</b>
+        Thomas Scott
+        <b>₹999</b> · Size M · A5
+    """
     size = f" · Size {_text(option.size_label)}" if option.size_label else ""
     return (
-        f"<b>{option.label}</b> {_text(short_title(option.title))}{NL}"
-        f"<b>{inr(option.price_paise)}</b>{size} · {_text(option.seller_name.strip())}"
+        f"<b>{_text(card_title(option.title, option.seller_name))}</b>{NL}"
+        f"{_text(option.seller_name.strip())}{NL}"
+        f"<b>{inr(option.price_paise)}</b>{size} · {option.label}"
     )
 
 
 def card_buttons(option: Option, link: str | None, result_id: int | None) -> list[list[dict[str, str]]]:
     row = []
     if result_id is not None:
-        row.append({"text": f"+ Add {option.label}", "callback_data": f"add:{result_id}"})
+        row.append({"text": "🛒 Add to cart", "callback_data": f"add:{result_id}"})
     if link:
         row.append({"text": "Open ↗", "url": link})
     return [row] if row else []

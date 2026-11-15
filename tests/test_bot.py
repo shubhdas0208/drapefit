@@ -31,7 +31,9 @@ async def test_two_item_request_end_to_end(store):
     assert texts[0] == "Searching 2 items… A ✓ B ✓" or texts[0] == "Searching 2 items… B ✓ A ✓"
     headers = [t for t in texts if t.startswith("<b>A ·") or t.startswith("<b>B ·")]
     assert len(headers) == 2
-    cards = [t for t in texts if t.startswith(("<b>A", "<b>B")) and t not in headers]
+    import re
+
+    cards = [t for t in texts if re.search(r" · [AB]\d+$", t)]
     shown = [label for e in await store.events_for(42) if e["type"] == "results_shown" for label in e["payload"]["labels"]]
     assert len(cards) == len(shown)  # one card per suggestion: photo card, or text card when there's no image
     assert len(tg.cards) >= 1 and all(caption in cards for _, caption, _ in tg.cards)
@@ -120,7 +122,7 @@ async def test_photo_failure_falls_back_to_text_cards(store):
     await bot.handle_update(tg_update(1, "grey turtleneck M"))
     assert any(t.startswith("<b>A ·") for t in tg.texts)
     assert "photo_failed" in event_types(await store.events_for(42))
-    assert any(t.startswith("<b>A1</b>") for t in tg.texts)  # the card still arrives, as text
+    assert any(t.endswith(" · A1") for t in tg.texts)  # the card still arrives, as text
 
 
 async def test_second_message_while_busy_is_rejected(store):
@@ -191,7 +193,7 @@ async def test_album_network_timeout_still_sends_text(store):
 
     bot, tg, _ = make_bot(store, FakeParser(spec(item())), telegram=SlowAlbums())
     await bot.handle_update(tg_update(1, "grey turtleneck M"))
-    assert any(t.startswith("<b>A1</b>") for t in tg.texts)
+    assert any(t.endswith(" · A1") for t in tg.texts)
 
 
 async def test_one_item_send_failure_does_not_drop_the_other(store):

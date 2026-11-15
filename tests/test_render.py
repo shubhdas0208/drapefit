@@ -94,7 +94,7 @@ def test_ack_and_footer():
 
 
 CARD = re.compile(
-    r"^<b>(?P<label>[A-Z]\d)</b> (?P<title>.+)\n<b>(?P<price>₹[\d,]+)</b>(?: · Size (?P<size>.+?))? · (?P<seller>.+)$"
+    r"^<b>(?P<title>.+)</b>\n(?P<seller>.+)\n<b>(?P<price>₹[\d,]+)</b>(?: · Size (?P<size>.+?))? · (?P<label>[A-Z]\d+)$"
 )
 
 
@@ -120,7 +120,7 @@ async def test_photo_cards_equal_raw_api_variants(name):
         assert (html.unescape(card["size"]) if card["size"] else None) == raw_size
         link = f"https://drapefit.example/r/tok{option.label}"
         [row] = render.card_buttons(option, link, n + 1)
-        assert row == [{"text": f"+ Add {option.label}", "callback_data": f"add:{n + 1}"}, {"text": "Open ↗", "url": link}]
+        assert row == [{"text": "🛒 Add to cart", "callback_data": f"add:{n + 1}"}, {"text": "Open ↗", "url": link}]
         assert option.image_url is None or option.image_url.startswith("https://")
 
 
@@ -128,7 +128,7 @@ def test_card_without_link_or_id_has_only_what_exists():
     products = load_search("01-grey-turtleneck-men")
     option = pipeline.make_option("A1", 0, products[0], products[0]["variants"][0])
     assert render.card_buttons(option, None, None) == []
-    assert render.card_buttons(option, None, 7) == [[{"text": "+ Add A1", "callback_data": "add:7"}]]
+    assert render.card_buttons(option, None, 7) == [[{"text": "🛒 Add to cart", "callback_data": "add:7"}]]
 
 
 def test_item_header_counts_options_and_explains_zero_results():
@@ -139,3 +139,31 @@ def test_item_header_counts_options_and_explains_zero_results():
     products = load_search("01-grey-turtleneck-men")
     option = pipeline.make_option("A1", 0, products[0], products[0]["variants"][0])
     assert "1 in-stock option in your size" in render.item_header(ItemResult(0, it, (option,), 2000))
+
+
+@pytest.mark.parametrize(
+    ("title", "seller", "expected"),
+    [
+        ("Grey Regular Fit Long Sleeves Round Neck Self Design 100% Cotton Sweater", "Thomas Scott",
+         "Grey Regular Fit Long Sleeves Sweater"),
+        ("Men’s Light Grey Merino Wool Turtle Neck Sweater – Refined Everyday Knit for Work", "98degreenorth",
+         "Light Grey Merino Wool Turtle Neck Sweater"),
+        ("Thomas Scott Men Grey Regular Fit Long Sleeves High Neck Solid Knitted Pullover Sweatshirt", "Thomas Scott",
+         "Grey Regular Fit Long Sleeves Sweatshirt"),
+        ("Vintage Blue Tailored Relaxed Fit Stretch Jeans for Men", "DLAND", "Vintage Blue Tailored Relaxed Fit Jeans"),
+        ("Classic Hoodie (Pack of 2)", "X", "Classic Hoodie"),
+        ("T-Shirt", "X", "T-Shirt"),
+    ],
+)
+def test_card_title_is_short_and_keeps_the_product_type(title, seller, expected):
+    out = render.card_title(title, seller)
+    assert out == expected and len(out) <= render.CARD_TITLE_MAX_CHARS
+
+
+def test_card_caption_layout():
+    products = load_search("01-grey-turtleneck-men")
+    option = pipeline.make_option("A5", 0, products[0], products[0]["variants"][0])
+    title_line, brand_line, price_line = render.option_caption(option).splitlines()
+    assert title_line.startswith("<b>") and title_line.endswith("</b>")
+    assert brand_line == html.escape(option.seller_name.strip(), quote=False)
+    assert price_line.startswith(f"<b>{render.inr(option.price_paise)}</b>") and price_line.endswith(" · A5")

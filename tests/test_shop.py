@@ -1,6 +1,7 @@
 """Rung 2 flows end to end: buttons, cart, follow-up refinements, checkout, did-you-buy.
 Fakes for Telegram, Sarvam and the catalog; real SQLite store."""
 import copy
+import re
 from datetime import timedelta
 
 from drapefit import render
@@ -39,7 +40,7 @@ def add_data(tg, heading):
     return [
         b["callback_data"]
         for (_, text), rows in zip(tg.messages, tg.buttons)
-        if rows and text.startswith(f"<b>{letter}") and not text.startswith(f"<b>{letter} ·")
+        if rows and re.search(rf" · {letter}\d+$", text)
         for row in rows for b in row if b.get("callback_data", "").startswith("add:")
     ]
 
@@ -69,8 +70,8 @@ async def test_results_carry_add_buttons_and_footer_shortcuts(store):
     data = add_data(tg, "<b>A ·")
     assert len(data) == 5
     assert tg.buttons_for("<b>A ·") == render.cheaper_buttons(0)
-    card = tg.buttons_for("<b>A1</b>")[0]
-    assert card[0]["text"] == "+ Add A1" and card[1]["text"] == "Open ↗" and card[1]["url"].startswith(f"{BASE}/r/")
+    card = tg.buttons[tg.card_for("A1") - 1][0]
+    assert card[0]["text"] == "🛒 Add to cart" and card[1]["text"] == "Open ↗" and card[1]["url"].startswith(f"{BASE}/r/")
     assert tg.buttons_for("Tap <b>open</b>") == render.cart_shortcut_buttons()
 
 
@@ -422,13 +423,13 @@ async def test_checkout_button_answers_the_tap_before_slow_work(store):
 
 async def test_tapped_plus_turns_into_a_tick_on_the_same_message(store):
     bot, tg, *_ = await search_two(store)
-    message_id = next(i for i, (_, t) in enumerate(tg.messages, 1) if t.startswith("<b>A1</b>"))
+    message_id = tg.card_for("A1")
     keyboard = tg.buttons[message_id - 1]
     first = keyboard[0][0]["callback_data"]
     await bot.handle_update(tap(100, first, message_id, keyboard))
-    assert tg.buttons[message_id - 1][0][0]["text"] == "✓ Added A1"
+    assert tg.buttons[message_id - 1][0][0]["text"] == "✓ In cart"
     assert tg.buttons[message_id - 1][0][1]["text"] == "Open ↗"
-    assert keyboard[0][0]["text"] == "+ Add A1"  # original structure not mutated
+    assert keyboard[0][0]["text"] == "🛒 Add to cart"  # original structure not mutated
 
 
 async def test_removing_from_cart_edits_the_cart_message_in_place(store):
@@ -478,7 +479,7 @@ async def test_progress_message_ticks_items_as_they_land(store):
 def test_mark_added_returns_a_new_keyboard():
     kb = [[{"text": "+ A1", "callback_data": "add:1"}, {"text": "+ A2", "callback_data": "add:2"}]]
     out = render.mark_added(kb, "add:2", "A2")
-    assert out[0][1]["text"] == "✓ Added A2" and kb[0][1]["text"] == "+ A2"
+    assert out[0][1]["text"] == "✓ In cart" and kb[0][1]["text"] == "+ A2"
 
 
 async def test_example_chip_echoes_the_request_first(store):

@@ -147,7 +147,7 @@ async def test_button_tap_through_webhook_adds_to_cart(setup):
     headers = {"X-Telegram-Bot-Api-Secret-Token": HEADER}
     await client.post("/telegram/webhook", json=tg_update(20, "grey turtleneck M"), headers=headers)
     await drain()
-    add = tg.buttons_for("<b>A1</b>")[0][0]["callback_data"]
+    add = tg.buttons[tg.card_for("A1") - 1][0][0]["callback_data"]
     await client.post("/telegram/webhook", json=tg_callback(21, add), headers=headers)
     await drain()
     assert [c["label"] for c in await store.cart(42)] == ["A1"]

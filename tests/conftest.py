@@ -116,6 +116,10 @@ class FakeTelegram:
         self.cards.append((photo_url, caption, buttons))
         return await self.send_message(chat_id, caption, buttons)
 
+    def card_for(self, label: str) -> int:
+        """1-based message_id of the card for an option label (captions end with " · A1")."""
+        return next(i for i, (_, t) in enumerate(self.messages, 1) if t.endswith(f" · {label}"))
+
     def card_links(self) -> list[str]:
         """URLs of every Open button sent so far."""
         return [b["url"] for rows in self.buttons if rows for row in rows for b in row if b.get("url")]
