@@ -58,7 +58,9 @@ async def test_set_webhook_sends_secret_and_message_and_button_updates(tg):
     route = respx.post(f"{API}/setWebhook").mock(return_value=ok())
     await tg.set_webhook("https://x/telegram/webhook", "s3cret")
     body = json.loads(route.calls[0].request.content)
-    assert body["secret_token"] == "s3cret" and body["allowed_updates"] == ["message", "callback_query"]
+    from drapefit.telegram import webhook_token
+
+    assert body["secret_token"] == webhook_token("s3cret") and body["allowed_updates"] == ["message", "callback_query"]
 
 
 @respx.mock

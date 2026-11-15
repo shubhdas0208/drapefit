@@ -1,6 +1,7 @@
 """Minimal Telegram Bot API client (raw HTTP, no framework)."""
 from __future__ import annotations
 
+import hashlib
 from typing import Any
 
 import httpx
@@ -12,6 +13,12 @@ UPDATE_TYPES = ["message", "callback_query"]
 
 # A button row is a list of {"text": ..., "callback_data": ...} or {"text": ..., "url": ...}.
 Buttons = list[list[dict[str, str]]]
+
+
+def webhook_token(secret: str) -> str:
+    """Telegram's secret_token allows only A-Z a-z 0-9 _ - (max 256). Render's generated
+    secrets can contain other characters, so both sides use the SHA-256 hex of the secret."""
+    return hashlib.sha256(secret.encode()).hexdigest()
 
 
 class TelegramError(RuntimeError):
@@ -68,7 +75,8 @@ class TelegramClient:
     async def set_webhook(self, url: str, secret: str) -> None:
         await self._call(
             "setWebhook",
-            {"url": url, "secret_token": secret, "allowed_updates": UPDATE_TYPES, "drop_pending_updates": True},
+            {"url": url, "secret_token": webhook_token(secret), "allowed_updates": UPDATE_TYPES,
+             "drop_pending_updates": True},
         )
 
     async def edit_message_text(

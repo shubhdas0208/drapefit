@@ -26,7 +26,7 @@ from .catalog import CatalogClient
 from .config import Settings, load_settings
 from .parser import SarvamParser
 from .store import Store
-from .telegram import TelegramClient
+from .telegram import TelegramClient, webhook_token
 
 log = logging.getLogger(__name__)
 # httpx logs full request URLs at INFO; Telegram URLs embed the bot token.
@@ -114,7 +114,7 @@ def create_app(services: Services | None = None) -> FastAPI:
         x_telegram_bot_api_secret_token: str | None = Header(default=None),
     ) -> JSONResponse:
         svc: Services = request.app.state.svc
-        expected = svc.settings.telegram_webhook_secret
+        expected = webhook_token(svc.settings.telegram_webhook_secret)
         if not _secret_ok(x_telegram_bot_api_secret_token, expected):
             raise HTTPException(status_code=401)
         try:

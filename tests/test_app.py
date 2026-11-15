@@ -7,11 +7,13 @@ import pytest
 from drapefit.app import Services, create_app
 from drapefit.bot import Bot
 from drapefit.config import Settings
+from drapefit.telegram import webhook_token
 
 from .conftest import FakeCatalog, FakeParser, FakeTelegram, item, load_search, spec, tg_update
 
-SECRET = "webhook-secret-123"
+SECRET = "webhook+secret/123="  # Render-style value with characters Telegram rejects
 TASKS = "tasks-secret-456"
+HEADER = webhook_token(SECRET)
 
 
 def settings() -> Settings:
@@ -54,7 +56,7 @@ async def test_webhook_rejects_missing_or_wrong_secret(setup):
 
 async def test_webhook_processes_once_and_dedupes_retries(setup):
     client, tg, store, parser = setup
-    headers = {"X-Telegram-Bot-Api-Secret-Token": SECRET}
+    headers = {"X-Telegram-Bot-Api-Secret-Token": HEADER}
     r1 = await client.post("/telegram/webhook", json=tg_update(10, "grey turtleneck M"), headers=headers)
     r2 = await client.post("/telegram/webhook", json=tg_update(10, "grey turtleneck M"), headers=headers)
     assert r1.json() == {"ok": True} and r2.json()["duplicate"] is True
@@ -65,14 +67,14 @@ async def test_webhook_processes_once_and_dedupes_retries(setup):
 
 async def test_malformed_update_is_acked(setup):
     client, *_ = setup
-    r = await client.post("/telegram/webhook", content=b"not json", headers={"X-Telegram-Bot-Api-Secret-Token": SECRET})
+    r = await client.post("/telegram/webhook", content=b"not json", headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     assert r.status_code == 200
 
 
 async def test_click_redirect_logs_and_302s(setup):
     client, tg, store, _ = setup
     await client.post("/telegram/webhook", json=tg_update(11, "grey turtleneck M"),
-                      headers={"X-Telegram-Bot-Api-Secret-Token": SECRET})
+                      headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     await drain()
     item_text = next(t for t in tg.texts if t.startswith("<b>A ·"))
     token = item_text.split("/r/")[1].split('"')[0]
@@ -104,7 +106,7 @@ async def test_tasks_requires_secret(setup):
 async def test_unexpected_bot_error_is_reported_not_crashed(setup):
     client, tg, store, parser = setup
     parser.responses = [{"items": "not-a-list"}]  # makes FakeParser raise a pydantic error
-    await client.post("/telegram/webhook", json=tg_update(12, "boom"), headers={"X-Telegram-Bot-Api-Secret-Token": SECRET})
+    await client.post("/telegram/webhook", json=tg_update(12, "boom"), headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     await drain()
     assert tg.texts[-1].startswith("Something went wrong on my side")
     assert "error" in [e["type"] for e in await store.events_for(42)]
@@ -121,7 +123,7 @@ def test_settings_fail_fast(monkeypatch):
 async def test_redirect_survives_event_log_failure(setup, monkeypatch):
     client, tg, store, _ = setup
     await client.post("/telegram/webhook", json=tg_update(13, "grey turtleneck M"),
-                      headers={"X-Telegram-Bot-Api-Secret-Token": SECRET})
+                      headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     await drain()
     token = next(t for t in tg.texts if t.startswith("<b>A ·")).split("/r/")[1].split('"')[0]
 
@@ -143,7 +145,7 @@ async def test_button_tap_through_webhook_adds_to_cart(setup):
     from .conftest import tg_callback
 
     client, tg, store, _ = setup
-    headers = {"X-Telegram-Bot-Api-Secret-Token": SECRET}
+    headers = {"X-Telegram-Bot-Api-Secret-Token": HEADER}
     await client.post("/telegram/webhook", json=tg_update(20, "grey turtleneck M"), headers=headers)
     await drain()
     add = tg.buttons_for("<b>A ·")[0][0]["callback_data"]
@@ -160,7 +162,7 @@ async def test_product_click_schedules_followup_and_cron_sends_it(setup):
     app = APP["app"]
     app.state.svc.bot.shop.followup_delay = timedelta(seconds=-1)
     await client.post("/telegram/webhook", json=tg_update(22, "grey turtleneck M"),
-                      headers={"X-Telegram-Bot-Api-Secret-Token": SECRET})
+                      headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     await drain()
     token = next(t for t in tg.texts if t.startswith("<b>A ·")).split("/r/")[1].split('"')[0]
     assert (await client.get(f"/r/{token}")).status_code == 302
@@ -172,7 +174,7 @@ async def test_product_click_schedules_followup_and_cron_sends_it(setup):
 
 async def test_checkout_link_click_is_logged_as_checkout_clicked(setup):
     client, tg, store, _ = setup
-    headers = {"X-Telegram-Bot-Api-Secret-Token": SECRET}
+    headers = {"X-Telegram-Bot-Api-Secret-Token": HEADER}
     await client.post("/telegram/webhook", json=tg_update(23, "grey turtleneck M"), headers=headers)
     await drain()
     await client.post("/telegram/webhook", json=tg_update(24, "add A1"), headers=headers)
@@ -205,3 +207,12 @@ def test_public_url_falls_back_to_render_external_url(monkeypatch):
     env["RENDER_EXTERNAL_URL"] = "https://drapefit-abc.onrender.com/"
     monkeypatch.setattr(config, "_read_env", lambda name: env.get(name))
     assert config.load_settings().public_base_url == "https://drapefit-abc.onrender.com"
+
+
+async def test_raw_secret_is_not_accepted_only_its_token(setup):
+    client, *_ = setup
+    r = await client.post("/telegram/webhook", json=tg_update(30, "hi"), headers={"X-Telegram-Bot-Api-Secret-Token": SECRET})
+    assert r.status_code == 401
+    import re
+
+    assert re.fullmatch(r"[A-Za-z0-9_-]{1,256}", HEADER)
