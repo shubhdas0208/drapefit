@@ -29,11 +29,14 @@ async def test_two_item_request_end_to_end(store):
 
     texts = tg.texts
     assert texts[0] == "Searching 2 items… A ✓ B ✓" or texts[0] == "Searching 2 items… B ✓ A ✓"
-    item_texts = [t for t in texts if t.startswith("<b>A ·") or t.startswith("<b>B ·")]
-    assert len(item_texts) == 2
-    assert all(f"{BASE}/r/" in t for t in item_texts)
+    headers = [t for t in texts if t.startswith("<b>A ·") or t.startswith("<b>B ·")]
+    assert len(headers) == 2
+    cards = [t for t in texts if t.startswith(("<b>A", "<b>B")) and t not in headers]
+    shown = [label for e in await store.events_for(42) if e["type"] == "results_shown" for label in e["payload"]["labels"]]
+    assert len(cards) == len(shown)  # one card per suggestion: photo card, or text card when there's no image
+    assert len(tg.cards) >= 1 and all(caption in cards for _, caption, _ in tg.cards)
+    assert len(tg.card_links()) == len(shown) and all(link.startswith(f"{BASE}/r/") for link in tg.card_links())
     assert "Tap <b>open</b>" in texts[-1]
-    assert len(tg.photos) == 2
 
     events = event_types(await store.events_for(42))
     assert events[:2] == ["request_received", "parsed"]
@@ -112,11 +115,12 @@ async def test_catalog_error_twice_apologises_for_that_item(store):
     assert event_types(await store.events_for(42)).count("catalog_error") == 2
 
 
-async def test_album_failure_falls_back_to_text(store):
+async def test_photo_failure_falls_back_to_text_cards(store):
     bot, tg, _ = make_bot(store, FakeParser(spec(item())), telegram=FakeTelegram(fail_photos=True))
     await bot.handle_update(tg_update(1, "grey turtleneck M"))
     assert any(t.startswith("<b>A ·") for t in tg.texts)
-    assert "album_failed" in event_types(await store.events_for(42))
+    assert "photo_failed" in event_types(await store.events_for(42))
+    assert any(t.startswith("<b>A1</b>") for t in tg.texts)  # the card still arrives, as text
 
 
 async def test_second_message_while_busy_is_rejected(store):
@@ -172,8 +176,8 @@ async def test_total_budget_footer(store):
 async def test_local_mode_links_straight_to_store(store):
     bot = Bot(store, FakeTelegram(), FakeParser(spec(item())), FakeCatalog(load_search("01-grey-turtleneck-men")), None)
     await bot.handle_update(tg_update(1, "grey turtleneck M"))
-    text = next(t for t in bot._tg.texts if t.startswith("<b>A ·"))
-    assert "/r/" not in text and 'href="https://' in text
+    links = bot._tg.card_links()
+    assert links and all("/r/" not in link and link.startswith("https://") for link in links)
 
 
 # --- regressions from the 2026-11-11 code review -----------------------------------
@@ -182,12 +186,12 @@ async def test_album_network_timeout_still_sends_text(store):
     import httpx
 
     class SlowAlbums(FakeTelegram):
-        async def send_photos(self, chat_id, photos):
+        async def send_photo(self, chat_id, photo_url, caption, buttons=None):
             raise httpx.ReadTimeout("telegram fetching images")
 
     bot, tg, _ = make_bot(store, FakeParser(spec(item())), telegram=SlowAlbums())
     await bot.handle_update(tg_update(1, "grey turtleneck M"))
-    assert any(t.startswith("<b>A ·") for t in tg.texts)
+    assert any(t.startswith("<b>A1</b>") for t in tg.texts)
 
 
 async def test_one_item_send_failure_does_not_drop_the_other(store):

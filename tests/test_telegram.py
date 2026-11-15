@@ -94,3 +94,32 @@ async def test_send_returns_message_id_and_edits(tg):
     assert json.loads(edit.calls[0].request.content)["message_id"] == 77
     assert json.loads(markup.calls[0].request.content)["reply_markup"] == {"inline_keyboard": []}
     assert json.loads(commands.calls[0].request.content)["commands"] == [{"command": "cart", "description": "Show my cart"}]
+
+
+@respx.mock
+async def test_send_photo_card_and_rate_limit_retry(tg, monkeypatch):
+    import asyncio as _asyncio
+
+    slept = []
+
+    async def fake_sleep(seconds):
+        slept.append(seconds)
+
+    monkeypatch.setattr(_asyncio, "sleep", fake_sleep)
+    route = respx.post(f"{API}/sendPhoto").mock(side_effect=[
+        httpx.Response(429, json={"ok": False, "description": "Too Many Requests", "parameters": {"retry_after": 3}}),
+        httpx.Response(200, json={"ok": True, "result": {"message_id": 9}}),
+    ])
+    buttons = [[{"text": "+ Add A1", "callback_data": "add:1"}]]
+    assert await tg.send_photo(1, "https://i/1.jpg", "<b>A1</b>", buttons) == 9
+    body = json.loads(route.calls[1].request.content)
+    assert body["parse_mode"] == "HTML" and body["reply_markup"] == {"inline_keyboard": buttons}
+    assert slept == [3]
+
+
+@respx.mock
+async def test_long_retry_after_is_not_waited_for(tg, monkeypatch):
+    respx.post(f"{API}/sendMessage").mock(return_value=httpx.Response(
+        429, json={"ok": False, "description": "Too Many Requests", "parameters": {"retry_after": 120}}))
+    with pytest.raises(TelegramError):
+        await tg.send_message(1, "x")

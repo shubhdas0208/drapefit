@@ -91,3 +91,51 @@ def test_ack_and_footer():
     assert render.ack_text(2) == "Searching 2 items…"
     assert "₹4,000" in render.footer_text(4000)
     assert "budget" not in render.footer_text(None)
+
+
+CARD = re.compile(
+    r"^<b>(?P<label>[A-Z]\d)</b> (?P<title>.+)\n<b>(?P<price>₹[\d,]+)</b>(?: · Size (?P<size>.+?))? · (?P<seller>.+)$"
+)
+
+
+@pytest.mark.parametrize("name", QUERIES)
+async def test_photo_cards_equal_raw_api_variants(name):
+    """Grounding gate for what is actually sent (D62): every card caption and button."""
+    products = load_search(name)
+    by_id = {p["id"]: p for p in products}
+    words = name.split("-")[1:]
+    gender = "women" if words[-1] == "women" else "men"
+    it = ItemSpec.model_validate(item(query_terms=" ".join(words[1:-1]), color=words[0], size=None,
+                                      gender=gender, max_price_inr=3500, category="top"))
+    result = await pipeline.run_item(FakeCatalog(products), 0, it, 3500)
+    assert result.options
+    for n, option in enumerate(result.options):
+        raw = next(v for v in by_id[option.product_id]["variants"] if v["id"] == option.variant_id)
+        card = CARD.match(render.option_caption(option))
+        assert card, render.option_caption(option)
+        assert card["label"] == option.label
+        assert card["price"] == render.inr(raw["price"]["amount"])
+        assert html.unescape(card["seller"]) == raw["seller"]["name"].strip()
+        raw_size = next((o["label"] for o in raw.get("options", []) if o["name"].lower() == "size"), None)
+        assert (html.unescape(card["size"]) if card["size"] else None) == raw_size
+        link = f"https://drapefit.example/r/tok{option.label}"
+        [row] = render.card_buttons(option, link, n + 1)
+        assert row == [{"text": f"+ Add {option.label}", "callback_data": f"add:{n + 1}"}, {"text": "Open ↗", "url": link}]
+        assert option.image_url is None or option.image_url.startswith("https://")
+
+
+def test_card_without_link_or_id_has_only_what_exists():
+    products = load_search("01-grey-turtleneck-men")
+    option = pipeline.make_option("A1", 0, products[0], products[0]["variants"][0])
+    assert render.card_buttons(option, None, None) == []
+    assert render.card_buttons(option, None, 7) == [[{"text": "+ Add A1", "callback_data": "add:7"}]]
+
+
+def test_item_header_counts_options_and_explains_zero_results():
+    from drapefit.models import ItemResult
+
+    it = ItemSpec.model_validate(item())
+    assert "No grey turtleneck" in render.item_header(ItemResult(0, it, (), 2000))
+    products = load_search("01-grey-turtleneck-men")
+    option = pipeline.make_option("A1", 0, products[0], products[0]["variants"][0])
+    assert "1 in-stock option in your size" in render.item_header(ItemResult(0, it, (option,), 2000))

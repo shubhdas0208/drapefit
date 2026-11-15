@@ -347,15 +347,19 @@ class Bot:
         else:  # local polling mode: no public server, so link straight to the store (clicks untracked)
             by_label = {o.label: o.product_url for o in result.options}
             links = {label: by_label[label] for label in tokens}
-        rendered = render.render_item(result, links)
-        if rendered.photos:
-            try:
-                await self._tg.send_photos(chat_id, rendered.photos)
-            except SEND_ERRORS as err:
-                await event("album_failed", {"item_index": result.item_index, "error": str(err)[:200]})
         await self._tg.send_message(
-            chat_id, rendered.text, render.item_buttons(result_ids, result.item_index) if result_ids else None
+            chat_id, render.item_header(result), render.cheaper_buttons(result.item_index) if result.options else None
         )
+        for option in result.options:  # one photo card per suggestion (D62)
+            caption = render.option_caption(option)
+            buttons = render.card_buttons(option, links.get(option.label), result_ids.get(option.label))
+            if option.image_url:
+                try:
+                    await self._tg.send_photo(chat_id, option.image_url, caption, buttons)
+                    continue
+                except SEND_ERRORS as err:  # bad image URL: the same card as text, nothing lost
+                    await event("photo_failed", {"label": option.label, "error": str(err)[:200]})
+            await self._tg.send_message(chat_id, caption, buttons)
         if result.options:
             await event(
                 "results_shown",

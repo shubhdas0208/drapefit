@@ -55,6 +55,10 @@ class ConsoleTelegram:
         print(self._stamp(), plain.replace("\n", "\n            "))
         return len(self.messages)
 
+    async def send_photo(self, chat_id: int, photo_url: str, caption: str, buttons: list | None = None) -> int:
+        print(self._stamp(), "(photo card)")
+        return await self.send_message(chat_id, caption, buttons)
+
     async def send_photos(self, chat_id: int, photos: tuple) -> None:
         print(self._stamp(), f"(album: {len(photos)} photos)")
 

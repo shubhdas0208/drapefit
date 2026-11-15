@@ -59,6 +59,10 @@ class ConsoleTelegram:
         self.count = getattr(self, "count", 0) + 1
         return self.count
 
+    async def send_photo(self, chat_id, photo_url, caption, buttons=None) -> int:
+        print(f"  BOT: [photo card] {photo_url.split('?')[0][-40:]}")
+        return await self.send_message(chat_id, caption, buttons)
+
     async def send_photos(self, chat_id, photos) -> None:
         print(f"  BOT: [album of {len(photos)} photos]")
 

@@ -1,6 +1,7 @@
 """Minimal Telegram Bot API client (raw HTTP, no framework)."""
 from __future__ import annotations
 
+import asyncio
 import hashlib
 from typing import Any
 
@@ -10,6 +11,8 @@ from . import config
 
 MAX_ALBUM = 10
 UPDATE_TYPES = ["message", "callback_query"]
+MAX_RATE_LIMIT_RETRIES = 2
+MAX_RETRY_AFTER_SECONDS = 10
 
 # A button row is a list of {"text": ..., "callback_data": ...} or {"text": ..., "url": ...}.
 Buttons = list[list[dict[str, str]]]
@@ -31,8 +34,21 @@ class TelegramClient:
         self._base = f"{config.TELEGRAM_API}/bot{token}"
 
     async def _call(self, method: str, payload: dict[str, Any]) -> Any:
-        resp = await self._http.post(f"{self._base}/{method}", json=payload, timeout=config.HTTP_TIMEOUT_SECONDS)
-        body = resp.json() if resp.headers.get("content-type", "").startswith("application/json") else {}
+        for attempt in range(MAX_RATE_LIMIT_RETRIES + 1):
+            resp = await self._http.post(f"{self._base}/{method}", json=payload, timeout=config.HTTP_TIMEOUT_SECONDS)
+            body = resp.json() if resp.headers.get("content-type", "").startswith("application/json") else {}
+            retry_after = (body.get("parameters") or {}).get("retry_after")
+            # A search now sends ~6 messages per item; Telegram may ask us to slow down (429).
+            should_wait = (
+                resp.status_code == 429
+                and attempt < MAX_RATE_LIMIT_RETRIES
+                and isinstance(retry_after, (int, float))
+                and retry_after <= MAX_RETRY_AFTER_SECONDS
+            )
+            if should_wait:
+                await asyncio.sleep(retry_after)
+                continue
+            break
         if resp.status_code != 200 or not body.get("ok"):
             # Never include the URL: it contains the bot token.
             raise TelegramError(f"{method}: HTTP {resp.status_code} {str(body.get('description', ''))[:200]}")
@@ -49,6 +65,16 @@ class TelegramClient:
         if buttons:
             payload["reply_markup"] = {"inline_keyboard": buttons}
         result = await self._call("sendMessage", payload)
+        return result.get("message_id") if isinstance(result, dict) else None
+
+    async def send_photo(
+        self, chat_id: int, photo_url: str, caption: str, buttons: Buttons | None = None
+    ) -> int | None:
+        """One product card: photo + HTML caption + buttons. Returns the message_id."""
+        payload: dict[str, Any] = {"chat_id": chat_id, "photo": photo_url, "caption": caption, "parse_mode": "HTML"}
+        if buttons:
+            payload["reply_markup"] = {"inline_keyboard": buttons}
+        result = await self._call("sendPhoto", payload)
         return result.get("message_id") if isinstance(result, dict) else None
 
     async def answer_callback(self, callback_id: str, text: str | None = None) -> None:

@@ -34,8 +34,14 @@ def make(store, parser, delay=timedelta(hours=24)):
 
 
 def add_data(tg, heading):
-    rows = tg.buttons_for(heading)
-    return [b["callback_data"] for row in rows for b in row]
+    """The + Add callbacks on item <heading letter>'s cards, e.g. heading "<b>A ·" -> A1..A5."""
+    letter = heading[3]
+    return [
+        b["callback_data"]
+        for (_, text), rows in zip(tg.messages, tg.buttons)
+        if rows and text.startswith(f"<b>{letter}") and not text.startswith(f"<b>{letter} ·")
+        for row in rows for b in row if b.get("callback_data", "").startswith("add:")
+    ]
 
 
 def tap(update_id, data, message_id=None, keyboard=None, user_id=42):
@@ -61,7 +67,10 @@ async def types(store):
 async def test_results_carry_add_buttons_and_footer_shortcuts(store):
     bot, tg, *_ = await search_two(store)
     data = add_data(tg, "<b>A ·")
-    assert len(data) == 6 and all(d.startswith("add:") for d in data[:5]) and data[5] == "chp:0"
+    assert len(data) == 5
+    assert tg.buttons_for("<b>A ·") == render.cheaper_buttons(0)
+    card = tg.buttons_for("<b>A1</b>")[0]
+    assert card[0]["text"] == "+ Add A1" and card[1]["text"] == "Open ↗" and card[1]["url"].startswith(f"{BASE}/r/")
     assert tg.buttons_for("Tap <b>open</b>") == render.cart_shortcut_buttons()
 
 
@@ -132,7 +141,7 @@ async def test_checkout_sends_one_pay_button_per_merchant_and_schedules_followup
     bot, tg, *_ = await search_two(store)
     await bot.handle_update(tg_update(2, "add A1 A2 B1"))
     await bot.handle_update(tg_callback(30, "co"))
-    pay = [b for row in tg.buttons if row for r in row for b in r if b.get("url")]
+    pay = [b for row in tg.buttons if row for r in row for b in r if b.get("url") and b["text"].startswith("Pay on")]
     assert pay and all(b["url"].startswith(f"{BASE}/r/") for b in pay)
     assert all(b["text"].startswith("Pay on ") for b in pay)
     events = await store.events_for(42)
@@ -413,13 +422,13 @@ async def test_checkout_button_answers_the_tap_before_slow_work(store):
 
 async def test_tapped_plus_turns_into_a_tick_on_the_same_message(store):
     bot, tg, *_ = await search_two(store)
-    message_id = next(i for i, (_, t) in enumerate(tg.messages, 1) if t.startswith("<b>A ·"))
+    message_id = next(i for i, (_, t) in enumerate(tg.messages, 1) if t.startswith("<b>A1</b>"))
     keyboard = tg.buttons[message_id - 1]
     first = keyboard[0][0]["callback_data"]
     await bot.handle_update(tap(100, first, message_id, keyboard))
-    assert tg.buttons[message_id - 1][0][0]["text"] == "✓ A1"
-    assert tg.buttons[message_id - 1][0][1]["text"] == "+ A2"
-    assert keyboard[0][0]["text"] == "+ A1"  # original structure not mutated
+    assert tg.buttons[message_id - 1][0][0]["text"] == "✓ Added A1"
+    assert tg.buttons[message_id - 1][0][1]["text"] == "Open ↗"
+    assert keyboard[0][0]["text"] == "+ Add A1"  # original structure not mutated
 
 
 async def test_removing_from_cart_edits_the_cart_message_in_place(store):
@@ -469,7 +478,7 @@ async def test_progress_message_ticks_items_as_they_land(store):
 def test_mark_added_returns_a_new_keyboard():
     kb = [[{"text": "+ A1", "callback_data": "add:1"}, {"text": "+ A2", "callback_data": "add:2"}]]
     out = render.mark_added(kb, "add:2", "A2")
-    assert out[0][1]["text"] == "✓ A2" and kb[0][1]["text"] == "+ A2"
+    assert out[0][1]["text"] == "✓ Added A2" and kb[0][1]["text"] == "+ A2"
 
 
 async def test_example_chip_echoes_the_request_first(store):

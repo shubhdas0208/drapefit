@@ -336,7 +336,7 @@ def item_buttons(result_ids: dict[str, int], item_index: int) -> list[list[dict[
 def mark_added(buttons: list[list[dict[str, str]]], callback_data: str, label: str) -> list[list[dict[str, str]]]:
     """Same keyboard, with the tapped "+ A1" shown as "✓ A1". Returns a new structure."""
     return [
-        [{**b, "text": f"✓ {label}"} if b.get("callback_data") == callback_data else dict(b) for b in row]
+        [{**b, "text": f"✓ Added {label}"} if b.get("callback_data") == callback_data else dict(b) for b in row]
         for row in buttons
     ]
 
@@ -344,3 +344,38 @@ def mark_added(buttons: list[list[dict[str, str]]], callback_data: str, label: s
 def progress_text(item_count: int, done: list[str]) -> str:
     base = ack_text(item_count)
     return base if not done else f"{base} {' '.join(f'{d} ✓' for d in done)}"
+
+
+# --- Photo cards: one message per suggestion (D62) ---------------------------------
+
+def option_caption(option: Option) -> str:
+    """Card caption under the product photo. Every value comes from the Option (API data)."""
+    size = f" · Size {_text(option.size_label)}" if option.size_label else ""
+    return (
+        f"<b>{option.label}</b> {_text(short_title(option.title))}{NL}"
+        f"<b>{inr(option.price_paise)}</b>{size} · {_text(option.seller_name.strip())}"
+    )
+
+
+def card_buttons(option: Option, link: str | None, result_id: int | None) -> list[list[dict[str, str]]]:
+    row = []
+    if result_id is not None:
+        row.append({"text": f"+ Add {option.label}", "callback_data": f"add:{result_id}"})
+    if link:
+        row.append({"text": "Open ↗", "url": link})
+    return [row] if row else []
+
+
+def item_header(result: ItemResult) -> str:
+    """The line above an item's cards (or the zero-results message)."""
+    heading = f"<b>{chr(ord('A') + result.item_index)} · {_text(item_heading(result.item, result.cap_inr))}</b>"
+    if not result.options:
+        body = _text(result.note) if result.note else zero_results_text(result.item, result.cap_inr)
+        return f"{heading}{NL}{body}"
+    count = len(result.options)
+    return f"{heading}{NL}<i>{count} in-stock option{'s' if count != 1 else ''} in your size</i>"
+
+
+def cheaper_buttons(item_index: int) -> list[list[dict[str, str]]]:
+    letter = chr(ord("A") + item_index)
+    return [[{"text": f"Show cheaper options for {letter}", "callback_data": f"chp:{item_index}"}]]

@@ -81,6 +81,7 @@ class FakeTelegram:
         self.photos: list[tuple[int, tuple]] = []
         self.callback_answers: list[tuple[str, str | None]] = []
         self.edits: list[tuple[int, str | None, list | None]] = []
+        self.cards: list[tuple[str, str, list | None]] = []
         self.fail_photos = fail_photos
 
     async def send_message(self, chat_id: int, text: str, buttons: list | None = None) -> int:
@@ -107,6 +108,17 @@ class FakeTelegram:
             if text.startswith(prefix):
                 return buttons
         return None
+
+    async def send_photo(self, chat_id: int, photo_url: str, caption: str, buttons: list | None = None) -> int:
+        """A product card. Stored in messages/buttons like a text message, plus in `cards`."""
+        if self.fail_photos:
+            raise TelegramError("sendPhoto: HTTP 400 wrong file identifier/HTTP URL specified")
+        self.cards.append((photo_url, caption, buttons))
+        return await self.send_message(chat_id, caption, buttons)
+
+    def card_links(self) -> list[str]:
+        """URLs of every Open button sent so far."""
+        return [b["url"] for rows in self.buttons if rows for row in rows for b in row if b.get("url")]
 
     async def send_photos(self, chat_id: int, photos: tuple) -> None:
         if self.fail_photos:

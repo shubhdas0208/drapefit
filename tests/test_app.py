@@ -76,8 +76,7 @@ async def test_click_redirect_logs_and_302s(setup):
     await client.post("/telegram/webhook", json=tg_update(11, "grey turtleneck M"),
                       headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     await drain()
-    item_text = next(t for t in tg.texts if t.startswith("<b>A ·"))
-    token = item_text.split("/r/")[1].split('"')[0]
+    token = tg.card_links()[0].split("/r/")[1]
     r = await client.get(f"/r/{token}")
     assert r.status_code == 302 and r.headers["location"].startswith("https://")
     clicks = [e for e in await store.events_for(42) if e["type"] == "link_clicked"]
@@ -125,7 +124,7 @@ async def test_redirect_survives_event_log_failure(setup, monkeypatch):
     await client.post("/telegram/webhook", json=tg_update(13, "grey turtleneck M"),
                       headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     await drain()
-    token = next(t for t in tg.texts if t.startswith("<b>A ·")).split("/r/")[1].split('"')[0]
+    token = tg.card_links()[0].split("/r/")[1]
 
     async def boom(*a, **k):
         raise RuntimeError("neon down")
@@ -148,7 +147,7 @@ async def test_button_tap_through_webhook_adds_to_cart(setup):
     headers = {"X-Telegram-Bot-Api-Secret-Token": HEADER}
     await client.post("/telegram/webhook", json=tg_update(20, "grey turtleneck M"), headers=headers)
     await drain()
-    add = tg.buttons_for("<b>A ·")[0][0]["callback_data"]
+    add = tg.buttons_for("<b>A1</b>")[0][0]["callback_data"]
     await client.post("/telegram/webhook", json=tg_callback(21, add), headers=headers)
     await drain()
     assert [c["label"] for c in await store.cart(42)] == ["A1"]
@@ -164,7 +163,7 @@ async def test_product_click_schedules_followup_and_cron_sends_it(setup):
     await client.post("/telegram/webhook", json=tg_update(22, "grey turtleneck M"),
                       headers={"X-Telegram-Bot-Api-Secret-Token": HEADER})
     await drain()
-    token = next(t for t in tg.texts if t.startswith("<b>A ·")).split("/r/")[1].split('"')[0]
+    token = tg.card_links()[0].split("/r/")[1]
     assert (await client.get(f"/r/{token}")).status_code == 302
     r = await client.post("/tasks/followups", headers={"X-Tasks-Secret": TASKS})
     assert r.json()["followups_sent"] == 1
