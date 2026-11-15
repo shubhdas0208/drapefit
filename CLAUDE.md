@@ -9,7 +9,7 @@ AI PM portfolio project. The user sends one natural-language message ("grey turt
 - Code: `src/drapefit/` (app, bot, shop, checkout, commands, refine, catalog, parser, pipeline, matching, render, store, telegram, models, config). Tests: `tests/`. Evals: `evals/parse/`, `evals/followup/`. Scripts: `scripts/` (smoke, run_local, set_webhook). `src/spike/` is the old spike code, kept for reference.
 
 ## Working rules for this project
-- All work for this project happens in this folder: `C:\Users\SHUBH SANKALP DAS\Desktop\Building\DrapeFit`.
+- All work for this project happens in this folder: the repository root (the `DrapeFit` folder).
 - After any meaningful discussion or change, update `docs/decisions.md`. Update `docs/design-doc.md` if scope or logic changed.
 - Never put API keys in files. Use environment variables (`SARVAM_API_KEY`, `SHOPIFY_CLIENT_ID`, `SHOPIFY_CLIENT_SECRET`, `TELEGRAM_BOT_TOKEN`) and a `.env` that is gitignored.
 - The LLM never produces prices, sizes or stock in output. Code templates render from API objects.
@@ -20,5 +20,6 @@ AI PM portfolio project. The user sends one natural-language message ("grey turt
 - 2026-11-10: `/plan-eng-review` DONE (`docs/eng-review-rung1.md`, D23-D36).
 - 2026-11-11: **Rung 1 BUILT** (D37-D45). Run tests: `.venv\Scripts\python -m pytest -q` (167, includes grounding gate). Live check: `scripts\smoke.py`. Parse eval: `evals\parse\run.py --cases holdout.jsonl`. Try on Telegram locally: `scripts\run_local.py` (needs `TELEGRAM_BOT_TOKEN`). Deploy: `docs\deploy.md`. Next: user creates the BotFather token, then 5 named testers; T9 self-hosted agent profile.
 - 2026-11-12: **Rung 2 BUILT** (D47-D54): + buttons and "add A1" cart, "same but black"/"show cheaper" (follow-up classifier, held-out 12/12), checkout with live re-check and one Shopify permalink per brand, "did you buy?" follow-up. 252 tests. Live check: `scripts\smoke_rung2.py`. Next: deploy (`docs\deploy.md`), then 5 named testers.
+- 2026-11-15 (end of session): Telegram UX pass + delivery-policy links (D56-D59), 275 tests. Local git repo with 6 commits (real dates, no co-author), NOT pushed yet; config.py change = commit 7. Neon linked (`neon init`), awaiting `neon login` + `neon deploy`. Resume order: push -> rotate bot token -> Neon -> Render -> webhook -> cron-job.org (see docs/deploy.md).
 - User constraint: **₹0 running cost**, and the user delegates routine decisions (pick the recommended option and log it).
 - Secrets: `SARVAM_API_KEY` is a Windows user env var (set 2026-11-08). Shopify credentials will be `SHOPIFY_CLIENT_ID` / `SHOPIFY_CLIENT_SECRET` (see `.env.example`). Shopify API facts: `docs/research/shopify-catalog-access.md`.

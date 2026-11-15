@@ -67,21 +67,21 @@ def build_query(item: ItemSpec) -> str:
 
 
 def _option_label(variant: dict, name: str) -> str | None:
-    for opt in variant.get("options", []):
+    for opt in variant.get("options") or []:
         if opt.get("name", "").strip().lower() == name:
             return opt.get("label")
     return None
 
 
 def _product_size_labels(product: dict) -> list[str]:
-    for opt in product.get("options", []):
+    for opt in product.get("options") or []:
         if opt.get("name", "").strip().lower() == "size":
             return [v.get("label") for v in opt.get("values", []) if v.get("label")]
     return []
 
 
 def _available_size_labels(product: dict) -> list[str]:
-    for opt in product.get("options", []):
+    for opt in product.get("options") or []:
         if opt.get("name", "").strip().lower() == "size":
             return [
                 v["label"]

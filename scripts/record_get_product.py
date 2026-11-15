@@ -7,14 +7,14 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src" / "spike"))
 from catalog_client import CatalogClient  # noqa: E402
 
-RAW = ROOT / "docs" / "research" / "spike-01-raw"
+RAW = ROOT / "tests" / "fixtures" / "search"
 OUT = ROOT / "tests" / "fixtures"
 CTX = {"address_country": "IN", "currency": "INR"}
 
 client = CatalogClient()
 for name in ["01-grey-turtleneck-men", "05-navy-chinos-men"]:
     data = json.loads((RAW / f"{name}.json").read_text(encoding="utf-8"))
-    product = data["india"]["result"]["structuredContent"]["products"][0]
+    product = data["products"][0]
     plain = client.call_tool("get_product", {"catalog": {"id": product["id"], "context": CTX}})
     (OUT / f"get_product-{name}.json").write_text(json.dumps(plain, indent=1, ensure_ascii=False), encoding="utf-8")
     sc = plain.get("result", {}).get("structuredContent", {}).get("product", {})

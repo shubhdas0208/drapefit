@@ -6,7 +6,7 @@ These steps need your own accounts, so they can't be automated from here. Total 
 
 1. In Telegram, open **@BotFather**, send `/newbot`, pick a name (e.g. DrapeFit) and a username ending in `bot`. Copy the token.
 2. In PowerShell: `setx TELEGRAM_BOT_TOKEN "<token>"`. Then open a **new** terminal.
-3. `cd "C:\Users\SHUBH SANKALP DAS\Desktop\Building\DrapeFit"` and run `.venv\Scripts\python scripts\run_local.py`
+3. `cd "<your DrapeFit folder>"` and run `.venv\Scripts\python scripts\run_local.py`
 4. Message your bot. It works while the laptop is awake. Links open stores directly in this mode, so clicks are not tracked. State goes to `drapefit-local.db`.
 5. To see the "did you buy?" message without waiting 24 h: `setx FOLLOWUP_DELAY_MINUTES 2`, open a new terminal, restart `run_local.py`, add something to the cart and send `checkout`. The local script checks for due follow-ups every minute. Set it back with `setx FOLLOWUP_DELAY_MINUTES 1440`.
 
@@ -18,7 +18,7 @@ These steps need your own accounts, so they can't be automated from here. Total 
 ## 2. Code on GitHub (Render deploys from a repo)
 
 ```
-cd "C:\Users\SHUBH SANKALP DAS\Desktop\Building\DrapeFit"
+cd "<your DrapeFit folder>"
 git init -b main
 git add .
 git commit -m "feat: DrapeFit Rung 1 telegram bot"

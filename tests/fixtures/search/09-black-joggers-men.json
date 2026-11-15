@@ -1,0 +1,1537 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/74BeGKj0Xj2IY8sSm1wZxS",
+"title": "Men Black Regular Fit Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/magnific_change-img4-to-lifestyle-_cpuk68V0eP.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50758989906151",
+"title": "Men Black Regular Fit Joggers",
+"url": "https://fyva.in/products/men-black-regular-fit-joggers-fyaw24mjog619blk?variant=50758989906151",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/magnific_change-img4-to-lifestyle-_cpuk68V0eP.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/77lUGYShnjsPDCraOU84iy",
+"title": "Men Black Cult Leisure Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0657/8110/4808/files/LH2e32DqiVVuMNcRrUDvy2D8.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49653694234792",
+"title": "Men Black Cult Leisure Joggers",
+"url": "https://cultstore.com/products/men-black-cult-leisure-joggers",
+"price": {
+"amount": 112900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Cult.fit Limited",
+"url": "https://cultstore.com",
+"domain": "cult-demo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0657/8110/4808/files/LH2e32DqiVVuMNcRrUDvy2D8.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/OjgiJXY2xF3dTpDSe7lcD",
+"title": "Men Black Oversized Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/MSPANT50721-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47632530932013",
+"title": "Men Black Oversized Joggers",
+"url": "https://sassafras.in/products/men-black-oversized-joggers-mspant50721?variant=47632530932013",
+"price": {
+"amount": 97400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/MSPANT50721-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6GSQSr0IlypyPS48smOLRC",
+"title": "Black Loose Fit Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/BlackLooseFitJoggers_3.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/54002399183212",
+"title": "Black Loose Fit Joggers",
+"url": "https://www.bonkerscorner.com/products/black-loose-fit-joggers-1?variant=54002399183212",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "BonkersCorner",
+"url": "https://www.bonkerscorner.com",
+"domain": "bonkerscorner-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/BlackLooseFitJoggers_3.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2jFxbpkyX3eXV2GKBBMZaO",
+"title": "Men's casual relaxed cargo fit woven jogger | Black",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/1_ab96b14d-4eec-4c7c-8992-770c6e8ba07b.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51540895072557",
+"title": "Men's casual relaxed cargo fit woven jogger | Black",
+"url": "https://wrogn.com/products/mens-casual-relaxed-cargo-fit-woven-jogger-black-wvwj5056wmp?variant=51540895072557",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Wrogn",
+"url": "https://wrogn.com",
+"domain": "wrogn-website.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/1_ab96b14d-4eec-4c7c-8992-770c6e8ba07b.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6CxSay8kwU4Kul6nB70skI",
+"title": "Black Heavyweight Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/black-heavyweight-joggers-xs-bonkerscorner-store-33704628715620.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44079245590628",
+"title": "Black Heavyweight Joggers",
+"url": "https://www.bonkerscorner.com/products/black-heavyweight-joggers-2?variant=44079245590628",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "BonkersCorner",
+"url": "https://www.bonkerscorner.com",
+"domain": "bonkerscorner-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/black-heavyweight-joggers-xs-bonkerscorner-store-33704628715620.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7LajgdxkZGf1y5HR4m7O9c",
+"title": "Men's Black Relaxed Fit Solid Straight Hem Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutB6_9129000960216.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51361148895448",
+"title": "Men's Black Relaxed Fit Solid Straight Hem Joggers",
+"url": "https://tigc.in/products/men-s-black-relaxed-fit-solid-utility-joggers-0825-rx2523jgtr-5?variant=51361148895448",
+"price": {
+"amount": 135900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutB6_9129000960216.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3oHzEQlRXlCtNLLaeUrFDJ",
+"title": "Diminutive Black Wide Leg Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/DiminutiveBlackWideLegJoggers00001.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52354845540716",
+"title": "Diminutive Black Wide Leg Joggers",
+"url": "https://www.bonkerscorner.com/products/diminutive-black-wide-leg-joggers-1?variant=52354845540716",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "BonkersCorner",
+"url": "https://www.bonkerscorner.com",
+"domain": "bonkerscorner-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/DiminutiveBlackWideLegJoggers00001.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2JR1Pwef0R6DSrhcI4fYVb",
+"title": "Jet Black Straight-Fit Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+},
+{
+"label": "6XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Deep Red"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Navy"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0529/7029/1395/files/3_converted2_5805b872-181e-4f0f-9700-85c8bfa7c367.avif"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52332057166037",
+"title": "Jet Black Straight-Fit Joggers",
+"url": "https://www.fflirtygo.com/products/jet-black-straight-fit-joggers?variant=52332057166037",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "FFlirtyGo",
+"url": "https://www.fflirtygo.com",
+"domain": "fflirtygo-com.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0529/7029/1395/files/3_converted2_5805b872-181e-4f0f-9700-85c8bfa7c367.avif"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2ZCM7I9Zrev4U4RoY1m6OE",
+"title": "Men Black Jogger with 5 Pockets Elasticated Waist",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Khaki"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/af6ae81f-7d7c-46e1-a79c-13bee78489b3.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50959192064231",
+"title": "Men Black Jogger with 5 Pockets Elasticated Waist",
+"url": "https://fyva.in/products/men-black-jogger-with-5-pockets-elasticated-waist-fskss24mpnt727blk?variant=50959192064231",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "32"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/af6ae81f-7d7c-46e1-a79c-13bee78489b3.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7Gbo4ZWDdJMRYAf0a8ytvf",
+"title": "Class Of 99 Straight Fit Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/class-of-99-straight-fit-joggers-xs-bonkerscorner-store-33703690600548.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44079172059236",
+"title": "Class Of 99 Straight Fit Joggers",
+"url": "https://www.bonkerscorner.com/products/class-of-99-straight-fit-joggers-2?variant=44079172059236",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "BonkersCorner",
+"url": "https://www.bonkerscorner.com",
+"domain": "bonkerscorner-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/class-of-99-straight-fit-joggers-xs-bonkerscorner-store-33703690600548.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6VfHGXAypEKhYXelEWQciU",
+"title": "Black Everyday Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/Bonkerscorner_black_everyday_joggers_7_d26810c5-eb78-469b-9223-ea2032738adc.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51704068538732",
+"title": "Black Everyday Joggers",
+"url": "https://www.bonkerscorner.com/products/black-everyday-joggers?variant=51704068538732",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "BonkersCorner",
+"url": "https://www.bonkerscorner.com",
+"domain": "bonkerscorner-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/Bonkerscorner_black_everyday_joggers_7_d26810c5-eb78-469b-9223-ea2032738adc.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7nIwpL7d2GRUuTjCR32PqT",
+"title": "Men's Black Sculpt Training Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Dark Grey"
+},
+{
+"label": "Navy"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0657/8110/4808/files/707409_A.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/55400133329064",
+"title": "Men's Black Sculpt Training Joggers",
+"url": "https://cultstore.com/products/men-s-black-sculpt-training-joggers",
+"price": {
+"amount": 116900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Cult.fit Limited",
+"url": "https://cultstore.com",
+"domain": "cult-demo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0657/8110/4808/files/707409_A.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3sYubTnrTTNGDaLcjbIHD3",
+"title": "Relaxed Fit Cargo Joggers",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Arctic Wolf"
+},
+{
+"label": "Arctic Wolf/ Dark Oak"
+},
+{
+"label": "Arctic Wolf/ Eiffel Tower"
+},
+{
+"label": "Arctic Wolf/ Olive Green"
+},
+{
+"label": "Black"
+},
+{
+"label": "Black/ Arctic Wolf"
+},
+{
+"label": "Black/ Dark Oak"
+},
+{
+"label": "Black/ Eiffel Tower"
+},
+{
+"label": "Black/ Olive Green"
+},
+{
+"label": "Dark Oak"
+},
+{
+"label": "Eiffel Tower"
+},
+{
+"label": "Eiffel Tower/ Grey Melange"
+},
+{
+"label": "Eiffel Tower/ Olive Green"
+},
+{
+"label": "Grey Melange"
+},
+{
+"label": "Lavender Fog"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Navy Blue/ Black"
+},
+{
+"label": "Navy Blue/ Dark Oak"
+},
+{
+"label": "Navy Blue/ Eiffel Tower"
+},
+{
+"label": "Navy Blue/ Powder Blue"
+},
+{
+"label": "Nostalgia Rose"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "Olive Green/ Grey Melange"
+},
+{
+"label": "Pale Dogwood"
+},
+{
+"label": "Powder Blue"
+},
+{
+"label": "Slit Green"
+},
+{
+"label": "Twilight Mauve"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "XXXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/BLACK_72b44034-e1eb-4afb-bbda-d634897588f5.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44622371160230",
+"title": "Relaxed Fit Cargo Joggers",
+"url": "https://nobero.com/products/oversized-cargo-joggers?variant=44622371160230",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Nobero",
+"url": "https://nobero.com",
+"domain": "my-dream-store-final.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/BLACK_72b44034-e1eb-4afb-bbda-d634897588f5.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1QD9FUZGmmPOg7TabePDcQ",
+"title": "Cargo Gym Joggers - Regular Fit - Black",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0755/4446/1564/files/1_9f134a31-34d7-46e0-965d-899695007861.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48644148396284",
+"title": "Cargo Gym Joggers - Regular Fit - Black",
+"url": "https://strch.com/products/men-cargo-gym-joggers-black?variant=48644148396284",
+"price": {
+"amount": 120000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "STRCH",
+"url": "https://strch.com",
+"domain": "strchstore.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0755/4446/1564/files/1_9f134a31-34d7-46e0-965d-899695007861.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2z03wY8hpujpQxwtJN3eq0",
+"title": "Black Cargo Joggers w/ 4 Pockets",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+},
+{
+"label": "6XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Green"
+},
+{
+"label": "Off-White"
+},
+{
+"label": "Royal Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0529/7029/1395/files/8_converted.avif"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52332970508501",
+"title": "Black Cargo Joggers w/ 4 Pockets",
+"url": "https://www.fflirtygo.com/products/grey-straight-fit-joggers-1?variant=52332970508501",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "FFlirtyGo",
+"url": "https://www.fflirtygo.com",
+"domain": "fflirtygo-com.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0529/7029/1395/files/8_converted.avif"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5tQHeliblcgVQZ3sQcXkax",
+"title": "Men Black Comfort Fit Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/IMG_0161-AI.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50629339644135",
+"title": "Men Black Comfort Fit Joggers",
+"url": "https://fyva.in/products/men-black-comfort-fit-joggers-fyaw24mjog535blk?variant=50629339644135",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/IMG_0161-AI.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/r6fbup9oEhZ65yFegUGP7",
+"title": "Black and Grey Track pants and Combos For Men",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Black | Grey"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Maroon"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/bljog_109188a7-5880-48a5-8a07-927c3ff7ea06.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46606321025252",
+"title": "Black and Grey Track pants and Combos For Men",
+"url": "https://triprindia.com/products/men-track-pants-combo-under-200?variant=46606321025252",
+"price": {
+"amount": 29900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "TRIPR",
+"url": "https://triprindia.com",
+"domain": "tripr.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/bljog_109188a7-5880-48a5-8a07-927c3ff7ea06.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4ugnlTx5e6bnhnBIeYfyw3",
+"title": "Men's Black Relaxed Fit Solid Cargo Pocket Joggers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutB6_9129000173784.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51361145094360",
+"title": "Men's Black Relaxed Fit Solid Cargo Pocket Joggers",
+"url": "https://tigc.in/products/men-s-black-relaxed-fit-solid-casual-joggers-0725-rxplmtlnjg-05?variant=51361145094360",
+"price": {
+"amount": 134900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutB6_9129000173784.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1uGJh4m41T4FLNlUtC8uc0",
+"title": "Black Tone Joggers for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "34"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0768/8185/4702/files/1_74baf912-b7ad-4081-814d-d0d19aca3c77.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49526291890414",
+"title": "Black Tone Joggers for Men",
+"url": "https://www.beinghumanclothing.com/products/black-tone-joggers-for-men-by-being-human-clothing-bhdi24644-black-tone?variant=49526291890414",
+"price": {
+"amount": 128700,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "34"
+}
+],
+"seller": {
+"name": "beinghuman-clothing",
+"url": "https://www.beinghumanclothing.com",
+"domain": "beinghuman-clothing.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0768/8185/4702/files/1_74baf912-b7ad-4081-814d-d0d19aca3c77.jpg"
+}
+]
+}
+]
+}
+]
+}

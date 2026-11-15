@@ -1,0 +1,1612 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/6qLj0eqqzL0l5H0SdzjApi",
+"title": "Linen White Premium Shirts for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L (40)"
+},
+{
+"label": "M (38)"
+},
+{
+"label": "XL (42)"
+},
+{
+"label": "XXL (44)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/1000635158.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/62400512754035",
+"title": "Linen White Premium Shirts for Men",
+"url": "https://cottondakshin.com/products/linen-white-premium-shirts-for-men?variant=62400512754035",
+"price": {
+"amount": 97900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "M (38)"
+}
+],
+"seller": {
+"name": "Cotton Dakshin",
+"url": "https://cottondakshin.com",
+"domain": "thw1cq-0h.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/1000635158.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6WSucbhckWU7kZEzFmR1HY",
+"title": "Men's White LYOLEN™ Linen Shirt",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige Sand"
+},
+{
+"label": "Blush Pink"
+},
+{
+"label": "Bright Red"
+},
+{
+"label": "Charcoal Brown"
+},
+{
+"label": "Coffee Brown"
+},
+{
+"label": "Ivory Cream"
+},
+{
+"label": "Lavender Purple"
+},
+{
+"label": "Mint Green"
+},
+{
+"label": "Mustard Yellow"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Pale Yellow"
+},
+{
+"label": "Powder Blue"
+},
+{
+"label": "Rust Terracotta"
+},
+{
+"label": "Sage Green"
+},
+{
+"label": "White"
+},
+{
+"label": "Wine"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0646/8344/2410/files/06-editorial-motion_f2e1a669-a4b6-4ba6-9cd3-853d3608fe0a.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46121111159018",
+"title": "Men's White LYOLEN™ Linen Shirt",
+"url": "https://classyvouge.in/products/white-lyolen-linen-shirt-men-women?variant=46121111159018",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Classy Vouge",
+"url": "https://classyvouge.in",
+"domain": "classy-vouge.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0646/8344/2410/files/06-editorial-motion_f2e1a669-a4b6-4ba6-9cd3-853d3608fe0a.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/C6Dc73T1dLu17xxl9cNTN",
+"title": "German Linen Prime White Shirts for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "40 (L)"
+},
+{
+"label": "38 (M)"
+},
+{
+"label": "42 (XL)"
+},
+{
+"label": "44 (XXL)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0833/6667/4644/files/rn-image_picker_lib_temp_88a73db9-604f-4837-b798-6c605f379370.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48233959424212",
+"title": "German Linen Prime White Shirts for Men",
+"url": "https://andhracotton.com/products/german-linen-prime-white-shirts-for-men?variant=48233959424212",
+"price": {
+"amount": 99000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "38 (M)"
+}
+],
+"seller": {
+"name": "Andhra Cotton",
+"url": "https://andhracotton.com",
+"domain": "hvpgxi-nd.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0833/6667/4644/files/rn-image_picker_lib_temp_88a73db9-604f-4837-b798-6c605f379370.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5FVRkj7LEqxNnCRtjQ2Ofb",
+"title": "100% Pure Linen White Shirt For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "44 - 2XL"
+},
+{
+"label": "46 - 3XL"
+},
+{
+"label": "36 - S"
+},
+{
+"label": "38 - M"
+},
+{
+"label": "40 - L"
+},
+{
+"label": "42 - XL"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full Sleeve"
+},
+{
+"label": "Half Sleeve"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/1669/5004/files/alaya-cotton-pure-linen-shirt-fabric-texture.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43069246210268",
+"title": "100% Pure Linen White Shirt For Men",
+"url": "https://www.alayacotton.in/products/100-pure-linen-white-shirt-for-men?variant=43069246210268",
+"price": {
+"amount": 232500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full Sleeve"
+},
+{
+"name": "Size",
+"label": "36 - S"
+}
+],
+"seller": {
+"name": "Alaya Cotton",
+"url": "https://www.alayacotton.in",
+"domain": "alayacotton.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/1669/5004/files/alaya-cotton-pure-linen-shirt-fabric-texture.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5dkIb6GqtMxAc6lfqV4Yj8",
+"title": "Casa Linen White Colour Shirts for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "40 (L)"
+},
+{
+"label": "38 (M)"
+},
+{
+"label": "42 (XL)"
+},
+{
+"label": "44 (XXL)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0833/6667/4644/files/rn-image_picker_lib_temp_4d7668be-073b-45a2-8850-1ead2b0cac5f.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48234319839444",
+"title": "Casa Linen White Colour Shirts for Men",
+"url": "https://andhracotton.com/products/casa-linen-white-colour-shirts-for-men?variant=48234319839444",
+"price": {
+"amount": 99500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "38 (M)"
+}
+],
+"seller": {
+"name": "Andhra Cotton",
+"url": "https://andhracotton.com",
+"domain": "hvpgxi-nd.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0833/6667/4644/files/rn-image_picker_lib_temp_4d7668be-073b-45a2-8850-1ead2b0cac5f.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7DUynpOIZwM2n8P77B8qwn",
+"title": "Belgium Linen White Shirts for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M (38)"
+},
+{
+"label": "XL (42)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/3_6d4eb0f8-4cc1-4ec9-983a-ce9a016a5455.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/62673647763827",
+"title": "Belgium Linen White Shirts for Men",
+"url": "https://cottondakshin.com/products/belgium-linen-white-shirts-for-men?variant=62673647763827",
+"price": {
+"amount": 97500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "M (38)"
+}
+],
+"seller": {
+"name": "Cotton Dakshin",
+"url": "https://cottondakshin.com",
+"domain": "thw1cq-0h.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/3_6d4eb0f8-4cc1-4ec9-983a-ce9a016a5455.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6e0AtC6zwYXISQzdgPVwhE",
+"title": "White Color Solid Cotton Linen Shirt For Men",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Carbon"
+},
+{
+"label": "Cream"
+},
+{
+"label": "Dark Brown"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "Off White"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "3XL/46"
+},
+{
+"label": "L/40"
+},
+{
+"label": "M/38"
+},
+{
+"label": "XL/42"
+},
+{
+"label": "XXL/44"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0270/5607/8908/files/white-color-solid-cotton-linen-shirt-for-men-9438595.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50914920333625",
+"title": "White Color Solid Cotton Linen Shirt For Men",
+"url": "https://www.punekarcotton.com/products/white-color-solid-cotton-linen-shirt-for-men?variant=50914920333625",
+"price": {
+"amount": 115000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "M/38"
+}
+],
+"seller": {
+"name": "Punekar Cotton",
+"url": "https://www.punekarcotton.com",
+"domain": "punekar-cotton.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0270/5607/8908/files/white-color-solid-cotton-linen-shirt-for-men-9438595.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2QDqpBKQpz78zbrT08lWYi",
+"title": "Linen Plus Solid White Shirt For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "44 - 2XL"
+},
+{
+"label": "46 - 3XL"
+},
+{
+"label": "48 - 4XL"
+},
+{
+"label": "36 - S"
+},
+{
+"label": "38 - M"
+},
+{
+"label": "40 - L"
+},
+{
+"label": "42 - XL"
+}
+]
+},
+{
+"name": "Sleeve",
+"values": [
+{
+"label": "Full Sleeve"
+},
+{
+"label": "Half Sleeve"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/1669/5004/files/alaya-cotton-linen-plus-white-shirt-premium-look.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43069249552604",
+"title": "Linen Plus Solid White Shirt For Men",
+"url": "https://www.alayacotton.in/products/linen-plus-solid-white-shirt-for-men?variant=43069249552604",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve",
+"label": "Full Sleeve"
+},
+{
+"name": "Size",
+"label": "36 - S"
+}
+],
+"seller": {
+"name": "Alaya Cotton",
+"url": "https://www.alayacotton.in",
+"domain": "alayacotton.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/1669/5004/files/alaya-cotton-linen-plus-white-shirt-premium-look.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5BlNTPWgs9iwxyMVI2FIMw",
+"title": "Casa Linen Prime White Shirts for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L (40)"
+},
+{
+"label": "M (38)"
+},
+{
+"label": "XL (42)"
+},
+{
+"label": "XXL (44)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/4_ee7dd252-f7f2-4ad8-8bae-c93afc94e0a6.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/62463552684403",
+"title": "Casa Linen Prime White Shirts for Men",
+"url": "https://cottondakshin.com/products/casa-linen-prime-white-shirts-for-men?variant=62463552684403",
+"price": {
+"amount": 96000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "M (38)"
+}
+],
+"seller": {
+"name": "Cotton Dakshin",
+"url": "https://cottondakshin.com",
+"domain": "thw1cq-0h.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/4_ee7dd252-f7f2-4ad8-8bae-c93afc94e0a6.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4iOys6w2MNfSB5JS6AJcT",
+"title": "Italian linen Structure White Shirts for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L (40)"
+},
+{
+"label": "M (38)"
+},
+{
+"label": "XL (42)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/1000624282.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/62400519111027",
+"title": "Italian linen Structure White Shirts for Men",
+"url": "https://cottondakshin.com/products/italian-linen-structure-white-shirts-for-men?variant=62400519111027",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "M (38)"
+}
+],
+"seller": {
+"name": "Cotton Dakshin",
+"url": "https://cottondakshin.com",
+"domain": "thw1cq-0h.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/1000624282.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1PGa9cv3KC5MOUD3RPoxfU",
+"title": "White Linen Shirt For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L (40)"
+},
+{
+"label": "M (38)"
+},
+{
+"label": "XL (42)"
+},
+{
+"label": "XXL (44)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0654/1836/2965/files/RanjhanaPureLinenWhiteShirt.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42820190077013",
+"title": "White Linen Shirt For Men",
+"url": "https://cottoneleven.in/products/white-linen-shirt-for-men?variant=42820190077013",
+"price": {
+"amount": 111100,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M (38)"
+}
+],
+"seller": {
+"name": "Cotton Eleven",
+"url": "https://cottoneleven.in",
+"domain": "qd0zek-tt.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0654/1836/2965/files/RanjhanaPureLinenWhiteShirt.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4jeBtB3zIJS2WJUeoAJkjT",
+"title": "Solid Linen Blend Shirt | White",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+},
+{
+"label": "Khaki"
+},
+{
+"label": "Olive"
+},
+{
+"label": "Pink"
+},
+{
+"label": "White"
+},
+{
+"label": "Wine"
+},
+{
+"label": "Yellow"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/Virat-White-shirt-Zoom-Image.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50448737698093",
+"title": "Solid Linen Blend Shirt | White",
+"url": "https://wrogn.com/products/solid-linen-blend-shirt?variant=50448737698093",
+"price": {
+"amount": 189900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Wrogn",
+"url": "https://wrogn.com",
+"domain": "wrogn-website.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/Virat-White-shirt-Zoom-Image.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5vfv9KFqVeCeKBNuZfNha6",
+"title": "Blended Linen White Shirts For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L (40)"
+},
+{
+"label": "M (38)"
+},
+{
+"label": "XL (42)"
+},
+{
+"label": "XXL (44)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/rn-image_picker_lib_temp_6cba51e2-193c-46ad-803e-5c5101089138.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/62228681752947",
+"title": "Blended Linen White Shirts For Men",
+"url": "https://cottondakshin.com/products/blended-linen-white-shirts-for-men?variant=62228681752947",
+"price": {
+"amount": 96000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "M (38)"
+}
+],
+"seller": {
+"name": "Cotton Dakshin",
+"url": "https://cottondakshin.com",
+"domain": "thw1cq-0h.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0957/1116/6835/files/rn-image_picker_lib_temp_6cba51e2-193c-46ad-803e-5c5101089138.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3ApIdQF9vtruUb7EjqE8NL",
+"title": "Full Sleeve Men's 100% Belgium Linen Sky Blue Shirt | Summer Special",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Buttery Yellow"
+},
+{
+"label": "Khaki"
+},
+{
+"label": "Lavender"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Powder Pink"
+},
+{
+"label": "Sage Green"
+},
+{
+"label": "Sky Blue"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL-44"
+},
+{
+"label": "3XL-46"
+},
+{
+"label": "4XL-48"
+},
+{
+"label": "L-40"
+},
+{
+"label": "M-38"
+},
+{
+"label": "S-36"
+},
+{
+"label": "XL-42"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0662/1102/0874/files/HalfSleeveSkyBlueShirt-4.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43513488638026",
+"title": "Full Sleeve Men's 100% Belgium Linen Sky Blue Shirt | Summer Special",
+"url": "https://frenchcuff.in/products/french-cuff-mens-pure-linen-sky-blue-full-sleeve-shirt-summer-wear?variant=43513488638026",
+"price": {
+"amount": 169900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Sky Blue"
+},
+{
+"name": "Size",
+"label": "S-36"
+}
+],
+"seller": {
+"name": "Frenchcuff.in",
+"url": "https://frenchcuff.in",
+"domain": "t41vxc-hu.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0662/1102/0874/files/HalfSleeveSkyBlueShirt-4.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5evlRl855GfPrBL2GqSTAU",
+"title": "Men White 100% Linen Half Sleeve Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1_acf0ddaa-a1e7-4ed8-96bb-d0c6242a70ed.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48204337578230",
+"title": "Men White 100% Linen Half Sleeve Shirt",
+"url": "https://saadaa.in/products/white-100-linen-half-sleeve-shirt-men?variant=48204337578230",
+"price": {
+"amount": 219900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": " सादा / SAADAA",
+"url": "https://saadaa.in",
+"domain": "saadaa-design.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1_acf0ddaa-a1e7-4ed8-96bb-d0c6242a70ed.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1qOD17RnIb183ypf8krmir",
+"title": "Linen White Colour Shirts for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "40 (L)"
+},
+{
+"label": "38 (M)"
+},
+{
+"label": "42 (XL)"
+},
+{
+"label": "44 (XXL)"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full"
+},
+{
+"label": "Half"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0833/6667/4644/files/rn-image_picker_lib_temp_6dd97844-852f-45bd-8c3c-4a5bab797b38.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48220393832660",
+"title": "Linen White Colour Shirts for Men",
+"url": "https://andhracotton.com/products/linen-white-colour-shirts-for-men?variant=48220393832660",
+"price": {
+"amount": 99000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full"
+},
+{
+"name": "Size",
+"label": "38 (M)"
+}
+],
+"seller": {
+"name": "Andhra Cotton",
+"url": "https://andhracotton.com",
+"domain": "hvpgxi-nd.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0833/6667/4644/files/rn-image_picker_lib_temp_6dd97844-852f-45bd-8c3c-4a5bab797b38.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6p9jENZKoUrh44bhqn56QF",
+"title": "Men's White Linen Blend Full Sleeve Relaxed Fit Casual Solid Shirt",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Coffee"
+},
+{
+"label": "Dusty Pink"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Light Teal"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Sky Blue"
+},
+{
+"label": "Tender Yellow"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/shirtlinluxregfl-04-white-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52612126245180",
+"title": "Men's White Linen Blend Full Sleeve Relaxed Fit Casual Solid Shirt",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-white-linen-blend-full-sleeve-relaxed-fit-casual-solid-shirt-shirtlinluxregfl-04-white?variant=52612126245180",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/shirtlinluxregfl-04-white-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4elAfQm4MZeDrunytZkTZI",
+"title": "White Linen Regular Fit Formal Shirt For Men's",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "42 / L"
+},
+{
+"label": "40 / M"
+},
+{
+"label": "39 / S"
+},
+{
+"label": "44 / XL"
+},
+{
+"label": "38 / XS"
+},
+{
+"label": "46 / XXL"
+}
+]
+},
+{
+"name": "Sleeve length type",
+"values": [
+{
+"label": "Full Sleeve"
+},
+{
+"label": "Half Sleeve"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0862/0746/3700/files/MS120_WLinen_3f8e9b57-017c-4f07-a70b-e21406156625.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47670751494420",
+"title": "White Linen Regular Fit Formal Shirt For Men's",
+"url": "https://johnellies.in/products/white-linen-regular-fit-formal-shirt-for-mens?variant=47670751494420",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Sleeve length type",
+"label": "Full Sleeve"
+},
+{
+"name": "Size",
+"label": "39 / S"
+}
+],
+"seller": {
+"name": "John Ellies India",
+"url": "https://johnellies.in",
+"domain": "john-ellies.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0862/0746/3700/files/MS120_WLinen_3f8e9b57-017c-4f07-a70b-e21406156625.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1uKzkneEQu97TqsmEIagzD",
+"title": "Men’s Linen Cotton Regular Fit Shirt White",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "SMALL"
+},
+{
+"label": "MEDIUM"
+},
+{
+"label": "XXLARGE"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1231/6442/files/M-SHIRTS-17820-21608-WHITE_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51534149648615",
+"title": "Men’s Linen Cotton Regular Fit Shirt White",
+"url": "https://cottonworld.net/products/mens-linen-cotton-regular-fit-shirt-white?variant=51534149648615",
+"price": {
+"amount": 99500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "SMALL"
+}
+],
+"seller": {
+"name": "Cottonworld",
+"url": "https://cottonworld.net",
+"domain": "cottonworld-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1231/6442/files/M-SHIRTS-17820-21608-WHITE_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7uw4dUiq4yJ58d8foaZ06O",
+"title": "Men's White Cotton Linen Regular Fit Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "SMALL"
+},
+{
+"label": "MEDIUM"
+},
+{
+"label": "LARGE"
+},
+{
+"label": "XLARGE"
+},
+{
+"label": "XXLARGE"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Navy"
+},
+{
+"label": "White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1231/6442/files/4_cedecc51-a927-49e4-83d4-c13fec7d6e23.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52274294882535",
+"title": "Men's White Cotton Linen Regular Fit Shirt",
+"url": "https://cottonworld.net/products/m-shirts-50020-21833-white?variant=52274294882535",
+"price": {
+"amount": 219000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "SMALL"
+}
+],
+"seller": {
+"name": "Cottonworld",
+"url": "https://cottonworld.net",
+"domain": "cottonworld-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1231/6442/files/4_cedecc51-a927-49e4-83d4-c13fec7d6e23.png"
+}
+]
+}
+]
+}
+]
+}

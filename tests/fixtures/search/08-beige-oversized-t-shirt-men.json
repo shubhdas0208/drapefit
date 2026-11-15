@@ -1,0 +1,1372 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/1XBbQbS1ARuzJyOfgquOkg",
+"title": "Men Beige Oversized T-shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/3U3A7461_9b710bdc-9a7f-4b77-b4a7-5e24d35365af.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51566371406070",
+"title": "Men Beige Oversized T-shirt",
+"url": "https://saadaa.in/products/men-beige-oversized-t-shirt?variant=51566371406070",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": " सादा / SAADAA",
+"url": "https://saadaa.in",
+"domain": "saadaa-design.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/3U3A7461_9b710bdc-9a7f-4b77-b4a7-5e24d35365af.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7BgC2wBE32glkcPzmlu8Ph",
+"title": "Beige Men’s Solid Oversized T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0740/5754/8008/files/E47D5795-67E2-44EE-B02B-005A7DFF7701.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48055009870056",
+"title": "Beige Men’s Solid Oversized T-Shirt",
+"url": "https://thememehouse.in/products/beige-men-s-solid-oversized-t-shirt?variant=48055009870056",
+"price": {
+"amount": 79500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "The Meme House",
+"url": "https://thememehouse.in",
+"domain": "i8n6zd-0z.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0740/5754/8008/files/E47D5795-67E2-44EE-B02B-005A7DFF7701.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5dBlaBBpjaku2kOo9jLnrp",
+"title": "Men Beige Solid Oversize T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/1_efd457ba-772e-41ab-9a98-b1e04afffe99.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51687333986578",
+"title": "Men Beige Solid Oversize T-Shirt",
+"url": "https://benekleed.com/products/bomhh264vl53-5000x?variant=51687333986578",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Fabric",
+"label": "100% Cotton"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Bene Kleed",
+"url": "https://benekleed.com",
+"domain": "dbf8aa-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/1_efd457ba-772e-41ab-9a98-b1e04afffe99.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6EQRgFK347yaxVXsuCe4l1",
+"title": "Solid Men Oversized T-Shirt - Beige",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0552/0067/7932/files/TU-OST-001-BGE-S.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43683919364140",
+"title": "Solid Men Oversized T-Shirt - Beige",
+"url": "https://pronk.in/products/solid-men-oversized-t-shirt-beige?variant=43683919364140",
+"price": {
+"amount": 55955,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "pronk.in",
+"url": "https://pronk.in",
+"domain": "teeshut-in.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0552/0067/7932/files/TU-OST-001-BGE-S.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4yVSTR6LmoQ3Ly8Dbw5uu6",
+"title": "Mens Beige Embroidered Oversized T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "100 % Cotton"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/1_1f92675e-5da4-4b33-9a96-cc2124d8c194.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52624332685586",
+"title": "Mens Beige Embroidered Oversized T-Shirt",
+"url": "https://benekleed.com/products/bomhh264v-fk0063-c002-a1665?variant=52624332685586",
+"price": {
+"amount": 74900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Fabric",
+"label": "100 % Cotton"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Bene Kleed",
+"url": "https://benekleed.com",
+"domain": "dbf8aa-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/1_1f92675e-5da4-4b33-9a96-cc2124d8c194.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/31exKIij4Ws8C5ZMHhdz4j",
+"title": "Men Beige Oversized Embroidered Half Sleeves T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/file_471c9050-ea86-472b-9dbe-e81d14e8cddd.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52596575240466",
+"title": "Men Beige Oversized Embroidered Half Sleeves T-Shirt",
+"url": "https://benekleed.com/products/bomhh264v-fk0063-c002-a1611?variant=52596575240466",
+"price": {
+"amount": 74900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Fabric",
+"label": "100% Cotton"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Bene Kleed",
+"url": "https://benekleed.com",
+"domain": "dbf8aa-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/file_471c9050-ea86-472b-9dbe-e81d14e8cddd.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4yo55chQr08SbfWReXHs4K",
+"title": "Rebelz Beige Oversized Graphic Printed T-shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1982/7331/files/Artboard_2_84.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/41788811673655",
+"title": "Rebelz Beige Oversized Graphic Printed T-shirt",
+"url": "https://veirdo.in/products/rebelz-swanwhite-oversized-graphic-printed-exclusive-t-shirt?variant=41788811673655",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Veirdo",
+"url": "https://veirdo.in",
+"domain": "veirdo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1982/7331/files/Artboard_2_84.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5rVAFAeZ6CZqvwUGOv7JZQ",
+"title": "Men Beige Graphic Oversized Half Sleeves T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/file_2c305c37-202e-45db-b459-f5ebea998cf4.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52328738324754",
+"title": "Men Beige Graphic Oversized Half Sleeves T-Shirt",
+"url": "https://benekleed.com/products/bomhh264v-fk0063-c002-a1587?variant=52328738324754",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Fabric",
+"label": "100% Cotton"
+},
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Bene Kleed",
+"url": "https://benekleed.com",
+"domain": "dbf8aa-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0751/4914/8434/files/file_2c305c37-202e-45db-b459-f5ebea998cf4.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7ELtUQXuEhA2vzvE1vmBo4",
+"title": "Men Beige Oversized T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/OVR24-GOAT-BE-9.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51206415089895",
+"title": "Men Beige Oversized T-Shirt",
+"url": "https://fyva.in/products/men-beige-oversized-tshirts-ros25-goat-be?variant=51206415089895",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/OVR24-GOAT-BE-9.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3val7VjHz68f4Kpg6ZKDPh",
+"title": "Boston Beige Black Oversized Half Sleeve T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/BLK_BSTN_-01_acbe1415-d9c9-43c0-9a3f-7733a113af84.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45963983552741",
+"title": "Boston Beige Black Oversized Half Sleeve T-Shirt",
+"url": "https://maniaclife.com/products/mn23-rn-rgln-hs-os-beige-black-bstn?variant=45963983552741",
+"price": {
+"amount": 64900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Maniac",
+"url": "https://maniaclife.com",
+"domain": "maniaclife-com.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/BLK_BSTN_-01_acbe1415-d9c9-43c0-9a3f-7733a113af84.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5DA2K7jviyGD9PiLQgtQCU",
+"title": "HUSTLE Men's Crew Neck Oversized T-Shirt – Mushroom Beige",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0557/3276/4738/files/e8a6f37f-79ec-4751-b0e6-9bc8e31e18c8.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45183610617922",
+"title": "HUSTLE Men's Crew Neck Oversized T-Shirt – Mushroom Beige",
+"url": "https://halfpe.com/products/hustle-mens-crew-neck-oversized-t-shirt-mushroom-beige?variant=45183610617922",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "HalfPe",
+"url": "https://halfpe.com",
+"domain": "halfpeapp.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0557/3276/4738/files/e8a6f37f-79ec-4751-b0e6-9bc8e31e18c8.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2ws0n9eryCXii3TVV3OShI",
+"title": "Drift Cotton Oversized T-shirts Smoky Beige",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0272/5065/5367/files/Drift_Cotton_Oversized_T-shirts_Smoky_Beige__primary_1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45460536000665",
+"title": "Drift Cotton Oversized T-shirts Smoky Beige",
+"url": "https://xyxxcrew.com/products/drift-cotton-oversized-tshirt-mens-smoky-beige?variant=45460536000665",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Medium (M)"
+}
+],
+"seller": {
+"name": "XYXX Apparels",
+"url": "https://xyxxcrew.com",
+"domain": "xyxx-apparels.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0272/5065/5367/files/Drift_Cotton_Oversized_T-shirts_Smoky_Beige__primary_1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/uoBSReUKX09i8pCqUJeB8",
+"title": "Men Printed Oversized Tshirt Beige",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/TBGDGYRNOS-D2311.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47898488733924",
+"title": "Men Printed Oversized Tshirt Beige",
+"url": "https://triprindia.com/products/men-over-sized-dual-color-baggy-t-shirt-d231-beige-dark-grey?variant=47898488733924",
+"price": {
+"amount": 29900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "TRIPR",
+"url": "https://triprindia.com",
+"domain": "tripr.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/TBGDGYRNOS-D2311.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5kVHWyHoKW3JmmIi4y39jB",
+"title": "Chosen Fox Men's Kyoto Oversized T-Shirt - Beige",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0800/0779/0828/files/DRAGON_2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47254470361324",
+"title": "Chosen Fox Men's Kyoto Oversized T-Shirt - Beige",
+"url": "https://hotoffwardrobe.com/products/chosen-fox-mens-oversized-drop-shoulder-100-premium-cotton-dragon-printed-t-shirts-beige?variant=47254470361324",
+"price": {
+"amount": 64900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Hot Off Wardrobe (H.O.W)",
+"url": "https://hotoffwardrobe.com",
+"domain": "xny7j0-yq.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0800/0779/0828/files/DRAGON_2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6K7ZLNAbfdfU67b1HLlhTk",
+"title": "Solid Oversized Crew Neck T-shirt | Beige",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/WUTS5616M_Close_Up.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51426504769837",
+"title": "Solid Oversized Crew Neck T-shirt | Beige",
+"url": "https://wrogn.com/products/solid-oversized-crew-neck-tshirt-beige-wuts5616m?variant=51426504769837",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Wrogn",
+"url": "https://wrogn.com",
+"domain": "wrogn-website.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/WUTS5616M_Close_Up.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4dFdFSammSK8LCtseLqcZE",
+"title": "Beige Drop Shoulder Sleeves Oversized Fit T-Shirt For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0621/4687/1409/files/8909429418552_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43314775687281",
+"title": "Beige Drop Shoulder Sleeves Oversized Fit T-Shirt For Men",
+"url": "https://www.ownd.in/products/beige-drop-shoulder-sleeves-oversized-fit-t-shirt-for-men-1234762?variant=43314775687281",
+"price": {
+"amount": 39900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "OWND!",
+"url": "https://www.ownd.in",
+"domain": "styleup-store-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0621/4687/1409/files/8909429418552_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2so70v1g3ZHB8SbHvA0WWe",
+"title": "HUSTLE Men's Crew Neck Oversized T-Shirt – Beige Cream",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0557/3276/4738/files/37ZFggnUr7.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45170484281410",
+"title": "HUSTLE Men's Crew Neck Oversized T-Shirt – Beige Cream",
+"url": "https://halfpe.com/products/hustle-mens-crew-neck-oversized-t-shirt-beige-cream?variant=45170484281410",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "HalfPe",
+"url": "https://halfpe.com",
+"domain": "halfpeapp.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0557/3276/4738/files/37ZFggnUr7.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/262OWjNsZVTIiiFmSowbfq",
+"title": "Houston Beige Half Sleeve T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige, Brown"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/1_4afc9a7f-9513-432f-a957-7a302166e84a.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46836132413669",
+"title": "Houston Beige Half Sleeve T-Shirt",
+"url": "https://maniaclife.com/products/mn25-rn-hs-beg-brwn-fltknt-hustn-32?variant=46836132413669",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige, Brown"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Maniac",
+"url": "https://maniaclife.com",
+"domain": "maniaclife-com.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/1_4afc9a7f-9513-432f-a957-7a302166e84a.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1xuvAisKqRlDa8oPIlOVt4",
+"title": "Men's Ginger Root Textured Round Neck Oversized Full Sleeve Cotton T-Shirt",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Chocolate Brown"
+},
+{
+"label": "Cloud Cream"
+},
+{
+"label": "Ginger Root"
+},
+{
+"label": "Lavender"
+},
+{
+"label": "Lilac"
+},
+{
+"label": "Pastel Blue"
+},
+{
+"label": "Pastel Green"
+},
+{
+"label": "Plum"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/txtovfstee-02-gingerbro-1_2357a835-2376-4b85-b61f-12526df5048e.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51210170401084",
+"title": "Men's Ginger Root Textured Round Neck Oversized Full Sleeve Cotton T-Shirt",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-ginger-root-textured-round-neck-oversized-full-sleeve-cotton-t-shirt-txtovfstee-02-gingerbro?variant=51210170401084",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Ginger Root"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/txtovfstee-02-gingerbro-1_2357a835-2376-4b85-b61f-12526df5048e.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7IVKq1VkujJ8lWtOsEYoJB",
+"title": "Crush Beige Oversize T-Shirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0266/1125/3320/files/BushirtOversizeT-Shirt-6_bdf4c84d-95b1-46dd-98db-e7a8d84159cd.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46140408561914",
+"title": "Crush Beige Oversize T-Shirt",
+"url": "https://www.bushirt.in/products/crush-beige-oversize-t-shirt?variant=46140408561914",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Bushirt",
+"url": "https://www.bushirt.in",
+"domain": "bushirtin.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0266/1125/3320/files/BushirtOversizeT-Shirt-6_bdf4c84d-95b1-46dd-98db-e7a8d84159cd.jpg"
+}
+]
+}
+]
+}
+]
+}

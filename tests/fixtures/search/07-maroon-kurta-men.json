@@ -1,0 +1,1246 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/3gxfLL9DNSEsa4UUDtZ3LO",
+"title": "Maroon Khadi Cotton Kurta for Men in Traditional Style",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "38"
+},
+{
+"label": "40"
+},
+{
+"label": "42"
+},
+{
+"label": "44"
+},
+{
+"label": "46"
+},
+{
+"label": "48"
+},
+{
+"label": "50"
+},
+{
+"label": "52"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0587/6996/5231/files/khadisadan.myshopify.com_a1b2be6b-3017-49ee-8c38-76b423d8ad27.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44223875252399",
+"title": "Maroon Khadi Cotton Kurta for Men in Traditional Style",
+"url": "https://khaddarvas.com/products/maroon-color-khadi-cotton-kurta?variant=44223875252399",
+"price": {
+"amount": 146900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "38"
+}
+],
+"seller": {
+"name": "Khadi Sadan",
+"url": "https://khaddarvas.com",
+"domain": "khadisadan.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0587/6996/5231/files/khadisadan.myshopify.com_a1b2be6b-3017-49ee-8c38-76b423d8ad27.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3D9CwtZUG3YdTE4VMye4Yi",
+"title": "Ethnic Bay Men Maroon Cotton Solid Woven Design Straight Kurta MKU1096",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S-38"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0742/6752/5172/files/MKU1096_2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47393875656756",
+"title": "Ethnic Bay Men Maroon Cotton Solid Woven Design Straight Kurta MKU1096",
+"url": "https://ethnicbay.in/products/ethnic-bay-men-maroon-cotton-solid-woven-design-straight-kurta-mku1096?variant=47393875656756",
+"price": {
+"amount": 64900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S-38"
+}
+],
+"seller": {
+"name": "Ethnic Bay",
+"url": "https://ethnicbay.in",
+"domain": "ethnic-bay-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0742/6752/5172/files/MKU1096_2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4PNBoAVff9VCcHlhxq6QJn",
+"title": "Men Maroon and Gold Sequins Embroidered Chanderi Silk Straight Kurta With Pyjama",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Maroon"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0723/5813/4050/files/1_494e1cf2-63ab-4f5d-9d87-325a51cb90aa.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49309603528994",
+"title": "Men Maroon and Gold Sequins Embroidered Chanderi Silk Straight Kurta With Pyjama",
+"url": "https://www.seedesigns.in/products/men-maroon-and-gold-sequins-embroidered-chanderi-silk-straight-kurta-with-pyjama?variant=49309603528994",
+"price": {
+"amount": 140700,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Maroon"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "See Designs",
+"url": "https://www.seedesigns.in",
+"domain": "6c7fa8.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0723/5813/4050/files/1_494e1cf2-63ab-4f5d-9d87-325a51cb90aa.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2HOKo6fIodM1VskHN9QfLZ",
+"title": "Men Maroon Airy Linen Long Kurta",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Ecru"
+},
+{
+"label": "Lemon Yellow"
+},
+{
+"label": "Lilac"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Mint Green"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Rose Taupe"
+},
+{
+"label": "Salmon Pink"
+},
+{
+"label": "Sky Blue"
+},
+{
+"label": "Teal"
+},
+{
+"label": "White"
+},
+{
+"label": "Yellow"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1_a415a02b-6992-4bf5-83b4-54526ac8b1f0.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48982929670390",
+"title": "Men Maroon Airy Linen Long Kurta",
+"url": "https://saadaa.in/products/men-maroon-airy-linen-long-kurta?variant=48982929670390",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Maroon"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": " सादा / SAADAA",
+"url": "https://saadaa.in",
+"domain": "saadaa-design.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1_a415a02b-6992-4bf5-83b4-54526ac8b1f0.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/63IIbDR15DDsT4O9bX4dX6",
+"title": "Bandhan – Maroon Printed Cotton Short Kurta for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0799/9904/1754/files/bandhanhim1opt2.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48304721854682",
+"title": "Bandhan – Maroon Printed Cotton Short Kurta for Men",
+"url": "https://slayvana.com/products/bandhan-for-him?variant=48304721854682",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Slayvana",
+"url": "https://slayvana.com",
+"domain": "ccbn0n-gr.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0799/9904/1754/files/bandhanhim1opt2.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2Tfxa1l4pHllHHFJi6vSHk",
+"title": "Maroon Ombre Printed Kurtas For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0070/4285/9119/files/KO_5074Maroon_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46753587101920",
+"title": "Maroon Ombre Printed Kurtas For Men",
+"url": "https://jompers.com/products/maroon-ombre-printed-kurtas-for-men-ko_5074maroon?variant=46753587101920",
+"price": {
+"amount": 75500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Jompers",
+"url": "https://jompers.com",
+"domain": "jompers.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0070/4285/9119/files/KO_5074Maroon_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3WYXqwTf5dcmzlNXNwezjN",
+"title": "Men's Premium Maroon Embroidered Cotton Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0736/3638/0750/files/WhatsAppImage2026-06-24at16.50.29_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43894179856462",
+"title": "Men's Premium Maroon Embroidered Cotton Kurta",
+"url": "https://www.akshayafashion.in/products/mens-premium-maroon-embroidered-cotton-kurta?variant=43894179856462",
+"price": {
+"amount": 54900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "AkshayaFashion",
+"url": "https://www.akshayafashion.in",
+"domain": "gh9awp-s5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0736/3638/0750/files/WhatsAppImage2026-06-24at16.50.29_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5wMz4kvL1khGxmzVC6WlWN",
+"title": "Maroon-Blue Cotton  Kurta for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "44/2XL"
+},
+{
+"label": "36/S"
+},
+{
+"label": "38/M"
+},
+{
+"label": "40/L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0162/7812/6656/files/Gemini_Generated_Image_4jkyjn4jkyjn4jky_540x_f7421955-5ae0-4aa3-b9c9-48b1dca6ce83.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/28057040322624",
+"title": "Maroon-Blue Cotton  Kurta for Men",
+"url": "https://www.dheu.in/products/maroon-blue-cotton-kurta-for-men?variant=28057040322624",
+"price": {
+"amount": 63000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "38/M"
+}
+],
+"seller": {
+"name": "Dheu ",
+"url": "https://www.dheu.in",
+"domain": "dheu-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0162/7812/6656/files/Gemini_Generated_Image_4jkyjn4jkyjn4jky_540x_f7421955-5ae0-4aa3-b9c9-48b1dca6ce83.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/67WORmM8ffO6ZVwJQ4Ihy4",
+"title": "Men's Maroon Cotton Silk Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0020/5815/8150/products/1566387770462_VASMUK001MA-originnm80prcnt.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/32874815914059",
+"title": "Men's Maroon Cotton Silk Kurta",
+"url": "https://cliqtoday.com/products/mens-maroon-cotton-silk-kurta-3007967?variant=32874815914059",
+"price": {
+"amount": 97100,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "2XL"
+}
+],
+"seller": {
+"name": "CliqToday",
+"url": "https://cliqtoday.com",
+"domain": "cliqtoday.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0020/5815/8150/products/1566387770462_VASMUK001MA-originnm80prcnt.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5jbgb4W4X2aPeJX2YCjOfH",
+"title": "Khadi Kurta for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "48/4XL"
+},
+{
+"label": "38/M"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0162/7812/6656/files/Gemini_Generated_Image_kjmlm3kjmlm3kjml.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/31373536821312",
+"title": "Khadi Kurta for Men",
+"url": "https://www.dheu.in/products/khadi-kurta-for-men-5?variant=31373536821312",
+"price": {
+"amount": 39000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "38/M"
+}
+],
+"seller": {
+"name": "Dheu ",
+"url": "https://www.dheu.in",
+"domain": "dheu-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0162/7812/6656/files/Gemini_Generated_Image_kjmlm3kjmlm3kjml.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/OfWm6z97q2sRuMkyqgmgi",
+"title": "Hand painted Kurta for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "48/4XL"
+},
+{
+"label": "46/3XL"
+},
+{
+"label": "44/2XL"
+},
+{
+"label": "36/S"
+},
+{
+"label": "38/M"
+},
+{
+"label": "40/L"
+},
+{
+"label": "42/XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0162/7812/6656/files/DSM1001K_950.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47258209157350",
+"title": "Hand painted Kurta for Men",
+"url": "https://www.dheu.in/products/hand-painted-kurta-for-men-22?variant=47258209157350",
+"price": {
+"amount": 135000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "36/S"
+}
+],
+"seller": {
+"name": "Dheu ",
+"url": "https://www.dheu.in",
+"domain": "dheu-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0162/7812/6656/files/DSM1001K_950.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6uWecA6aIdske8BE7a3eKw",
+"title": "Jompers Men Maroon Chikan Kurta Only",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0070/4285/9119/files/KO_561Maroon_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44747151474912",
+"title": "Jompers Men Maroon Chikan Kurta Only",
+"url": "https://jompers.com/products/jompers-men-maroon-chikan-kurta-only-ko_561maroon?variant=44747151474912",
+"price": {
+"amount": 72500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Jompers",
+"url": "https://jompers.com",
+"domain": "jompers.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0070/4285/9119/files/KO_561Maroon_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6ZTqhWEZZ8kcGI63U0WZA2",
+"title": "Men’s Premium Maroon Cotton Kurta Shirt – Floral Embroidery | Festive & Casual Wear",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Maroon"
+},
+{
+"label": "Teal"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0650/1308/8424/files/sam52-Photoroom_88c037d0-f242-48f8-828a-e401be8a135f.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/54554324730024",
+"title": "Men’s Premium Maroon Cotton Kurta Shirt – Floral Embroidery | Festive & Casual Wear",
+"url": "https://www.simplikurta.com/products/men-s-premium-maroon-cotton-kurta-shirt-floral-embroidery-festive-casual-wear?variant=54554324730024",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Maroon"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "simplikurta",
+"url": "https://www.simplikurta.com",
+"domain": "c466fb-8b.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0650/1308/8424/files/sam52-Photoroom_88c037d0-f242-48f8-828a-e401be8a135f.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/34B7eM7Cgubllouweeb50F",
+"title": "Maroon Springs Handwoven Organic Cotton Men Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0711/5790/7743/files/t92L850Jp2BmNL8v1w7rf_fzCuTN7z_00001.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50977135984927",
+"title": "Maroon Springs Handwoven Organic Cotton Men Kurta",
+"url": "https://www.weaversindia.co.in/products/handwoven-cotton-men-kurta-0027531?variant=50977135984927",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "38"
+}
+],
+"seller": {
+"name": "WeaversIndia",
+"url": "https://www.weaversindia.co.in",
+"domain": "admin-weaversindia-co-in.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0711/5790/7743/files/t92L850Jp2BmNL8v1w7rf_fzCuTN7z_00001.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1CzuFNrTL776ZQtBwa0CFr",
+"title": "Men Maroon Airy Linen Short Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1.1_b7cc677e-13bf-4d3e-8a91-9c6eb8f9c650.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48969700540662",
+"title": "Men Maroon Airy Linen Short Kurta",
+"url": "https://saadaa.in/products/men-maroon-airy-linen-short-kurta?variant=48969700540662",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": " सादा / SAADAA",
+"url": "https://saadaa.in",
+"domain": "saadaa-design.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1.1_b7cc677e-13bf-4d3e-8a91-9c6eb8f9c650.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3koKz66WwdeygzN9OpbaES",
+"title": "Jompers Men Maroon Chikan Kurta with Churidar",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Maroon"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0070/4285/9119/files/JOKP_561Maroon_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44747151638752",
+"title": "Jompers Men Maroon Chikan Kurta with Churidar",
+"url": "https://jompers.com/products/jompers-men-maroon-chikan-kurta-with-churidar-jokp_561maroon?variant=44747151638752",
+"price": {
+"amount": 95900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Maroon"
+},
+{
+"name": "Size",
+"label": "Extra large (XL)"
+}
+],
+"seller": {
+"name": "Jompers",
+"url": "https://jompers.com",
+"domain": "jompers.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0070/4285/9119/files/JOKP_561Maroon_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/kFa0s7padPvdYw27rZQs2",
+"title": "Men Japanese Imported Maroon Embroidered Kurta ( 65KO 5504Maroon )",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0698/8487/0953/files/65KO_5504Maroon_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53339057488169",
+"title": "Men Japanese Imported Maroon Embroidered Kurta ( 65KO 5504Maroon )",
+"url": "https://wholesale.jompers.in/products/men-japanese-imported-maroon-embroidered-kurta-65ko_5504maroon?variant=53339057488169",
+"price": {
+"amount": 118500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Double extra large (XXL)"
+}
+],
+"seller": {
+"name": "Jompers Wholesale",
+"url": "https://wholesale.jompers.in",
+"domain": "jompers-wholesale.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0698/8487/0953/files/65KO_5504Maroon_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2fvOF5QBeya7Zr4KV0dpd9",
+"title": "Men's Floral Embroidered Sequinned Kurta with Bottom, Maroon",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+},
+{
+"label": "42"
+},
+{
+"label": "44"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/1453/2235/files/N2_fc0d1712-6572-4d84-a545-83140ad78a52.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49323455414411",
+"title": "Men's Floral Embroidered Sequinned Kurta with Bottom, Maroon",
+"url": "https://groviano.com/products/mens-floral-embroidered-sequinned-kurta-with-bottom-maroon?variant=49323455414411",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "36"
+}
+],
+"seller": {
+"name": "Groviano",
+"url": "https://groviano.com",
+"domain": "a5caae-ac.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/1453/2235/files/N2_fc0d1712-6572-4d84-a545-83140ad78a52.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/8O98BUcqUfvBKSEWINf5V",
+"title": "Ayaan Mens Cotton Chikankari Kurta - Maroon colour",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "42"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0786/7806/5437/files/rn-image_picker_lib_temp_ce82a043-3a70-4d41-97b4-8e85e848e784.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50012014346525",
+"title": "Ayaan Mens Cotton Chikankari Kurta - Maroon colour",
+"url": "https://chikankaar.com/products/ayaan-mens-cotton-chikankari-kurta-maroon-colour?variant=50012014346525",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "42"
+}
+],
+"seller": {
+"name": "Chikankaar",
+"url": "https://chikankaar.com",
+"domain": "chikankaar-3397.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0786/7806/5437/files/rn-image_picker_lib_temp_ce82a043-3a70-4d41-97b4-8e85e848e784.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/73Zphq82ngz3vqSiNDvL3y",
+"title": "Maroon Classic Solid Cotton Men’S Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL-44"
+},
+{
+"label": "L-40"
+},
+{
+"label": "S-36"
+},
+{
+"label": "XL-42"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Maroon"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0714/8686/5652/files/012603204569-2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48214242394356",
+"title": "Maroon Classic Solid Cotton Men’S Kurta",
+"url": "https://shayonastore.com/products/maroon-classic-solid-cotton-men-s-kurta?variant=48214242394356",
+"price": {
+"amount": 79000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Maroon"
+},
+{
+"name": "Size",
+"label": "S-36"
+}
+],
+"seller": {
+"name": "SHAYONA LIFESTYLE PRIVATE LIMITED",
+"url": "https://shayonastore.com",
+"domain": "6696c8-30.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0714/8686/5652/files/012603204569-2.jpg"
+}
+]
+}
+]
+}
+]
+}

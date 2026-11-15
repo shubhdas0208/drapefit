@@ -1,6 +1,7 @@
 """Shared test fixtures.
 
-Search fixtures are the real spike-01 responses (docs/research/spike-01-raw/).
+Search fixtures are trimmed copies of the spike-01 catalog responses (tests/fixtures/search/):
+only the fields the code reads, no descriptions or tracking parameters.
 get_product fixtures are real recorded payloads (tests/fixtures/), plus a fake that
 derives a sized variant from the search hit so pipeline tests stay offline.
 """
@@ -19,13 +20,12 @@ from drapefit.store import Store
 from drapefit.telegram import TelegramError
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-RAW = ROOT / "docs" / "research" / "spike-01-raw"
+RAW = ROOT / "tests" / "fixtures" / "search"
 FIXTURES = ROOT / "tests" / "fixtures"
 
 
 def load_search(name: str) -> list[dict]:
-    data = json.loads((RAW / f"{name}.json").read_text(encoding="utf-8"))
-    return data["india"]["result"]["structuredContent"]["products"]
+    return json.loads((RAW / f"{name}.json").read_text(encoding="utf-8"))["products"]
 
 
 def load_fixture(name: str) -> dict:

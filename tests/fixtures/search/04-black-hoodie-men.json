@@ -1,0 +1,1531 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/31WjtpUH9gu8AaWDDDOzhm",
+"title": "Men's Solid Zip-Up Hoodie Sweatshirt  | Black",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/WVSS9609W-D_copy.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51479843766573",
+"title": "Men's Solid Zip-Up Hoodie Sweatshirt  | Black",
+"url": "https://wrogn.com/products/men-s-solid-zip-up-hoodie-sweatshirt-jetblack-wvss9609w-d?variant=51479843766573",
+"price": {
+"amount": 179900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Wrogn",
+"url": "https://wrogn.com",
+"domain": "wrogn-website.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/WVSS9609W-D_copy.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7yEBa5ujstzk75oSuI1pNX",
+"title": "No Fade Black Hoodie",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0686/3424/7403/files/1_1_c0415071-5760-44b8-bff5-7f7fcd1eec18.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44609099301099",
+"title": "No Fade Black Hoodie",
+"url": "https://blakc.co.in/products/hoodie?variant=44609099301099",
+"price": {
+"amount": 149000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Blakc",
+"url": "https://blakc.co.in",
+"domain": "645f21-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0686/3424/7403/files/1_1_c0415071-5760-44b8-bff5-7f7fcd1eec18.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1TxZQcbThEFB39DsCd8MBB",
+"title": "Men's Jet Black Cotton Solid Oversized Hooded Neck Sweatshirt",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Ballad Blue"
+},
+{
+"label": "Chocolate Brown"
+},
+{
+"label": "Cool Matcha"
+},
+{
+"label": "Fog Teal Green"
+},
+{
+"label": "Iris Navy"
+},
+{
+"label": "Ivory"
+},
+{
+"label": "Jet Black"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Old Rose"
+},
+{
+"label": "Potent Olive"
+},
+{
+"label": "Potent Purple"
+},
+{
+"label": "Purple Heather"
+},
+{
+"label": "Silver Lining"
+},
+{
+"label": "Sun Yellow"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/swtsolhdovs-01-jetblk-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50342228361532",
+"title": "Men's Jet Black Cotton Solid Oversized Hooded Neck Sweatshirt",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-jet-black-cotton-solid-oversized-hooded-neck-sweatshirt-swtsolhdovs-01-jetblk?variant=50342228361532",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Jet Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/swtsolhdovs-01-jetblk-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2IjHYs2cetjLJbo0513FRC",
+"title": "Men's Black Regular Fit Hooded Neck Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/nmss4b25-black.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50940334080317",
+"title": "Men's Black Regular Fit Hooded Neck Sweatshirt",
+"url": "https://www.numerounojeanswear.com/products/mens-black-regular-fit-hooded-neck-sweatshirt-nmss4b25-black?variant=50940334080317",
+"price": {
+"amount": 143900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Numero Uno",
+"url": "https://www.numerounojeanswear.com",
+"domain": "numerounojeanswear.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/nmss4b25-black.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3pcdJ6P2py90XlzEkoNXVf",
+"title": "Oversized Hoodie",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Almond Buff"
+},
+{
+"label": "Black"
+},
+{
+"label": "Bone White"
+},
+{
+"label": "Chocolate Fondant"
+},
+{
+"label": "Cobalt Blue"
+},
+{
+"label": "Cool Matcha"
+},
+{
+"label": "Future Dusk"
+},
+{
+"label": "Graphite"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Midnight Plum"
+},
+{
+"label": "Mocha Bisque"
+},
+{
+"label": "Mustard Yellow"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "Pink Clay"
+},
+{
+"label": "Powder Blue"
+},
+{
+"label": "Verdigris Blue"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "XXXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/Black_008bf23d-b546-49da-ac48-c6d8cd65a9ec.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46605453557926",
+"title": "Oversized Hoodie",
+"url": "https://nobero.com/products/oversized-hoodie-47?variant=46605453557926",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Nobero",
+"url": "https://nobero.com",
+"domain": "my-dream-store-final.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/Black_008bf23d-b546-49da-ac48-c6d8cd65a9ec.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5UFxyyj9WwimS9aC8ju8DK",
+"title": "Black Regular Fit Hoodie",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0768/8185/4702/files/BHHLS24750-BLACK_2.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47071638094062",
+"title": "Black Regular Fit Hoodie",
+"url": "https://www.beinghumanclothing.com/products/being-human-clothing-mens-top-hoody-black-bhhls24750-black?variant=47071638094062",
+"price": {
+"amount": 124800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "beinghuman-clothing",
+"url": "https://www.beinghumanclothing.com",
+"domain": "beinghuman-clothing.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0768/8185/4702/files/BHHLS24750-BLACK_2.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4B7fDBp5AfBYaQTR0XtMnk",
+"title": "Black Solid Regular Hoodie",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0769/4496/5668/files/the-eg-store-s-premium-black-solid-hoodie-regular-fit-comfort-style-28038534660132.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43517793992740",
+"title": "Black Solid Regular Hoodie",
+"url": "https://theegstore.com/products/premium-black-solid-hoodie-regular-fit-comfort-style?variant=43517793992740",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "THE EG STORE",
+"url": "https://theegstore.com",
+"domain": "654xne-c5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0769/4496/5668/files/the-eg-store-s-premium-black-solid-hoodie-regular-fit-comfort-style-28038534660132.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6ihkuR6eRIMnWOxROGxjvh",
+"title": "Dual Zip Black Sweatshirt",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/1_acb6d152-219c-4136-bbdd-37fe468bed96.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47812773150949",
+"title": "Dual Zip Black Sweatshirt",
+"url": "https://maniaclife.com/products/mn25-swt-hd-fs-fzip-black-dualzip?variant=47812773150949",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "2XL"
+}
+],
+"seller": {
+"name": "Maniac",
+"url": "https://maniaclife.com",
+"domain": "maniaclife-com.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/1_acb6d152-219c-4136-bbdd-37fe468bed96.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/gjaB2nDryP3Yu1xqae5Yk",
+"title": "Discover Yourself Classic Hoodie",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "XXXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/discover_feab5973-3f85-41a7-b446-0fa427e9ae73.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45772655886502",
+"title": "Discover Yourself Classic Hoodie",
+"url": "https://nobero.com/products/discover-yourself-classic-fit-hoodie?variant=45772655886502",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Nobero",
+"url": "https://nobero.com",
+"domain": "my-dream-store-final.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0337/9413/0052/files/discover_feab5973-3f85-41a7-b446-0fa427e9ae73.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3bjIeYbkBRLbrzurRNHT9w",
+"title": "Z Black Heavyweight Baggy Hoodie For Men (Without Draws)",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/9578/3843/files/1_39.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47565853229279",
+"title": "Z Black Heavyweight Baggy Hoodie For Men (Without Draws)",
+"url": "https://www.burgerbaeclothing.com/products/the-burger-bae-hoodie-z-black-without-draws?variant=47565853229279",
+"price": {
+"amount": 189900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "BurgerBae",
+"url": "https://www.burgerbaeclothing.com",
+"domain": "bxbsocials.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/9578/3843/files/1_39.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5lqz45nrJ0nKGpx8eerGli",
+"title": "Plus Men's Jet Black Cotton Solid Oversized Hooded Neck Sweatshirt",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Ballad Blue"
+},
+{
+"label": "Chocolate Brown"
+},
+{
+"label": "Cool Matcha"
+},
+{
+"label": "Fog Teal Green"
+},
+{
+"label": "Iris Navy"
+},
+{
+"label": "Ivory"
+},
+{
+"label": "Jet Black"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Old Rose"
+},
+{
+"label": "Potent Olive"
+},
+{
+"label": "Potent Purple"
+},
+{
+"label": "Purple Heather"
+},
+{
+"label": "Silver Lining"
+},
+{
+"label": "Sun Yellow"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusswtsolhdovsp-01-jetblk-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50342234751292",
+"title": "Plus Men's Jet Black Cotton Solid Oversized Hooded Neck Sweatshirt",
+"url": "https://www.urbanofashion.com/products/urbano-plus-mens-jet-black-cotton-solid-oversized-hooded-neck-sweatshirt-plusswtsolhdovsp-01-jetblk?variant=50342234751292",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Jet Black"
+},
+{
+"name": "Size",
+"label": "2XL"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusswtsolhdovsp-01-jetblk-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/POH1JOFCiVp3SNFlaudsV",
+"title": "HOODIE MEN SG H4MH8248 BLACK",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0827/6249/8336/files/1_20-Edited1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50652382134560",
+"title": "HOODIE MEN SG H4MH8248 BLACK",
+"url": "https://shop.teamsg.in/products/hoodie-men-sg-h4mh8248-black?variant=50652382134560",
+"price": {
+"amount": 93560,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "TeamSG",
+"url": "https://shop.teamsg.in",
+"domain": "teamsg.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0827/6249/8336/files/1_20-Edited1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3IF7yj1gTd9sAPmWmfeKgl",
+"title": "Black Plain Regular Hoodie",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Green"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Magenta"
+},
+{
+"label": "Mint"
+},
+{
+"label": "Mustard"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Off White"
+},
+{
+"label": "Purple"
+},
+{
+"label": "Red"
+},
+{
+"label": "Royal Blue"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1982/7331/files/Artboard_2_12ee5154-5603-41c4-a0ce-4703dc95b22b.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/40271672770615",
+"title": "Black Plain Regular Hoodie",
+"url": "https://veirdo.in/products/mens-solid-fleece-regular-hoodie-1?variant=40271672770615",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Veirdo",
+"url": "https://veirdo.in",
+"domain": "veirdo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1982/7331/files/Artboard_2_12ee5154-5603-41c4-a0ce-4703dc95b22b.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5eFi9Ot8IE39GnVhvhMyWE",
+"title": "Faded Black Hoodie",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/FadedBlackHoodie_11_c0bdd33f-b4f8-47ac-98b1-252552b1f235.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52902285836652",
+"title": "Faded Black Hoodie",
+"url": "https://www.bonkerscorner.com/products/faded-black-hoodie-1?variant=52902285836652",
+"price": {
+"amount": 169900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "BonkersCorner",
+"url": "https://www.bonkerscorner.com",
+"domain": "bonkerscorner-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/FadedBlackHoodie_11_c0bdd33f-b4f8-47ac-98b1-252552b1f235.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3eaB38hRni2Vah1ghaLbQH",
+"title": "HiFlyers Men Black Cotton Fleece Smart Fit  Solid Sweatshirt With Hood",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Green"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Olive"
+},
+{
+"label": "Rust"
+},
+{
+"label": "Wine"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "90cm/L"
+},
+{
+"label": "85cm/M"
+},
+{
+"label": "80cm/S"
+},
+{
+"label": "95cm/XL"
+},
+{
+"label": "1.0 M/XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0249/4110/1152/files/HFW026-BLACK_Front.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46162970673396",
+"title": "HiFlyers Men Black Cotton Fleece Smart Fit  Solid Sweatshirt With Hood",
+"url": "https://ttbazaar.com/products/hiflyers-mens-black-smart-fit-solid-cotton-fleece-sweatshirt-with-hood?variant=46162970673396",
+"price": {
+"amount": 64300,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "85cm/M"
+}
+],
+"seller": {
+"name": "T T Bazaar",
+"url": "https://ttbazaar.com",
+"domain": "ttbazaar.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0249/4110/1152/files/HFW026-BLACK_Front.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2MrhL2epgMIOdoWseXnl1c",
+"title": "Men's Black Hoodie Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/nmssfd656-black.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50364836282685",
+"title": "Men's Black Hoodie Sweatshirt",
+"url": "https://www.numerounojeanswear.com/products/mens-black-hoodie-sweatshirt-nmssfd656-black?variant=50364836282685",
+"price": {
+"amount": 108000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Numero Uno",
+"url": "https://www.numerounojeanswear.com",
+"domain": "numerounojeanswear.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/nmssfd656-black.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1ROaPAgbC93CXdwhJn3YTY",
+"title": "Monochrome Black Cozy Cut Hoodie Full Sleeve Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/BLACK01.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44547163750629",
+"title": "Monochrome Black Cozy Cut Hoodie Full Sleeve Sweatshirt",
+"url": "https://maniaclife.com/products/mn24-swt-hd-fs-fzip-losfit-blk-sld?variant=44547163750629",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Maniac",
+"url": "https://maniaclife.com",
+"domain": "maniaclife-com.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0533/0075/6635/files/BLACK01.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2AbpPzZrGuapaXK8C9fi8r",
+"title": "Mens Long-Sleeve Hoodie - Lightweight Casual Winterwear  (Black)",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0613/8304/9443/files/Default_c799a356-88d0-44ad-9d20-814d3a8157aa.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43545702432995",
+"title": "Mens Long-Sleeve Hoodie - Lightweight Casual Winterwear  (Black)",
+"url": "https://www.dennislingo.com/products/dennis-lingo-men-long-sleeve-sweatshirts-lightweight-casual-winterwear-for-men-group-49-black?variant=43545702432995",
+"price": {
+"amount": 118900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "DENNIS LINGO",
+"url": "https://www.dennislingo.com",
+"domain": "dennislingo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0613/8304/9443/files/Default_c799a356-88d0-44ad-9d20-814d3a8157aa.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2bHQOutKrXfTT4LmvdPATh",
+"title": "men's casual front zip up hooded sweatshirt | Black",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/6_4434aaad-a83c-4895-983c-d72f56c7bfd1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51540888781101",
+"title": "men's casual front zip up hooded sweatshirt | Black",
+"url": "https://wrogn.com/products/mens-casual-front-zip-up-hooded-sweatshirt-black-wvss9610w-b?variant=51540888781101",
+"price": {
+"amount": 169900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Wrogn",
+"url": "https://wrogn.com",
+"domain": "wrogn-website.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/6_4434aaad-a83c-4895-983c-d72f56c7bfd1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5aObwG7a1tMeD3N3jAuHub",
+"title": "Men Black Printed Hoodie",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/H24-ADRO-BL-RS.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51226105381095",
+"title": "Men Black Printed Hoodie",
+"url": "https://fyva.in/products/men-black-printed-hoodie-h24-adro-bl?variant=51226105381095",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/H24-ADRO-BL-RS.jpg"
+}
+]
+}
+]
+}
+]
+}

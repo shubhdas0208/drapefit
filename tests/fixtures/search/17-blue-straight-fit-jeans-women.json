@@ -1,0 +1,1528 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/9ByyVGn3mgLiSZKvMGJbW",
+"title": "Women Blue Grey  Straight Fit Soft Denim Jeans | TEMPA",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL-38"
+},
+{
+"label": "3XL-40"
+},
+{
+"label": "4XL-42"
+},
+{
+"label": "5XL-44"
+},
+{
+"label": "6XL-46"
+},
+{
+"label": "7XL-48"
+},
+{
+"label": "8XL-50"
+},
+{
+"label": "9XL-52"
+},
+{
+"label": "10XL-54"
+},
+{
+"label": "L-34"
+},
+{
+"label": "M-32"
+},
+{
+"label": "S-(28-30)"
+},
+{
+"label": "XL-36"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0869/1862/7362/files/5_f544dd9b-781e-4caa-8ac5-c6f67d43ef5e.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45322628988962",
+"title": "Women Blue Grey  Straight Fit Soft Denim Jeans | TEMPA",
+"url": "https://palazoobazaar.com/products/women-light-blue-straight-fit-soft-denim-jeans-copy?variant=45322628988962",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S-(28-30)"
+}
+],
+"seller": {
+"name": "My Store",
+"url": "https://palazoobazaar.com",
+"domain": "0cjsh9-st.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0869/1862/7362/files/5_f544dd9b-781e-4caa-8ac5-c6f67d43ef5e.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7c1p0VYnDyzHpWIIeJPS6A",
+"title": "Women Light Blue Straight Fit Soft Denim Jeans | BLUETA",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL - 38"
+},
+{
+"label": "3XL - 40"
+},
+{
+"label": "4XL - 42"
+},
+{
+"label": "5XL - 44"
+},
+{
+"label": "6XL - 46"
+},
+{
+"label": "7XL - 48"
+},
+{
+"label": "8XL - 50"
+},
+{
+"label": "9XL - 52"
+},
+{
+"label": "10XL - 54"
+},
+{
+"label": "L - 34"
+},
+{
+"label": "M - 32"
+},
+{
+"label": "S (28-30)"
+},
+{
+"label": "XL - 36"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0869/1862/7362/files/2.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45322629480482",
+"title": "Women Light Blue Straight Fit Soft Denim Jeans | BLUETA",
+"url": "https://palazoobazaar.com/products/women-light-blue-straight-fit-soft-denim-jeans?variant=45322629480482",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S (28-30)"
+}
+],
+"seller": {
+"name": "My Store",
+"url": "https://palazoobazaar.com",
+"domain": "0cjsh9-st.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0869/1862/7362/files/2.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5UVbIySX36PxuagB3qAiGh",
+"title": "Women Bella Jeans Straight Fit Blue Mid Rise",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "34"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/7874/9892/files/WDEMM1BD058RAWBLUE_1_2a35db47-0027-4d06-99ba-d78d010604d6.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46480695492804",
+"title": "Women Bella Jeans Straight Fit Blue Mid Rise",
+"url": "https://spykar.com/products/wdemm1bd058rawblue?variant=46480695492804",
+"price": {
+"amount": 103900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "26"
+}
+],
+"seller": {
+"name": "Spykar Lifestyles",
+"url": "https://spykar.com",
+"domain": "spykar-lifestyles.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/7874/9892/files/WDEMM1BD058RAWBLUE_1_2a35db47-0027-4d06-99ba-d78d010604d6.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6a51Ms2O6J9m89PzQaGh58",
+"title": "Women's Blue High Rise Straight Fit Washed Jeans Non-Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Ice Grey"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/womjeanstrttwlyel-mblue-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52285925949756",
+"title": "Women's Blue High Rise Straight Fit Washed Jeans Non-Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-womens-blue-high-rise-straight-fit-washed-jeans-non-stretchable-womjeanstrttwlyel-mblue?variant=52285925949756",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "26"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/womjeanstrttwlyel-mblue-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2ACruvay1eEWg6Uqfh30La",
+"title": "High Rise Straight Fit Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_dab73c84-3802-4183-b89c-939a6ee37235.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48836278452394",
+"title": "High Rise Straight Fit Jeans",
+"url": "https://uspoloassn.in/products/womenswear-high-rise-straight-fit-jeans-imhowmseymj?variant=48836278452394",
+"price": {
+"amount": 189000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "U.S. Polo Assn. India",
+"url": "https://uspoloassn.in",
+"domain": "u-s-polo-assn-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_dab73c84-3802-4183-b89c-939a6ee37235.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4huhnnllRvAIqZB9sAKs1q",
+"title": "Women's Blue High Rise Straight Fit Washed Jeans Non-Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Ice Grey"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/womjeanstrttwl-mblue-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52285913760060",
+"title": "Women's Blue High Rise Straight Fit Washed Jeans Non-Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-womens-blue-high-rise-straight-fit-washed-jeans-non-stretchable-womjeanstrttwl-mblue?variant=52285913760060",
+"price": {
+"amount": 124900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "26"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/womjeanstrttwl-mblue-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1dj14O8vg5Tv8L5LFnonjr",
+"title": "Women Blue High Waisted Staright Fit Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0403-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46362273612077",
+"title": "Women Blue High Waisted Staright Fit Jeans",
+"url": "https://sassafras.in/products/women-blue-high-waisted-staright-fit-jeans-sfjean0403?variant=46362273612077",
+"price": {
+"amount": 103400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0403-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5GIwpzH3PDacQbQIv2LgLd",
+"title": "Women Blue Seam Detail Wide Leg Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0418-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46977307672877",
+"title": "Women Blue Seam Detail Wide Leg Jeans",
+"url": "https://sassafras.in/products/women-blue-seam-detail-wide-leg-jeans-sfjean0418?variant=46977307672877",
+"price": {
+"amount": 110300,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0418-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/58gCIIEY2mnWZaFAhMEmPQ",
+"title": "High Rise Straight Fit Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_3081be8e-355b-492a-b65e-28b0370ac425.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47433324527786",
+"title": "High Rise Straight Fit Jeans",
+"url": "https://uspoloassn.in/products/womenswear-high-rise-straight-fit-jeans-xy848wnv4oh?variant=47433324527786",
+"price": {
+"amount": 145600,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "U.S. Polo Assn. India",
+"url": "https://uspoloassn.in",
+"domain": "u-s-polo-assn-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_3081be8e-355b-492a-b65e-28b0370ac425.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1hPupnF71m4NI8gCt8lI1Q",
+"title": "Blue Straight Leg High Rise Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Sm2847344"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0349/9969/7544/files/3_c369df48-a865-40d5-929d-d6325562f04a.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44868516774110",
+"title": "Blue Straight Leg High Rise Jeans",
+"url": "https://www.globalrepublic.in/products/ladies-ml2210-blue-bootcut-high-rise-denim-jeans?variant=44868516774110",
+"price": {
+"amount": 134900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Sm2847344"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Global Republic",
+"url": "https://www.globalrepublic.in",
+"domain": "globalrepublic.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0349/9969/7544/files/3_c369df48-a865-40d5-929d-d6325562f04a.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4kEYVnPhyGsLYAfiLskeWa",
+"title": "Women Blue Solid Straight Fit Denim",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260811526DN-1-30_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51509691285792",
+"title": "Women Blue Solid Straight Fit Denim",
+"url": "https://www.montecarlo.in/products/women-blue-solid-straight-fit-denim-2260811526dn-1?variant=51509691285792",
+"price": {
+"amount": 157500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "26"
+}
+],
+"seller": {
+"name": "Monte Carlo",
+"url": "https://www.montecarlo.in",
+"domain": "montecarlonew.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260811526DN-1-30_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7hq1nDouDsYrzEvgZQpOnH",
+"title": "Coastal Blue Cross Belt Straight Fit Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "24"
+},
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0103/1890/5441/files/CS6600EW002208_2_l.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43657702047841",
+"title": "Coastal Blue Cross Belt Straight Fit Jeans",
+"url": "https://offduty.in/products/coastal-blue-cross-belt-straight-fit-jeans?variant=43657702047841",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "24"
+}
+],
+"seller": {
+"name": "Offduty India",
+"url": "https://offduty.in",
+"domain": "offdutystore.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0103/1890/5441/files/CS6600EW002208_2_l.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5uQxGjh12iugU5Rb5wmzb2",
+"title": "Women Blue High Waist Straight Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0405-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46977280311597",
+"title": "Women Blue High Waist Straight Jeans",
+"url": "https://sassafras.in/products/women-blue-high-waist-straight-jeans-sfjean0405?variant=46977280311597",
+"price": {
+"amount": 98900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0405-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/p1kAo0JscDidLDqi4bmLY",
+"title": "Womens high rise elasticated waist loose straight fit Jeans KGDJNS-404055",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL-36"
+},
+{
+"label": "3XL-38"
+},
+{
+"label": "4XL-40"
+},
+{
+"label": "5XL-42"
+},
+{
+"label": "6XL-44"
+},
+{
+"label": "7XL-46"
+},
+{
+"label": "8XL-48"
+},
+{
+"label": "9XL-50"
+},
+{
+"label": "10XL-52"
+},
+{
+"label": "11XL-54"
+},
+{
+"label": "L-32"
+},
+{
+"label": "M-30"
+},
+{
+"label": "S-28"
+},
+{
+"label": "XL-34"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0730/2791/1977/files/404055_2.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53335880139049",
+"title": "Womens high rise elasticated waist loose straight fit Jeans KGDJNS-404055",
+"url": "https://kagadjeans.com/products/womens-high-rise-elasticated-waist-loose-straight-fit-jeans-kgdjns-404055?variant=53335880139049",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S-28"
+}
+],
+"seller": {
+"name": "kagadjeans",
+"url": "https://kagadjeans.com",
+"domain": "kagadjeans.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0730/2791/1977/files/404055_2.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/NP1G0yJWfxaWCoQMIPOZ5",
+"title": "Women Blue High Waist Seam Detail Straight Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0414-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46977303281965",
+"title": "Women Blue High Waist Seam Detail Straight Jeans",
+"url": "https://sassafras.in/products/women-blue-high-waist-seam-detail-straight-jeans-sfjean0414?variant=46977303281965",
+"price": {
+"amount": 105700,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFJEAN0414-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5tK1IGu77w028NCBLu3iE6",
+"title": "High Rise Straight Fit Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_b86f41fc-096c-415f-adbc-55a8ee86b41e.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47650649309354",
+"title": "High Rise Straight Fit Jeans",
+"url": "https://uspoloassn.in/products/womenswear-high-rise-straight-fit-jeans-ingr41pqiid?variant=47650649309354",
+"price": {
+"amount": 156800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "26"
+}
+],
+"seller": {
+"name": "U.S. Polo Assn. India",
+"url": "https://uspoloassn.in",
+"domain": "u-s-polo-assn-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_b86f41fc-096c-415f-adbc-55a8ee86b41e.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2X9S32e3KOJxGPugBkPPE5",
+"title": "Women Light Blue Solid Straight Fit Denim",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "26"
+},
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Light Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260811528DN-1-30_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51509704720672",
+"title": "Women Light Blue Solid Straight Fit Denim",
+"url": "https://www.montecarlo.in/products/women-light-blue-solid-straight-fit-denim-2260811528dn-1?variant=51509704720672",
+"price": {
+"amount": 157500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Blue"
+},
+{
+"name": "Size",
+"label": "26"
+}
+],
+"seller": {
+"name": "Monte Carlo",
+"url": "https://www.montecarlo.in",
+"domain": "montecarlonew.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260811528DN-1-30_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1J8Vzuf7M1iLOMWiXP1Vod",
+"title": "Valley Girl Straight Fit Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "24"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0103/1890/5441/files/IMG_8838.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42223194079329",
+"title": "Valley Girl Straight Fit Jeans",
+"url": "https://offduty.in/products/valley-girl-straight-fit-jeans?variant=42223194079329",
+"price": {
+"amount": 115000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "24"
+}
+],
+"seller": {
+"name": "Offduty India",
+"url": "https://offduty.in",
+"domain": "offdutystore.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0103/1890/5441/files/IMG_8838.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5AWouVCnWSL4xmnJjz9rGk",
+"title": "High Rise Straight Fit Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_db8a9c21-014d-48e7-a87b-de63fff2abb9.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48162787754154",
+"title": "High Rise Straight Fit Jeans",
+"url": "https://uspoloassn.in/products/womenswear-high-rise-straight-fit-jeans-waky0c4fhea?variant=48162787754154",
+"price": {
+"amount": 156800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "U.S. Polo Assn. India",
+"url": "https://uspoloassn.in",
+"domain": "u-s-polo-assn-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_db8a9c21-014d-48e7-a87b-de63fff2abb9.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7F9wsMSqUOMmg9iRKZTzQB",
+"title": "Womens high rise elasticated waist loose straight fit Jeans KGDJNS-404057",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL-36"
+},
+{
+"label": "3XL-38"
+},
+{
+"label": "4XL-40"
+},
+{
+"label": "5XL-42"
+},
+{
+"label": "6XL-44"
+},
+{
+"label": "7XL-46"
+},
+{
+"label": "8XL-48"
+},
+{
+"label": "9XL-50"
+},
+{
+"label": "10XL-52"
+},
+{
+"label": "11XL-54"
+},
+{
+"label": "L-32"
+},
+{
+"label": "M-30"
+},
+{
+"label": "S-28"
+},
+{
+"label": "XL-34"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0730/2791/1977/files/404057_2.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53336011997481",
+"title": "Womens high rise elasticated waist loose straight fit Jeans KGDJNS-404057",
+"url": "https://kagadjeans.com/products/womens-high-rise-elasticated-waist-loose-straight-fit-jeans-kgdjns-404057?variant=53336011997481",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S-28"
+}
+],
+"seller": {
+"name": "kagadjeans",
+"url": "https://kagadjeans.com",
+"domain": "kagadjeans.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0730/2791/1977/files/404057_2.webp"
+}
+]
+}
+]
+}
+]
+}

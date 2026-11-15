@@ -98,7 +98,7 @@ No critical gaps: the only silent failure (Render restart mid-search) is visible
 
 ## Test plan (pytest, `tests/`)
 
-Fixtures: the 20 raw responses in `docs/research/spike-01-raw/` plus 3-5 recorded `get_product` payloads (record once with a script).
+Fixtures: trimmed copies of the 20 spike-01 search responses in `tests/fixtures/search/` (the raw responses stay local and untracked, D61) plus recorded `get_product` payloads.
 
 | Area | Test | Type |
 |---|---|---|

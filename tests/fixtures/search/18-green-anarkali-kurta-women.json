@@ -1,0 +1,1366 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/6OwXz7aZ9rW1sE8ydbyh6P",
+"title": "Women Green Printed Pure Cotton Anarkali Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0870/1526/0463/files/a128fb5f_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49213864673583",
+"title": "Women Green Printed Pure Cotton Anarkali Kurta",
+"url": "https://rainandrainbow.com/products/women-green-printed-pure-cotton-anarkali-kurta?variant=49213864673583",
+"price": {
+"amount": 164700,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Green"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Rain & Rainbow",
+"url": "https://rainandrainbow.com",
+"domain": "rainandrainbow1.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0870/1526/0463/files/a128fb5f_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2I1hM7XjMWth8qbi4xtZkX",
+"title": "Women’s Olive Green Cotton Anarkali Kurta Pant Set with Embroidered Yoke",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+},
+{
+"label": "Triple extra large (XXXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0966/6563/3085/files/DesignerHeavyKurtiPalazzoSetinPremiumCottonFabricLaunchingDesignerFullFlairKurtiPal_4.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51420134572349",
+"title": "Women’s Olive Green Cotton Anarkali Kurta Pant Set with Embroidered Yoke",
+"url": "https://thehouseofjaipur.com/products/women-s-olive-green-cotton-anarkali-kurta-pant-set-with-embroidered-yoke?variant=51420134572349",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "The House of Jaipur",
+"url": "https://thehouseofjaipur.com",
+"domain": "nntdie-kx.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0966/6563/3085/files/DesignerHeavyKurtiPalazzoSetinPremiumCottonFabricLaunchingDesignerFullFlairKurtiPal_4.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5CfM48UXiIQLRwrn6JYDW7",
+"title": "Women's Green Anarkali Cotton Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/GW-3373_Green_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48310085026068",
+"title": "Women's Green Anarkali Cotton Kurta",
+"url": "https://showoffff.in/products/womens-green-embellished-anarkali-kurta-gw-3373_green?variant=48310085026068",
+"price": {
+"amount": 189000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/GW-3373_Green_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2OstVxvy6JNiKudqI8r3Pr",
+"title": "Women's Emerald Green Embroidered Anarkali Kurta Set with Chiffon Dupatta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L-40"
+},
+{
+"label": "M-38"
+},
+{
+"label": "XL-42"
+},
+{
+"label": "XXL-44"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0814/6059/2959/files/3f40f3d6-410d-40a7-9ef8-f20ce3f5fec7_a3dacdc7-95a9-4195-b067-35098473d01f.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/54060162580799",
+"title": "Women's Emerald Green Embroidered Anarkali Kurta Set with Chiffon Dupatta",
+"url": "https://vastrakaala.com/products/womens-coffee-brown-embroidered-anarkali-kurta-set-with-chiffon-dupatta-copy?variant=54060162580799",
+"price": {
+"amount": 309900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M-38"
+}
+],
+"seller": {
+"name": "Vastrakaala ",
+"url": "https://vastrakaala.com",
+"domain": "8f45dd-4.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0814/6059/2959/files/3f40f3d6-410d-40a7-9ef8-f20ce3f5fec7_a3dacdc7-95a9-4195-b067-35098473d01f.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5CLN4Y7FOUoV0MnkUVYg5o",
+"title": "Janasya Women's Dark Green Silk Blend Floral Zari Embroidered Anarkali Kurta Set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Dark Green"
+},
+{
+"label": "Mustard"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB25ST02793_1_3967684a-f720-447d-be47-540f02c566b9.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48944478060714",
+"title": "Janasya Women's Dark Green Silk Blend Floral Zari Embroidered Anarkali Kurta Set",
+"url": "https://janasya.com/products/janasya-womens-dark-green-silk-blend-floral-zari-embroidered-anarkali-kurta-set-jab25st02793?variant=48944478060714",
+"price": {
+"amount": 154900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Green"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Janasya.com",
+"url": "https://janasya.com",
+"domain": "janasya-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB25ST02793_1_3967684a-f720-447d-be47-540f02c566b9.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6n5wvoZ5FjhZaHupkJijVy",
+"title": "Green Silk Embroidered Anarkali Kurta Set With Dupatta For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0809/5360/6395/files/483-02_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48941408059643",
+"title": "Green Silk Embroidered Anarkali Kurta Set With Dupatta For Women",
+"url": "https://mokosh.in/products/green-silk-embroidered-anarkali-kurta-set-with-dupatta-for-women?variant=48941408059643",
+"price": {
+"amount": 144900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Mokosh.in",
+"url": "https://mokosh.in",
+"domain": "mokosh-in.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0809/5360/6395/files/483-02_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7FBmqHRMlZOYWIz0lrlC7R",
+"title": "Olive Green Heavy Embroidered Anarkali Kurta Set with Dupatta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+},
+{
+"label": "Triple extra large (XXXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0706/7775/8038/files/WhatsAppImage2025-11-28at19.53.20_cdf38dbf.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43924233224278",
+"title": "Olive Green Heavy Embroidered Anarkali Kurta Set with Dupatta",
+"url": "https://jaipurakurta.com/products/olive-green-heavy-embroidered-anarkali-kurta-set-with-dupatta?variant=43924233224278",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Jaipura Kurta",
+"url": "https://jaipurakurta.com",
+"domain": "dtqtce-mm.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0706/7775/8038/files/WhatsAppImage2025-11-28at19.53.20_cdf38dbf.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4jhL3BzfBst5Oo7iqsDO2J",
+"title": "Women Pista Green Cotton Embroidery Kurta Pant and Dupatta set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L-40"
+},
+{
+"label": "M-38"
+},
+{
+"label": "XL-42"
+},
+{
+"label": "XXL-44"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0689/8801/0746/files/WhatsAppImage2026-07-09at9.51.13PM_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49699252895994",
+"title": "Women Pista Green Cotton Embroidery Kurta Pant and Dupatta set",
+"url": "https://sugamdha.com/products/women-pista-green-cotton-embroidery-kurta-pant-and-dupatta-set?variant=49699252895994",
+"price": {
+"amount": 179900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M-38"
+}
+],
+"seller": {
+"name": "Sugamdha",
+"url": "https://sugamdha.com",
+"domain": "3cb843-4f.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0689/8801/0746/files/WhatsAppImage2026-07-09at9.51.13PM_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7bbOiPoYhF8LGNOIFwuPYp",
+"title": "Green Floral Cotton Anarkali Kurti Set with Dupatta for Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "XXXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/5517/7830/files/rn-image_picker_lib_temp_81817c54-4ca9-4abf-b776-12b284588308.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44071109820518",
+"title": "Green Floral Cotton Anarkali Kurti Set with Dupatta for Women",
+"url": "https://bagrufashions.com/products/copy-new-launch-walk-gracefully-in-our-new-cotton-anarkali-dupata-set-with-deep-back-neck-and-front-neck-design-1?variant=44071109820518",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Bagru Fashions",
+"url": "https://bagrufashions.com",
+"domain": "524901-f4.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/5517/7830/files/rn-image_picker_lib_temp_81817c54-4ca9-4abf-b776-12b284588308.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2nkxns954N70gmBI1tX0Tu",
+"title": "Women Green Anarkali Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/IMGL9458_dbff8b38-47df-49a5-872e-66ab469f71ff.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49178371129591",
+"title": "Women Green Anarkali Kurta",
+"url": "https://www.sanskrutihomes.in/products/women-mahroon-anarkali-kurta-copy?variant=49178371129591",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "SanskrutiHomes.in",
+"url": "https://www.sanskrutihomes.in",
+"domain": "sanskriti-homes-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/IMGL9458_dbff8b38-47df-49a5-872e-66ab469f71ff.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5OhLjNNMNOg1C9tbFvAz4c",
+"title": "Janasya Women's Olive Green Silk Blend Floral Embroidered Anarkali Kurta Set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Olive"
+},
+{
+"label": "Purple"
+},
+{
+"label": "Teal"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB26ST05721.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49295267397802",
+"title": "Janasya Women's Olive Green Silk Blend Floral Embroidered Anarkali Kurta Set",
+"url": "https://janasya.com/products/janasya-womens-olive-green-silk-blend-floral-embroidered-anarkali-kurta-set-jab26st05721?variant=49295267397802",
+"price": {
+"amount": 269900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Janasya.com",
+"url": "https://janasya.com",
+"domain": "janasya-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB26ST05721.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/79u9V1pKe8Zy0GYfaLfxLX",
+"title": "Women Rayon Embroidered Anarkali Gown Kurti Kurtis Green",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/z3yca_512_b6756065-5540-4bac-b65c-08f0426b7f60.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49962644341035",
+"title": "Women Rayon Embroidered Anarkali Gown Kurti Kurtis Green",
+"url": "https://www.gillkart.com/products/women-rayon-embroidered-anarkali-gown-kurti-kurtis-green?variant=49962644341035",
+"price": {
+"amount": 58200,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "GillKart",
+"url": "https://www.gillkart.com",
+"domain": "891d1e-3.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/z3yca_512_b6756065-5540-4bac-b65c-08f0426b7f60.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/77ec0o3yVHiswIPqiVse6E",
+"title": "Women's Green Floral Printed Anarkali Kurta With Trouser And Dupatta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0273/0347/7337/products/HKS0521_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42757323620547",
+"title": "Women's Green Floral Printed Anarkali Kurta With Trouser And Dupatta",
+"url": "https://trendia.co/products/hks0521?variant=42757323620547",
+"price": {
+"amount": 350507,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Green"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Trendia",
+"url": "https://trendia.co",
+"domain": "trendiaglobalstore.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0273/0347/7337/products/HKS0521_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7KqeOsG0rmfSEZmOqBep5e",
+"title": "Women Emerald Green Sequins Sweetheart Neck Anarkali Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Large (L)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SHKUR00452-1_b1bb4296-b486-44ba-829b-0fe2e73e0bb4.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50158214709549",
+"title": "Women Emerald Green Sequins Sweetheart Neck Anarkali Kurta",
+"url": "https://sassafras.in/products/women-emerald-green-sequins-sweetheart-neck-anarkali-kurta-shkur00452?variant=50158214709549",
+"price": {
+"amount": 263900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Green"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SHKUR00452-1_b1bb4296-b486-44ba-829b-0fe2e73e0bb4.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4sftYjGwsk8zW4smrzSXUX",
+"title": "Janasya Women's Lime Green Chanderi Silk Floral Zari Embroidered Anarkali Kurta Set",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Lime"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Mustard"
+},
+{
+"label": "Pink"
+},
+{
+"label": "Yellow"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB26ST05796.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67533551108266",
+"title": "Janasya Women's Lime Green Chanderi Silk Floral Zari Embroidered Anarkali Kurta Set",
+"url": "https://janasya.com/products/janasya-womens-lime-green-chanderi-silk-floral-zari-embroidered-anarkali-kurta-set-jab26st05796?variant=67533551108266",
+"price": {
+"amount": 249900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Lime"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Janasya.com",
+"url": "https://janasya.com",
+"domain": "janasya-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB26ST05796.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1Vi4pVdVIGIuiXZdEeV3WT",
+"title": "Janasya Women's Olive Green Georgette Floral Embroidered Anarkali Kurta Set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Olive"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB26ST05919_1_944920c7-93d4-4347-88cc-a39ac2677a5a.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49295270314154",
+"title": "Janasya Women's Olive Green Georgette Floral Embroidered Anarkali Kurta Set",
+"url": "https://janasya.com/products/janasya-womens-olive-green-georgette-floral-embroidered-anarkali-kurta-set-jab26st05919?variant=49295270314154",
+"price": {
+"amount": 239900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Janasya.com",
+"url": "https://janasya.com",
+"domain": "janasya-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAB26ST05919_1_944920c7-93d4-4347-88cc-a39ac2677a5a.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4Q2GzKplUDgbM4DoTAvlOg",
+"title": "Women's Green Printed Anarkali Kurta-KG-555-Green",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "XXXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/5639/2227/files/1i7EmnnWOkwNGgjTSi0yRP0LNfMjm0w2D_20241115053917950-24be9b65.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/40733791584291",
+"title": "Women's Green Printed Anarkali Kurta-KG-555-Green",
+"url": "https://desiqlo.com/products/womens-green-printed-anarkali-kurta-kg-555-green?variant=40733791584291",
+"price": {
+"amount": 148700,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Green"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Desiqlo",
+"url": "https://desiqlo.com",
+"domain": "nakn1i-q5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/5639/2227/files/1i7EmnnWOkwNGgjTSi0yRP0LNfMjm0w2D_20241115053917950-24be9b65.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6DeeDecIEQ2YwRhytZRDuc",
+"title": "Janasya Women's Purple Cotton Blend Floral Printed Anarkali Kurta Set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+},
+{
+"label": "Lavender"
+},
+{
+"label": "Peach"
+},
+{
+"label": "Purple"
+},
+{
+"label": "White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAC25ST02953_82477cca-0eed-4dc3-9d6e-379ea59696ce.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47344474751146",
+"title": "Janasya Women's Purple Cotton Blend Floral Printed Anarkali Kurta Set",
+"url": "https://janasya.com/products/janasya-womens-purple-cotton-blend-floral-printed-anarkali-kurta-set-jac25st02953?variant=47344474751146",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Purple"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Janasya.com",
+"url": "https://janasya.com",
+"domain": "janasya-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0607/1209/1818/files/JAC25ST02953_82477cca-0eed-4dc3-9d6e-379ea59696ce.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1cgjU1hB0Zpx5E9ChVne6s",
+"title": "Women's Green Printed Anarkali Kurta-AT-A-620-Green",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/5639/2227/files/1wyPRXYYr5eCuNZV9dNa2Al08aN5XXO5_20241115054008530-385d619e.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43350650585123",
+"title": "Women's Green Printed Anarkali Kurta-AT-A-620-Green",
+"url": "https://desiqlo.com/products/womens-green-printed-anarkali-kurta-at-a-620-green?variant=43350650585123",
+"price": {
+"amount": 167600,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Green"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Desiqlo",
+"url": "https://desiqlo.com",
+"domain": "nakn1i-q5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/5639/2227/files/1wyPRXYYr5eCuNZV9dNa2Al08aN5XXO5_20241115054008530-385d619e.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/vY4JVu4xtKyRcpjvad2to",
+"title": "Olive Silk Embroidered Anarkali Kurta Set with Dupatta For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0809/5360/6395/files/Olive_Green_Embroidered_Silk_Anarkali_Kurta_With_Dupatta_Set.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48932795285755",
+"title": "Olive Silk Embroidered Anarkali Kurta Set with Dupatta For Women",
+"url": "https://mokosh.in/products/olive-silk-embroidered-anarkali-kurta-set-with-dupatta-for-women?variant=48932795285755",
+"price": {
+"amount": 154900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "Mokosh.in",
+"url": "https://mokosh.in",
+"domain": "mokosh-in.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0809/5360/6395/files/Olive_Green_Embroidered_Silk_Anarkali_Kurta_With_Dupatta_Set.png"
+}
+]
+}
+]
+}
+]
+}

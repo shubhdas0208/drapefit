@@ -1,0 +1,1612 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/3T4coRBdiSU2ENLFvqehva",
+"title": "Women Black Viscose Palazzo Pant",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Brinjal"
+},
+{
+"label": "English Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Jade"
+},
+{
+"label": "Maroon "
+},
+{
+"label": "Mocha Mouse"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Rose Taupe"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1_600c523c-52c8-450e-b01b-d6464345380b.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48067403120886",
+"title": "Women Black Viscose Palazzo Pant",
+"url": "https://saadaa.in/products/black-viscose-palazzo-pant?variant=48067403120886",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": " सादा / SAADAA",
+"url": "https://saadaa.in",
+"domain": "saadaa-design.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0450/3476/6485/files/1_600c523c-52c8-450e-b01b-d6464345380b.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5swYn7Bfa49pFtLv2eQXUN",
+"title": "Women's Black Cotton Palazzo Pants – Relaxed Wide-Leg Fit",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0853/5248/1012/files/PUN0755.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67986649841908",
+"title": "Women's Black Cotton Palazzo Pants – Relaxed Wide-Leg Fit",
+"url": "https://pakhifashion.com/products/womens-black-cotton-wide-leg-palazzo-trousers?variant=67986649841908",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Pakhi Fashion",
+"url": "https://pakhifashion.com",
+"domain": "zjpcjs-g1.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0853/5248/1012/files/PUN0755.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/29ohPnnlpDEOJgGN8IgwwU",
+"title": "Stylish Women's Palazzo - Black",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Bottle Green"
+},
+{
+"label": "Coffee Brown"
+},
+{
+"label": "Gold"
+},
+{
+"label": "Gray"
+},
+{
+"label": "Magenta"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Mustard"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Off White"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "Orange"
+},
+{
+"label": "Peach"
+},
+{
+"label": "Petrol Blue"
+},
+{
+"label": "Pista"
+},
+{
+"label": "Red"
+},
+{
+"label": "Royal Blue"
+},
+{
+"label": "Sea Green"
+},
+{
+"label": "White"
+},
+{
+"label": "Wine"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL (36\")"
+},
+{
+"label": "3XL (38\")"
+},
+{
+"label": "4XL (40\")"
+},
+{
+"label": "5XL (42\")"
+},
+{
+"label": "6XL (44\")"
+},
+{
+"label": "L (32\")"
+},
+{
+"label": "M (30\")"
+},
+{
+"label": "S (28\")"
+},
+{
+"label": "XL (34\")"
+}
+]
+},
+{
+"name": "Pocket style",
+"values": [
+{
+"label": "With Pocket"
+},
+{
+"label": "Without Pocket"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0652/1634/8335/files/1_6dee2e48-dba4-4da5-b149-e7ed99df3c25.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45109153759407",
+"title": "Stylish Women's Palazzo - Black",
+"url": "https://gogazab.com/products/stylish-womens-palazzo-black?variant=45109153759407",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Pocket style",
+"label": "With Pocket"
+},
+{
+"name": "Size",
+"label": "S (28\")"
+}
+],
+"seller": {
+"name": "GO GAZAB",
+"url": "https://gogazab.com",
+"domain": "cee02c-1d.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0652/1634/8335/files/1_6dee2e48-dba4-4da5-b149-e7ed99df3c25.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/ZErbLJqifkiLQKG9l2yu2",
+"title": "Lamora Women’s Black Wide-Leg Drawstring Palazzo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Cotton"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/7844/5195/files/P1864BLACK_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44998518997131",
+"title": "Lamora Women’s Black Wide-Leg Drawstring Palazzo Pants",
+"url": "https://juniperfashion.com/products/women-s-black-wide-leg-drawstring-palazzo-pants-p1864black?variant=44998518997131",
+"price": {
+"amount": 49500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Fabric",
+"label": "Cotton"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Juniperfashions",
+"url": "https://juniperfashion.com",
+"domain": "juniperfashions.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/7844/5195/files/P1864BLACK_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/65LIS8n2mJr36RwC4ZDpZ2",
+"title": "Presta Palazzo Pant - Black",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0269/2933/2275/files/Palazzo-32.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49283273523508",
+"title": "Presta Palazzo Pant - Black",
+"url": "https://www.poomer.net/products/presta-palazzo-pant-black?variant=49283273523508",
+"price": {
+"amount": 37900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Poomer Clothing Company",
+"url": "https://www.poomer.net",
+"domain": "poomer-face-mask.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0269/2933/2275/files/Palazzo-32.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/26TLi07TaEtewHOMcrz9iu",
+"title": "Women's Black Viscose Palazzo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "MEDIUM"
+},
+{
+"label": "LARGE"
+},
+{
+"label": "X-LARGE"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1147/1390/files/VASWPL102BL_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50583802446082",
+"title": "Women's Black Viscose Palazzo Pants",
+"url": "https://vastramay.com/products/womens-black-viscose-palazzo-pants?variant=50583802446082",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "vastramay",
+"url": "https://vastramay.com",
+"domain": "vastramay.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1147/1390/files/VASWPL102BL_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7CmZwRj3iSxR793KdPphvi",
+"title": "Premium Solid Black Wide Leg Palazzo Pants for Women (XS–10XL)",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+},
+{
+"label": "6XL"
+},
+{
+"label": "7XL"
+},
+{
+"label": "8XL"
+},
+{
+"label": "9XL"
+},
+{
+"label": "10XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0869/1862/7362/files/472A9259_323b09f6-ff19-4bed-aeae-690e138592ff.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45322630889506",
+"title": "Premium Solid Black Wide Leg Palazzo Pants for Women (XS–10XL)",
+"url": "https://palazoobazaar.com/products/women-denim-blue-printed-palazzo-pants-dp0024-copy?variant=45322630889506",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "My Store",
+"url": "https://palazoobazaar.com",
+"domain": "0cjsh9-st.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0869/1862/7362/files/472A9259_323b09f6-ff19-4bed-aeae-690e138592ff.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/cqSsFF5mt7C57i1lS6Hs2",
+"title": "Women's Palazzo Pants - R1101",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Army Green"
+},
+{
+"label": "Wine"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0672/8410/7316/files/DSC03856_JPG.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48294437945396",
+"title": "Women's Palazzo Pants - R1101",
+"url": "https://www.swapnawedding.com/products/pant-1101?variant=48294437945396",
+"price": {
+"amount": 24900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Army Green"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Swapna Weddings",
+"url": "https://www.swapnawedding.com",
+"domain": "swapna-weddings.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0672/8410/7316/files/DSC03856_JPG.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/54xldhAvSapcyybwvLGkfc",
+"title": "*PREBOOKING*** - Pick any 3 colours at combo offer** -  Women's Palazzo pant Full length - Black",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Dark Ash Grey"
+},
+{
+"label": "Golden Skin"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Milky Skin Shade"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Parro Flip"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+},
+{
+"name": "Type",
+"values": [
+{
+"label": "Length : Full pant"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0699/0947/9667/files/9f1b4a99-1030-4d7f-abec-6a0528b9c3bc.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46746240188659",
+"title": "*PREBOOKING*** - Pick any 3 colours at combo offer** -  Women's Palazzo pant Full length - Black",
+"url": "https://tharamclothing.com/products/womens-palazzo-pant-black?variant=46746240188659",
+"price": {
+"amount": 24900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Type",
+"label": "Length : Full pant"
+},
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Tharam Clothing",
+"url": "https://tharamclothing.com",
+"domain": "e983a3-dc.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0699/0947/9667/files/9f1b4a99-1030-4d7f-abec-6a0528b9c3bc.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/19nzmlO7PzIGlUSr9ktHK",
+"title": "Basic Palazzo",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Bright Red"
+},
+{
+"label": "Dark Brown"
+},
+{
+"label": "Dark Green"
+},
+{
+"label": "Dark Rust"
+},
+{
+"label": "Ecru"
+},
+{
+"label": "Fuchsia"
+},
+{
+"label": "Light Beige"
+},
+{
+"label": "Light Wine"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Plum"
+},
+{
+"label": "Rust"
+},
+{
+"label": "Wheat"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2X"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0598/8158/6848/files/Cat_LPZ7-BLACK73-29_e53434f0-dd26-49b1-aa9c-78f969e496e0.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/58160700096672",
+"title": "Basic Palazzo",
+"url": "https://gocolors.com/products/women-basic-palazzos?variant=58160700096672",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "2X"
+}
+],
+"seller": {
+"name": "Go Fashion (India) Limited",
+"url": "https://gocolors.com",
+"domain": "go-colors-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0598/8158/6848/files/Cat_LPZ7-BLACK73-29_e53434f0-dd26-49b1-aa9c-78f969e496e0.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3qHslIi4bs7bfVcCGRnrQL",
+"title": "Jet Black Solid Palazzo for Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Jet Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0738/4940/5678/files/imgs78363.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46452268040430",
+"title": "Jet Black Solid Palazzo for Women",
+"url": "https://geminiwear.com/products/womens-palazzo-2?variant=46452268040430",
+"price": {
+"amount": 58500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Jet Black"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Gemini Nightwears | Discover Your Perfect Nightwear",
+"url": "https://geminiwear.com",
+"domain": "fys9sa-14.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0738/4940/5678/files/imgs78363.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/EzDgD6xMYwoeXU2PaGUcG",
+"title": "Printed Palazzo Pants - Black",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0729/4995/6926/files/17-01-2024_KEROLYN03250_6c237431-c7d5-4e50-accb-6dceea8582e4.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51997498671422",
+"title": "Printed Palazzo Pants - Black",
+"url": "https://trendarrest.com/products/printed-palazzo-pants-black?variant=51997498671422",
+"price": {
+"amount": 93700,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Trend Arrest",
+"url": "https://trendarrest.com",
+"domain": "tahq2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0729/4995/6926/files/17-01-2024_KEROLYN03250_6c237431-c7d5-4e50-accb-6dceea8582e4.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3dnYA5H9R7i0fbp1BpwDrr",
+"title": "Women Black Front Dart Palazzo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFPANT50585-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46995548668205",
+"title": "Women Black Front Dart Palazzo Pants",
+"url": "https://sassafras.in/products/women-black-front-dart-palazzo-pants-sfpant50585?variant=46995548668205",
+"price": {
+"amount": 80900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFPANT50585-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1TAQw4cR6kTaOcvkhQVAQG",
+"title": "Women's Textured Wide Leg Drawstring Palazzo Pants-3697-3697",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Gray"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2064/8449/files/5_e331dc56-b15f-4907-a4e4-c5bdc12fe274.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52470276194586",
+"title": "Women's Textured Wide Leg Drawstring Palazzo Pants-3697-3697",
+"url": "https://www.buynewtrend.com/products/womens-textured-wide-leg-drawstring-palazzo-pants-3697-3697?variant=52470276194586",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Gray"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "BuyNewTrend",
+"url": "https://www.buynewtrend.com",
+"domain": "buynewtrend.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2064/8449/files/5_e331dc56-b15f-4907-a4e4-c5bdc12fe274.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/33ZUicQEDhVel1UBZfpcWP",
+"title": "Womens Palazzos",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0623/4754/2777/files/WPL00062BLACK.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49097868542201",
+"title": "Womens Palazzos",
+"url": "https://styleunion.in/products/wpl00062?variant=49097868542201",
+"price": {
+"amount": 29900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Style Union",
+"url": "https://styleunion.in",
+"domain": "styleunionindia.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0623/4754/2777/files/WPL00062BLACK.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1pHo0L58DiOzMrmb0Yh27w",
+"title": "Womens Palazzos",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0623/4754/2777/files/WPL00070BLACK.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49096824094969",
+"title": "Womens Palazzos",
+"url": "https://styleunion.in/products/wpl00070?variant=49096824094969",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Style Union",
+"url": "https://styleunion.in",
+"domain": "styleunionindia.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0623/4754/2777/files/WPL00070BLACK.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3nGapAztcPEdXRu69IFnbe",
+"title": "Women Black Solid Regular Fit Palazzo",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "34/S"
+},
+{
+"label": "36/M"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/226074736-1-36_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51418143818016",
+"title": "Women Black Solid Regular Fit Palazzo",
+"url": "https://www.montecarlo.in/products/women-black-solid-regular-fit-palazzo-226074736-1?variant=51418143818016",
+"price": {
+"amount": 84200,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "34/S"
+}
+],
+"seller": {
+"name": "Monte Carlo",
+"url": "https://www.montecarlo.in",
+"domain": "montecarlonew.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/226074736-1-36_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/jtLxqoIhwEAGfpA5I2vjR",
+"title": "Plus Size Black Rayon Palazzo Pants – Curvisha",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+},
+{
+"label": "6XL"
+},
+{
+"label": "7XL"
+},
+{
+"label": "8XL"
+},
+{
+"label": "9XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0729/4130/5994/files/plus-size-black-rayon-palazzo-pants-curvisha.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47487790907530",
+"title": "Plus Size Black Rayon Palazzo Pants – Curvisha",
+"url": "https://www.curvisha.com/products/plus-size-black-rayon-palazzo-pants-curvisha",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "3XL"
+}
+],
+"seller": {
+"name": "Curvisha",
+"url": "https://www.curvisha.com",
+"domain": "6hhp6g-sm.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0729/4130/5994/files/plus-size-black-rayon-palazzo-pants-curvisha.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2EaCBklG9xqaSmswY2Wjik",
+"title": "Women Black Solid Palazzo with Lace Detailing",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Cotton"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0069/2292/8179/files/HKS0927_5_9ada3dee-05ca-4af2-b911-b70d212c336b.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45922502508769",
+"title": "Women Black Solid Palazzo with Lace Detailing",
+"url": "https://nayoclothing.com/products/hks0927?variant=45922502508769",
+"price": {
+"amount": 67900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Fabric",
+"label": "Cotton"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Nayo Clothing",
+"url": "https://nayoclothing.com",
+"domain": "aasi-house-of-nayo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0069/2292/8179/files/HKS0927_5_9ada3dee-05ca-4af2-b911-b70d212c336b.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6sA5Bz72Ikq8osCEiP0qrj",
+"title": "Black Viscose Printed Palazzo",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "2X"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0598/8158/6848/files/2_16d88b23-edea-46b3-bce7-7dcbb4ae541f.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/56781843464352",
+"title": "Black Viscose Printed Palazzo",
+"url": "https://gocolors.com/products/black-viscose-printed-palazzo?variant=56781843464352",
+"price": {
+"amount": 104900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Go Fashion (India) Limited",
+"url": "https://gocolors.com",
+"domain": "go-colors-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0598/8158/6848/files/2_16d88b23-edea-46b3-bce7-7dcbb4ae541f.jpg"
+}
+]
+}
+]
+}
+]
+}

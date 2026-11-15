@@ -1,0 +1,1269 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/49XycD9OErn0JwUp70fjB3",
+"title": "Pink Notch Neck Floral Full Sleeve Co-Ord Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Pink"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/Olli_Studios_CS-321_front_1_4.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50996099154167",
+"title": "Pink Notch Neck Floral Full Sleeve Co-Ord Set For Women",
+"url": "https://www.sanskrutihomes.in/products/pink-notch-neck-floral-full-sleeve-co-ord-set-for-women?variant=50996099154167",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Pink"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "SanskrutiHomes.in",
+"url": "https://www.sanskrutihomes.in",
+"domain": "sanskriti-homes-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/Olli_Studios_CS-321_front_1_4.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5qBZWC2a64fNZKRPrg2lMC",
+"title": "Pink Geometric Print Shirt Collar Pure Cotton Co-Ord Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Pink"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/DSC2727.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49426573689079",
+"title": "Pink Geometric Print Shirt Collar Pure Cotton Co-Ord Set For Women",
+"url": "https://www.sanskrutihomes.in/products/pink-floral-printed-cotton-co-ords-set-for-women?variant=49426573689079",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Pink"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "SanskrutiHomes.in",
+"url": "https://www.sanskrutihomes.in",
+"domain": "sanskriti-homes-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/DSC2727.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2SvgpY5F4LdE0luNO3PO6W",
+"title": "Pink Solid Shirt Collar Short Sleeve Co-Ord Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Pink"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/RDCS-34_A.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50403083190519",
+"title": "Pink Solid Shirt Collar Short Sleeve Co-Ord Set For Women",
+"url": "https://www.sanskrutihomes.in/products/pink-solid-shirt-collar-short-sleeve-co-ord-set-for-women?variant=50403083190519",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Pink"
+},
+{
+"name": "Size",
+"label": "Double extra large (XXL)"
+}
+],
+"seller": {
+"name": "SanskrutiHomes.in",
+"url": "https://www.sanskrutihomes.in",
+"domain": "sanskriti-homes-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/RDCS-34_A.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7Km78f8YfeTWL9NGKm4X4C",
+"title": "Pink And White Floral Printed Co-ord Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0985/7610/5604/files/Gemini_Generated_Image_35mig035mig035mi_2_b727bba0-ccfa-4a2d-97ca-82d41cd4b938.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51852161908868",
+"title": "Pink And White Floral Printed Co-ord Set For Women",
+"url": "https://saayra.in/products/pink-and-white-floral-printed-co-ord-set-for-women?variant=51852161908868",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Saayra.in",
+"url": "https://saayra.in",
+"domain": "w5uvzj-ef.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0985/7610/5604/files/Gemini_Generated_Image_35mig035mig035mi_2_b727bba0-ccfa-4a2d-97ca-82d41cd4b938.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/GKl7odTc3K9iek4G6nllt",
+"title": "Pink Dotted Print Co-ord Set for Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0693/7844/1468/files/313348928_5690178154359160_3643340560317726755_n.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46474531864828",
+"title": "Pink Dotted Print Co-ord Set for Women",
+"url": "https://asnowera.com/products/pink-dotted-print-co-ord-set?variant=46474531864828",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Asnowera",
+"url": "https://asnowera.com",
+"domain": "4e5ee1-d7.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0693/7844/1468/files/313348928_5690178154359160_3643340560317726755_n.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4maiz5CpIylrJAa1fl09cD",
+"title": "Trendy Pink Floral Co-ord Set for Women – Casual & Festive Look",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0985/7610/5604/files/sayra00002.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51819286102148",
+"title": "Trendy Pink Floral Co-ord Set for Women – Casual & Festive Look",
+"url": "https://saayra.in/products/trendy-pink-floral-co-ord-set-for-women-casual-festive-look?variant=51819286102148",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Saayra.in",
+"url": "https://saayra.in",
+"domain": "w5uvzj-ef.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0985/7610/5604/files/sayra00002.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/40FK4Q12nSAPVRjA5hvtvP",
+"title": "Women's Co ord set Pink Orange flower",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0734/5399/4298/files/rn-image_picker_lib_temp_d7a63f4e-2e76-44fb-a5b6-66f1026709f8.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53650915524922",
+"title": "Women's Co ord set Pink Orange flower",
+"url": "https://pitshirts.in/products/womens-co-ord-set-pink-orange-flower?variant=53650915524922",
+"price": {
+"amount": 44000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Pitshirts",
+"url": "https://pitshirts.in",
+"domain": "pitshirts-774.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0734/5399/4298/files/rn-image_picker_lib_temp_d7a63f4e-2e76-44fb-a5b6-66f1026709f8.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/HUJmqhshxiG8UyuIljZtI",
+"title": "Pink Color Floral Printed Cotton Co-ord Set for Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "xl"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0845/4284/9298/files/d-cord-31-pink.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47678313955602",
+"title": "Pink Color Floral Printed Cotton Co-ord Set for Women",
+"url": "https://claura.in/products/pink-color-cotton-co-ords-set-for-women-2?variant=47678313955602",
+"price": {
+"amount": 158000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "xl"
+}
+],
+"seller": {
+"name": "Claura ",
+"url": "https://claura.in",
+"domain": "8613a2-5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0845/4284/9298/files/d-cord-31-pink.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1gfoaYbHUWzH0Zrp30onHa",
+"title": "Women Pink Cotton Floral Print Co-Ord set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L-40"
+},
+{
+"label": "M-38"
+},
+{
+"label": "XL-42"
+},
+{
+"label": "XXL-44"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0689/8801/0746/files/WhatsAppImage2026-07-03at10.49.52PM.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49434048004346",
+"title": "Women Pink Cotton Floral Print Co-Ord set",
+"url": "https://sugamdha.com/products/women-pink-cotton-floral-print-co-ord-set?variant=49434048004346",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M-38"
+}
+],
+"seller": {
+"name": "Sugamdha",
+"url": "https://sugamdha.com",
+"domain": "3cb843-4f.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0689/8801/0746/files/WhatsAppImage2026-07-03at10.49.52PM.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/ko4k7c53dGXIdTS4bskH8",
+"title": "Women Pink Cotton Embroidery Library Co-Ord set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L-40"
+},
+{
+"label": "M-38"
+},
+{
+"label": "XL-42"
+},
+{
+"label": "XXL-44"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0689/8801/0746/files/IMG-20260102-WA0051.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48214950871290",
+"title": "Women Pink Cotton Embroidery Library Co-Ord set",
+"url": "https://sugamdha.com/products/women-pink-cotton-embroidery-library-co-ord-set?variant=48214950871290",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M-38"
+}
+],
+"seller": {
+"name": "Sugamdha",
+"url": "https://sugamdha.com",
+"domain": "3cb843-4f.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0689/8801/0746/files/IMG-20260102-WA0051.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/47P51mKNYeeP1H2A3NQQoq",
+"title": "Pink Floral Printed Co-ord Set for Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0985/7610/5604/files/sayra0000001.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51819263131780",
+"title": "Pink Floral Printed Co-ord Set for Women",
+"url": "https://saayra.in/products/pink-floral-printed-co-ord-set-for-women?variant=51819263131780",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Saayra.in",
+"url": "https://saayra.in",
+"domain": "w5uvzj-ef.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0985/7610/5604/files/sayra0000001.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2p61ruPZVMf4RSg2Zotx7J",
+"title": "Pink Mulmul Cotton Co-Ord Set with Farshi Bottoms",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0907/5235/2529/files/176.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53558868836625",
+"title": "Pink Mulmul Cotton Co-Ord Set with Farshi Bottoms",
+"url": "https://qurbat.in/products/pink-mul-mul-cotton-co-ord-set?variant=53558868836625",
+"price": {
+"amount": 209650,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Qurbat ",
+"url": "https://qurbat.in",
+"domain": "vwjh15-ty.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0907/5235/2529/files/176.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6G0zmHUAaarv8H8N7d2mmT",
+"title": "Pink Floral Premium Chanderi Silk Co-Ord Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0845/4284/9298/files/134-1.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51536094691602",
+"title": "Pink Floral Premium Chanderi Silk Co-Ord Set For Women",
+"url": "https://claura.in/products/pink-colour-floral-printed-premium-chanderi-co-ord-set-for-women?variant=51536094691602",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Claura ",
+"url": "https://claura.in",
+"domain": "8613a2-5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0845/4284/9298/files/134-1.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3IeLJ2FAFlSLbWanBsw0GX",
+"title": "Pink Shirt Collar Floral Print Pure cotton Co-Ord Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Pink"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/L_2_367bb107-bca0-4f7b-ab8d-cc655ae5d84c.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51519295619319",
+"title": "Pink Shirt Collar Floral Print Pure cotton Co-Ord Set For Women",
+"url": "https://www.sanskrutihomes.in/products/pink-shirt-collar-floral-print-pure-cotton-co-ord-set-for-women?variant=51519295619319",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Pink"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "SanskrutiHomes.in",
+"url": "https://www.sanskrutihomes.in",
+"domain": "sanskriti-homes-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/L_2_367bb107-bca0-4f7b-ab8d-cc655ae5d84c.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4BmdxqvNZxWOpvJIxhCPWa",
+"title": "Pink checked kurta co-ord set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Pink"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0652/3381/3689/files/Pink_New_3.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47745618706617",
+"title": "Pink checked kurta co-ord set",
+"url": "https://mevinine.in/products/pink-checked-kurta-co-ord-set?variant=47745618706617",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Pink"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Mevinine",
+"url": "https://mevinine.in",
+"domain": "aa6f2c-58.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0652/3381/3689/files/Pink_New_3.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/24VUEiUXFubrmfzUBQn3Vg",
+"title": "Largish Women's Pink Floral Print Cotton Flex Co-Ord Set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Pink"
+}
+]
+},
+{
+"name": "Print color",
+"values": [
+{
+"label": "Blue Print"
+},
+{
+"label": "Pink Floral Print"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0992/5328/9235/files/8RBnIZvQ_dae73ea6-a0a7-4119-afae-b5963f163237.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/54250673733907",
+"title": "Largish Women's Pink Floral Print Cotton Flex Co-Ord Set",
+"url": "https://largish.co.in/products/largish-womens-pink-floral-print-cotton-flex-co-ord-set?variant=54250673733907",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Pink"
+},
+{
+"name": "Print color",
+"label": "Pink Floral Print"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Largish",
+"url": "https://largish.co.in",
+"domain": "largish.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0992/5328/9235/files/8RBnIZvQ_dae73ea6-a0a7-4119-afae-b5963f163237.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4nUypj0a5yM2Ftksb08rKJ",
+"title": "Pink Solid Halter Neck Pure 100% Cotton Poplin Co-Ord Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Pink"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/DSC02688_Custom.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50840288198903",
+"title": "Pink Solid Halter Neck Pure 100% Cotton Poplin Co-Ord Set For Women",
+"url": "https://www.sanskrutihomes.in/products/pink-solid-halter-neck-pure-100-cotton-poplin-co-ord-set-for-women?variant=50840288198903",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Pink"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "SanskrutiHomes.in",
+"url": "https://www.sanskrutihomes.in",
+"domain": "sanskriti-homes-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0478/3240/0025/files/DSC02688_Custom.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5Gibp6P87RmRSPKAd0qKmi",
+"title": "Women's Printed Pink Shirt & Shorts Co-Ord Set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/CHN-4189_Pink_1_59ebfd83-2846-4a53-ad65-213dff96f50b.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51862669197588",
+"title": "Women's Printed Pink Shirt & Shorts Co-Ord Set",
+"url": "https://showoffff.in/products/womens-pink-co-ords-chn-4189_pink?variant=51862669197588",
+"price": {
+"amount": 241000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/CHN-4189_Pink_1_59ebfd83-2846-4a53-ad65-213dff96f50b.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4wF7kRe0HwKCbciZJp15O1",
+"title": "Pink Floral Premium Chanderi long sleeves Co-Ord Set Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0845/4284/9298/files/128-1.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51315702399250",
+"title": "Pink Floral Premium Chanderi long sleeves Co-Ord Set Women",
+"url": "https://claura.in/products/pink-colour-floral-printed-premium-chanderi-co-ord-set?variant=51315702399250",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Claura ",
+"url": "https://claura.in",
+"domain": "8613a2-5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0845/4284/9298/files/128-1.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6yNc7XqjrDcIan9Q07o5BI",
+"title": "Gypsy Rose Co-ord Set",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0419/7800/3612/files/3ED53A7F-0217-46BC-AC36-5B4FEBFE7F4B.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48215521099994",
+"title": "Gypsy Rose Co-ord Set",
+"url": "https://thebohemianstore.in/products/gypsy-rose-co-ord-set?variant=48215521099994",
+"price": {
+"amount": 169900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "The Bohemian Store",
+"url": "https://thebohemianstore.in",
+"domain": "the-bohemian-store-by-ishani.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0419/7800/3612/files/3ED53A7F-0217-46BC-AC36-5B4FEBFE7F4B.png"
+}
+]
+}
+]
+}
+]
+}

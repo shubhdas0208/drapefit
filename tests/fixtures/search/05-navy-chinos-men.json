@@ -1,0 +1,1616 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/2bubLyGAKY5LsPkkR65qiD",
+"title": "Men's Navy Blue Regular Fit Solid Casual Chinos",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Navy Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9247592841432.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51687695646936",
+"title": "Men's Navy Blue Regular Fit Solid Casual Chinos",
+"url": "https://tigc.in/products/men-s-navy-blue-regular-fit-solid-casual-chinos-1125-metchn02-09?variant=51687695646936",
+"price": {
+"amount": 128900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Navy Blue"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9247592841432.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/72OxUrGMqygOmDol2qKCju",
+"title": "Men's Navy Slim Fit Chinos",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Cream"
+},
+{
+"label": "Dark Grey"
+},
+{
+"label": "Dark Khaki"
+},
+{
+"label": "Dark Maroon"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Khaki"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "Royal Blue"
+},
+{
+"label": "Sky Blue"
+},
+{
+"label": "Steel Blue"
+},
+{
+"label": "Turquoise Blue"
+},
+{
+"label": "White Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chino-navy-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48396492177724",
+"title": "Men's Navy Slim Fit Chinos",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-navy-blue-cotton-slim-fit-casual-chinos-trousers-stretch-chino-navy?variant=48396492177724",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Waist size",
+"label": "32"
+},
+{
+"name": "Color",
+"label": "Navy Blue"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chino-navy-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3bzCRW1NHLZuTM5awscjro",
+"title": "Men Navy Tailored Stretchable Chinos",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+},
+{
+"label": "42"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Olive"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/b72a70f8-249b-4964-9f48-9740a8689c04.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52293280432359",
+"title": "Men Navy Tailored Stretchable Chinos",
+"url": "https://fyva.in/products/men-navy-tailored-stretchable-chinos-fskss26mpnt121nvy?variant=52293280432359",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Navy"
+},
+{
+"name": "Size",
+"label": "36"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/b72a70f8-249b-4964-9f48-9740a8689c04.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1bKCbFJdvdpOgsNZ6jKPV4",
+"title": "Men Navy Cotton Stretch Chino Trousers",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Navy"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/10af8f1d-c76a-44de-8a96-ea197e080f82.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52293279547623",
+"title": "Men Navy Cotton Stretch Chino Trousers",
+"url": "https://fyva.in/products/men-navy-cotton-stretch-chino-trousers-fqrss26mpnt120nvy?variant=52293279547623",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Waist size",
+"label": "28"
+},
+{
+"name": "Color",
+"label": "Navy"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/10af8f1d-c76a-44de-8a96-ea197e080f82.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6Bql5ukz8ZOeEvsBkJkexJ",
+"title": "Men's Navy Blue Slim Fit Solid Casual Chinos",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Navy Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9330745704664.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52003976675544",
+"title": "Men's Navy Blue Slim Fit Solid Casual Chinos",
+"url": "https://tigc.in/products/men-s-navy-blue-slim-fit-solid-casual-chinos-1125-crfchn01-09?variant=52003976675544",
+"price": {
+"amount": 134900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Waist size",
+"label": "28"
+},
+{
+"name": "Color",
+"label": "Navy Blue"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutV_9330745704664.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1pyKKPF25D3bFesKek1qSS",
+"title": "Navy Smart Regular Fit Mid-Rise Cotton Linen Woven Chinos Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Cotton"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB018_Navy-Blue-3_1731475507.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48947283984634",
+"title": "Navy Smart Regular Fit Mid-Rise Cotton Linen Woven Chinos Trouser For Men",
+"url": "https://thomasscott.in/products/navy-blue-men-smart-chinos-trousers?variant=48947283984634",
+"price": {
+"amount": 103900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Fabric",
+"label": "Cotton"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB018_Navy-Blue-3_1731475507.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1uX8miNYocQggsdVbCP3Aq",
+"title": "Navy Straight Fit Mid-Rise Solid Chinos Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Cotton"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/3_1750483488.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48947008241914",
+"title": "Navy Straight Fit Mid-Rise Solid Chinos Trouser For Men",
+"url": "https://thomasscott.in/products/navy-straight-fit-mid-rise-solid-chinos-trouser?variant=48947008241914",
+"price": {
+"amount": 97900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Fabric",
+"label": "Cotton"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/3_1750483488.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3LWDOd53hJTHRnImsLlhsc",
+"title": "Plus Men's Royal Blue Cotton Regular Fit Casual Chinos Trousers Stretch",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Cream"
+},
+{
+"label": "Dark Khaki"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "Royal Blue"
+},
+{
+"label": "Teal Green"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+},
+{
+"label": "42"
+},
+{
+"label": "44"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/pluschinop-royblue.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48396643795260",
+"title": "Plus Men's Royal Blue Cotton Regular Fit Casual Chinos Trousers Stretch",
+"url": "https://www.urbanofashion.com/products/urbano-plus-mens-royal-blue-cotton-regular-fit-casual-chinos-trousers-stretch-pluschinop-royblue?variant=48396643795260",
+"price": {
+"amount": 114900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Royal Blue"
+},
+{
+"name": "Size",
+"label": "38"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/pluschinop-royblue.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/23F8NazvCmLfRE83zUYjrY",
+"title": "Men's Tapered Fit Cotton Chinos (Navy)",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey"
+},
+{
+"label": "Navy Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0613/8304/9443/products/1_92777305-b4f1-4129-89bc-2b38076facf6.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43368713683171",
+"title": "Men's Tapered Fit Cotton Chinos (Navy)",
+"url": "https://www.dennislingo.com/products/dennis-lingo-mens-tapered-fit-cotton-chino-b101-navy?variant=43368713683171",
+"price": {
+"amount": 115900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Waist size",
+"label": "30"
+},
+{
+"name": "Color",
+"label": "Navy Blue"
+},
+{
+"name": "Fabric",
+"label": "98% Cotton 2% Lycra"
+}
+],
+"seller": {
+"name": "DENNIS LINGO",
+"url": "https://www.dennislingo.com",
+"domain": "dennislingo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0613/8304/9443/products/1_92777305-b4f1-4129-89bc-2b38076facf6.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1XO0iZIozLlAZSqehJ8JyV",
+"title": "Navy Slim Fit Mid-Rise Chinos Trousers For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "36"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB034_Navy-BLue-3_1731475489.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48947291554042",
+"title": "Navy Slim Fit Mid-Rise Chinos Trousers For Men",
+"url": "https://thomasscott.in/products/men-navy-blue-slim-fit-chinos-trouser?variant=48947291554042",
+"price": {
+"amount": 98900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB034_Navy-BLue-3_1731475489.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4y4qguAQk0hQPI8KDn8oTR",
+"title": "Navy Mid-Rise Straight Fit Solid Woven Chinos Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/5_1749015293.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48947009487098",
+"title": "Navy Mid-Rise Straight Fit Solid Woven Chinos Trouser For Men",
+"url": "https://thomasscott.in/products/navy-mid-rise-straight-fit-solid-woven-chinos-trouser?variant=48947009487098",
+"price": {
+"amount": 95900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/5_1749015293.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1pnTJWPwZFkR6oLrmzhDuH",
+"title": "Navy Blue Smart Straight Fit Mid-Rise Easy Wash Pure Cotton Chino Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB029_Navy-Blue-3_1731475406.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48943501312250",
+"title": "Navy Blue Smart Straight Fit Mid-Rise Easy Wash Pure Cotton Chino Trouser For Men",
+"url": "https://thomasscott.in/products/men-navy-blue-straight-fit-chinos-trousers?variant=48943501312250",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB029_Navy-Blue-3_1731475406.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/25pRyDIDs6OrGiXKrfU3C4",
+"title": "Thomas Scott Men Navy Smart Easy Wash Chinos Trousers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/2_1734602249.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48947296862458",
+"title": "Thomas Scott Men Navy Smart Easy Wash Chinos Trousers",
+"url": "https://thomasscott.in/products/navy-smart-easy-wash-chinos-trousers?variant=48947296862458",
+"price": {
+"amount": 94900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/2_1734602249.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/YbymAXcEWXVK6GSkUDHK",
+"title": "Navy Blue Easy Wash Slim Fit Sustainable Chinos Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB003_Blue2-2_1731475114.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48943493382394",
+"title": "Navy Blue Easy Wash Slim Fit Sustainable Chinos Trouser For Men",
+"url": "https://thomasscott.in/products/men-navy-blue-regular-fit-chinos-trouser-2?variant=48943493382394",
+"price": {
+"amount": 102900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB003_Blue2-2_1731475114.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/x9H5hluURzHTgY8wbjEmb",
+"title": "Men's Navy Blue Cotton Regular Fit Casual Chinos Trousers Stretch",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Chocolate Brown"
+},
+{
+"label": "Cream"
+},
+{
+"label": "Dark Maroon"
+},
+{
+"label": "Dark Taupe"
+},
+{
+"label": "Khaki"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "Light Olive"
+},
+{
+"label": "Light Sky Blue"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Royal Blue"
+},
+{
+"label": "Sage Green"
+},
+{
+"label": "Taupe Brown"
+},
+{
+"label": "Teal Green"
+},
+{
+"label": "White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chinoreg-navy-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53076968374588",
+"title": "Men's Navy Blue Cotton Regular Fit Casual Chinos Trousers Stretch",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-navy-blue-cotton-regular-fit-casual-chinos-trousers-stretch-chinoreg-navy?variant=53076968374588",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Waist size",
+"label": "28"
+},
+{
+"name": "Color",
+"label": "Navy Blue"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chinoreg-navy-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3y6HR924jLXkZKjMso7tu",
+"title": "Navy Blue Sustainable Chinos Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB005_Navy-Blue-3-1_1731475273.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48943494004986",
+"title": "Navy Blue Sustainable Chinos Trouser For Men",
+"url": "https://thomasscott.in/products/men-navy-blue-regular-fit-chinos-trouser?variant=48943494004986",
+"price": {
+"amount": 106900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB005_Navy-Blue-3-1_1731475273.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5RJkDMmPNvQo1haklG2pFZ",
+"title": "Thomas Scott Men Navy Regular Fit Mid-Rise Solid Woven Chinos Trouser",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB013_Navy_Blue_3__1768803308.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48947280838906",
+"title": "Thomas Scott Men Navy Regular Fit Mid-Rise Solid Woven Chinos Trouser",
+"url": "https://thomasscott.in/products/navy-regular-fit-mid-rise-solid-woven-chinos-trouser?variant=48947280838906",
+"price": {
+"amount": 96900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB013_Navy_Blue_3__1768803308.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2KFMxtBHM2PwNfy8Y0mRxV",
+"title": "Celestra Navy Relaxed Fit Stretch Chinos for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Navy"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0423/3576/4634/files/DSC04201.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47304548319419",
+"title": "Celestra Navy Relaxed Fit Stretch Chinos for Men",
+"url": "https://pantproject.com/products/celestra-navy-relaxed-fit-stretch-chinos-for-men?variant=47304548319419",
+"price": {
+"amount": 199000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Navy"
+},
+{
+"name": "Size",
+"label": "32"
+}
+],
+"seller": {
+"name": "The Pant Project ",
+"url": "https://pantproject.com",
+"domain": "thepantproject.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0423/3576/4634/files/DSC04201.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2y8mrgMLuRlgJskOFEUcOD",
+"title": "Navy Blue Smart Slim Fit Pure Cotton Mid-Rise Chinos Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Cotton"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB016_Navy-Blue-2_1731475427.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48943498428666",
+"title": "Navy Blue Smart Slim Fit Pure Cotton Mid-Rise Chinos Trouser For Men",
+"url": "https://thomasscott.in/products/men-navy-blue-cotton-chinos-trouser?variant=48943498428666",
+"price": {
+"amount": 84900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Fabric",
+"label": "Cotton"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB016_Navy-Blue-2_1731475427.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3vRgipTdbHoxPMPwMc6Cff",
+"title": "Navy Regular Fit Chino For Men",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Navy"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0768/8185/4702/files/0521bc25b513adc108a3e88e568b120372.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49526036463854",
+"title": "Navy Regular Fit Chino For Men",
+"url": "https://www.beinghumanclothing.com/products/being-human-clothing-men-blue-solid-trouser-bhndc25011-navy?variant=49526036463854",
+"price": {
+"amount": 94500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Waist size",
+"label": "30"
+},
+{
+"name": "Color",
+"label": "Navy"
+}
+],
+"seller": {
+"name": "beinghuman-clothing",
+"url": "https://www.beinghumanclothing.com",
+"domain": "beinghuman-clothing.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0768/8185/4702/files/0521bc25b513adc108a3e88e568b120372.jpg"
+}
+]
+}
+]
+}
+]
+}

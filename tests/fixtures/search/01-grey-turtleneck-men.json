@@ -1,0 +1,1387 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/3NTjJTWy9vK0iPzcpR6zn8",
+"title": "Men’s Light Grey Merino Wool Turtle Neck Sweater – Refined Everyday Knit for Work, Travel & Winter Comfort",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Light Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-837.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297406451847",
+"title": "Men’s Light Grey Merino Wool Turtle Neck Sweater – Refined Everyday Knit for Work, Travel & Winter Comfort",
+"url": "https://98degreenorth.com/products/men-s-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-knit-for-work-travel-winter-comfort?variant=43297406451847",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Grey"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-refined-everyday-837.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7cpFuHqx7meQkyURLFNhjV",
+"title": "Men’s Light Grey Merino Wool Turtle Neck Sweater – Stretchable Cozy Pullover for Office, Travel & Daily Winter Wear India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Light Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-stretchable-cozy-862.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297381810311",
+"title": "Men’s Light Grey Merino Wool Turtle Neck Sweater – Stretchable Cozy Pullover for Office, Travel & Daily Winter Wear India",
+"url": "https://98degreenorth.com/products/men-s-light-grey-merino-wool-turtle-neck-sweater-stretchable-cozy-pullover-for-office-travel-daily-winter-wear-india?variant=43297381810311",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Grey"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-grey-merino-wool-turtle-neck-sweater-stretchable-cozy-862.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/42gYvVCewVH3PcBLj0QA6X",
+"title": "Men’s Wine Merino Wool Turtle Neck Sweater – Elegant Woolen Pullover for Parties, Office & Travel Wear in India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Wine"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-wine-merino-wool-turtle-neck-sweater-elegant-woolen-pullover-168.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297383219335",
+"title": "Men’s Wine Merino Wool Turtle Neck Sweater – Elegant Woolen Pullover for Parties, Office & Travel Wear in India",
+"url": "https://98degreenorth.com/products/men-s-wine-merino-wool-turtle-neck-sweater-elegant-woolen-pullover-for-parties-office-travel-wear-in-india?variant=43297383219335",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Wine"
+},
+{
+"name": "Size",
+"label": "2XL"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-wine-merino-wool-turtle-neck-sweater-elegant-woolen-pullover-168.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/tB1ct2stXozRm8BeerBG8",
+"title": "Solid Turtle Neck Sweater",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/AW21_CSMAWSR364_GR_1_439673fd-7b5c-4ba9-8850-b29e5fe9fdcb.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44903958380802",
+"title": "Solid Turtle Neck Sweater",
+"url": "https://cahoot.in/products/men-full-sleeve-stylish-sweatshirt-campus-sutra-sweatshirt-grey-cotton-regular-fitting-full-sleeve-adult-men-aw21_csmawsr364_gr?variant=44903958380802",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/AW21_CSMAWSR364_GR_1_439673fd-7b5c-4ba9-8850-b29e5fe9fdcb.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/40AyJuw1VXurWnPzGXV4Mk",
+"title": "Men’s Coffee Merino Wool Turtle Neck Sweater – Warm Classic Knit Pullover for Smart Winter Styling & Office Wear India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Coffee"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-coffee-merino-wool-turtle-neck-sweater-warm-classic-knit-666.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297380892807",
+"title": "Men’s Coffee Merino Wool Turtle Neck Sweater – Warm Classic Knit Pullover for Smart Winter Styling & Office Wear India",
+"url": "https://98degreenorth.com/products/men-s-coffee-merino-wool-turtle-neck-sweater-warm-classic-knit-pullover-for-smart-winter-styling-office-wear-india?variant=43297380892807",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Coffee"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-coffee-merino-wool-turtle-neck-sweater-warm-classic-knit-666.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1cwfpt7DTNf1zhMS94OiRJ",
+"title": "Men’s Black Merino Wool Turtle Neck Sweater – Classic Refined Knit for Effortless Winter Elegance",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-black-merino-wool-turtle-neck-sweater-classic-refined-knit-884.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297405206663",
+"title": "Men’s Black Merino Wool Turtle Neck Sweater – Classic Refined Knit for Effortless Winter Elegance",
+"url": "https://98degreenorth.com/products/men-s-black-merino-wool-turtle-neck-sweater-classic-refined-knit-for-effortless-winter-elegance?variant=43297405206663",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-black-merino-wool-turtle-neck-sweater-classic-refined-knit-884.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4fm3SJ4nycHaLsn88PqjTb",
+"title": "Full Sleeve Turtle Neck Sweater",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/CSMAWSR410_S.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44903958348034",
+"title": "Full Sleeve Turtle Neck Sweater",
+"url": "https://cahoot.in/products/men-full-sleeve-stylish-sweatshirt-campus-sutra-sweatshirt-grey-black-cotton-regular-fitting-full-sleeve-adult-men-aw21_csmawsr410_grbl?variant=44903958348034",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/CSMAWSR410_S.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6iJz5NZpIOBzGtVUqL64IO",
+"title": "Thomas Scott Men Grey Regular Fit Long Sleeves High Neck Solid Knitted Pullover Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Acrylic"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/1_1762853604_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48943296217338",
+"title": "Thomas Scott Men Grey Regular Fit Long Sleeves High Neck Solid Knitted Pullover Sweatshirt",
+"url": "https://thomasscott.in/products/grey-regular-fit-long-sleeves-high-neck-solid-knitted-pullover-sweatshirt?variant=48943296217338",
+"price": {
+"amount": 148900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Fabric",
+"label": "Acrylic"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/1_1762853604_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3D4nNgPcwpX1bHL77sGzz4",
+"title": "Herringbone Textured Pullover Sweater",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWSR364_1_f98c233e-45bd-4ad2-b65e-77e11388b5ea.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45461170716930",
+"title": "Herringbone Textured Pullover Sweater",
+"url": "https://cahoot.in/products/mens-light-grey-herringbone-textured-pullover-sweater_csmawsr364?variant=45461170716930",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWSR364_1_f98c233e-45bd-4ad2-b65e-77e11388b5ea.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1Yztb9UpCQJp55cz5Tep3B",
+"title": "Men's Beige Oversized Fit Textured Casual Turtleneck Sweater",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Rust"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutW10_8732079554776.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49557758345432",
+"title": "Men's Beige Oversized Fit Textured Casual Turtleneck Sweater",
+"url": "https://tigc.in/products/mens-beige-oversized-textured-half-open-high-neck-sweater-sweater-0424-fsosswt48-01-beige?variant=49557758345432",
+"price": {
+"amount": 111900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Beige"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutW10_8732079554776.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1LalYQro6NlDZjuunwdNq6",
+"title": "Grey Turtle Neck Sweater",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0564/8859/1552/files/08-08-202305039copy.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44178115100920",
+"title": "Grey Turtle Neck Sweater",
+"url": "https://www.crimsouneclub.com/products/grey-turtle-neck-sweater-sw1291-3?variant=44178115100920",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Grey"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Crimsoune Club",
+"url": "https://www.crimsouneclub.com",
+"domain": "crimsouneclubonline.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0564/8859/1552/files/08-08-202305039copy.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1smGvjfurlPBEzm8VW8zGT",
+"title": "Men's Long Slevees Turtleneck T-Shirt - Big & Tall",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Charcoal Heather"
+},
+{
+"label": "Navy Melange"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0446/5514/9207/files/6005-CHARCOAL_HTR-FRONT.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45598842978455",
+"title": "Men's Long Slevees Turtleneck T-Shirt - Big & Tall",
+"url": "https://www.celsiusclothing.com/products/mens-turtleneck-t-shirt-big-and-tall-sizes?variant=45598842978455",
+"price": {
+"amount": 119500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Charcoal Heather"
+},
+{
+"name": "Size",
+"label": "3XL"
+}
+],
+"seller": {
+"name": "Celsius Clothing",
+"url": "https://www.celsiusclothing.com",
+"domain": "celsius123.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0446/5514/9207/files/6005-CHARCOAL_HTR-FRONT.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5bpQ0fCqScSoj21wjrofbs",
+"title": "Men’s Ecru Merino Wool Turtle Neck Sweater – Minimal Soft-Tone Knit for Layering & Smart Casual India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Ecru"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-ecru-merino-wool-turtle-neck-sweater-minimal-soft-tone-knit-840.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297406189703",
+"title": "Men’s Ecru Merino Wool Turtle Neck Sweater – Minimal Soft-Tone Knit for Layering & Smart Casual India",
+"url": "https://98degreenorth.com/products/men-s-ecru-merino-wool-turtle-neck-sweater-minimal-soft-tone-knit-for-layering-smart-casual-india?variant=43297406189703",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Ecru"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-ecru-merino-wool-turtle-neck-sweater-minimal-soft-tone-knit-840.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4S9Op015P3QUZeG9pWdr5G",
+"title": "Men's Charcoal Grey Merino Wool Turtle Neck Sweater – Fine-Gauge Soft-Knit Winter Pullover for Office, Travel & Everyday Wear in India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Charcoal"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-charcoal-grey-merino-wool-turtle-neck-sweater-fine-gauge-soft-563.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46391641112711",
+"title": "Men's Charcoal Grey Merino Wool Turtle Neck Sweater – Fine-Gauge Soft-Knit Winter Pullover for Office, Travel & Everyday Wear in India",
+"url": "https://98degreenorth.com/products/mens-charcoal-merino-wool-turtle-neck-sweater?variant=46391641112711",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Charcoal"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-charcoal-grey-merino-wool-turtle-neck-sweater-fine-gauge-soft-563.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1wSbN2Joj9QnNKssa3E5iD",
+"title": "Men’s Dark Khaki Merino Wool Turtle Neck Sweater – Elegant Woolen Pullover for Casual, Office & Outdoor Winter Outfits India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Dark Khakhi"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-dark-khaki-merino-wool-turtle-neck-sweater-elegant-woolen-682.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297381154951",
+"title": "Men’s Dark Khaki Merino Wool Turtle Neck Sweater – Elegant Woolen Pullover for Casual, Office & Outdoor Winter Outfits India",
+"url": "https://98degreenorth.com/products/men-s-dark-khaki-merino-wool-turtle-neck-sweater-elegant-woolen-pullover-for-casual-office-outdoor-winter-outfits-india?variant=43297381154951",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Khakhi"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-dark-khaki-merino-wool-turtle-neck-sweater-elegant-woolen-682.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3YseK67ftiuogjPae9oJPY",
+"title": "Men's Long Sleeve Turtleneck T-Shirt",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "A.White"
+},
+{
+"label": "Barn Red"
+},
+{
+"label": "Black"
+},
+{
+"label": "Charcoal Heather"
+},
+{
+"label": "Navy Melange"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0446/5514/9207/files/6005-CHARCOAL-FRONT.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45090955395223",
+"title": "Men's Long Sleeve Turtleneck T-Shirt",
+"url": "https://www.celsiusclothing.com/products/mens-premium-turtleneck-t-shirt-1?variant=45090955395223",
+"price": {
+"amount": 104500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Charcoal Heather"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Celsius Clothing",
+"url": "https://www.celsiusclothing.com",
+"domain": "celsius123.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0446/5514/9207/files/6005-CHARCOAL-FRONT.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1cXs09fYtVH44ybEu92XF3",
+"title": "Men’s Maroon Merino Wool Turtle Neck Sweater – Rich Warm Wool Pullover for Festive, Travel & Evening Winter Looks India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Maroon"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-maroon-merino-wool-turtle-neck-sweater-rich-warm-pullover-749.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297382662279",
+"title": "Men’s Maroon Merino Wool Turtle Neck Sweater – Rich Warm Wool Pullover for Festive, Travel & Evening Winter Looks India",
+"url": "https://98degreenorth.com/products/men-s-maroon-merino-wool-turtle-neck-sweater-rich-warm-wool-pullover-for-festive-travel-evening-winter-looks-india?variant=43297382662279",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Maroon"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-maroon-merino-wool-turtle-neck-sweater-rich-warm-pullover-749.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/543LhiGn5IT6AgSylY0esX",
+"title": "Grey Mockneck Full Sleeve Fine-Knit Sweater",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSFSSWRRD-610_-GRY_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67627383619693",
+"title": "Grey Mockneck Full Sleeve Fine-Knit Sweater",
+"url": "https://www.gritstones.com/products/light-green-turtleneck-full-sleeve-fine-knit-sweater?variant=67627383619693",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Gritstones",
+"url": "https://www.gritstones.com",
+"domain": "gritstones.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSFSSWRRD-610_-GRY_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3yPcgqAcQzFABC1a1nBBoL",
+"title": "Grey Regular Fit Long Sleeves Mock Collar Cable Knitted Pullover Sweater For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/3_1759555634.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48947323699450",
+"title": "Grey Regular Fit Long Sleeves Mock Collar Cable Knitted Pullover Sweater For Men",
+"url": "https://thomasscott.in/products/grey-regular-fit-long-sleeves-mock-collar-cable-knitted-pullover-sweater?variant=48947323699450",
+"price": {
+"amount": 113900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/3_1759555634.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5FmZTAodUfEJklj4zUU3oi",
+"title": "Men’s Light Navy Merino Wool Turtle Neck Sweater – Refined Warm Knit Pullover for Work, Date Nights & Travel Style India",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Light Navy"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-navy-merino-wool-turtle-neck-sweater-refined-warm-knit-683.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43297382006919",
+"title": "Men’s Light Navy Merino Wool Turtle Neck Sweater – Refined Warm Knit Pullover for Work, Date Nights & Travel Style India",
+"url": "https://98degreenorth.com/products/men-s-light-navy-merino-wool-turtle-neck-sweater-refined-warm-knit-pullover-for-work-date-nights-travel-style-india?variant=43297382006919",
+"price": {
+"amount": 149800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Navy"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "98degreenorth",
+"url": "https://98degreenorth.com",
+"domain": "900e57-84.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/5178/1767/files/mens-light-navy-merino-wool-turtle-neck-sweater-refined-warm-knit-683.webp"
+}
+]
+}
+]
+}
+]
+}

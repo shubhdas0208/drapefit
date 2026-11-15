@@ -1,0 +1,1594 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/46ZrOUmKR1FoLABE661gRP",
+"title": "Ben Martin Men’s Bell Bottom Jeans Bootcut Denim Pants Wide Leg Flared Jean's for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0232/8294/1999/files/713yHmA0JPL.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51595205771551",
+"title": "Ben Martin Men’s Bell Bottom Jeans Bootcut Denim Pants Wide Leg Flared Jean's for Men",
+"url": "https://svbventures.in/products/ben-martin-men-s-bell-bottom-jeans-bootcut-denim-pants-wide-leg-flared-jeans-for-men-high-waist-stretchable-retro-fit-cotton-jean-for-college-casual-light-blue-size-34-1?variant=51595205771551",
+"price": {
+"amount": 118385,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "SVB Ventures ",
+"url": "https://svbventures.in",
+"domain": "svb-ventures.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0232/8294/1999/files/713yHmA0JPL.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/MFrG6nDIJNbt9sdcZVftt",
+"title": "Ben Martin Men’s Bell Bottom Jeans || Bootcut Denim Pants || Wide Leg Flared Jean's for Men || High Waist Stretchable Retro Fit || Cotton Jean for College Casual White, Size 36 (1)",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0232/8294/1999/files/Whitepant3.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51595204460831",
+"title": "Ben Martin Men’s Bell Bottom Jeans || Bootcut Denim Pants || Wide Leg Flared Jean's for Men || High Waist Stretchable Retro Fit || Cotton Jean for College Casual White, Size 36 (1)",
+"url": "https://svbventures.in/products/ben-martin-men-s-bell-bottom-jeans-bootcut-denim-pants-wide-leg-flared-jeans-for-men-high-waist-stretchable-retro-fit-cotton-jean-for-college-casual-white-size-36-1?variant=51595204460831",
+"price": {
+"amount": 118385,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "SVB Ventures ",
+"url": "https://svbventures.in",
+"domain": "svb-ventures.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0232/8294/1999/files/Whitepant3.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4KWASkvUcyi9ArdUHF9ahD",
+"title": "Drift Bootcut Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Ash Grey"
+},
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Deep Blue"
+},
+{
+"label": "Vintage Brown"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0103/1890/5441/files/IMG_4594.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/41798574473313",
+"title": "Drift Bootcut Jeans",
+"url": "https://offduty.in/products/blue-drift-bootcut-jeans?variant=41798574473313",
+"price": {
+"amount": 169000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Offduty India",
+"url": "https://offduty.in",
+"domain": "offdutystore.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0103/1890/5441/files/IMG_4594.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2NOIFKDeDI1f7PXiAiTxyF",
+"title": "Men's Blue Straight Fit Washed Jeans Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Dark Grey"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jeanstrttowl-mblue.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53070587363644",
+"title": "Men's Blue Straight Fit Washed Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-blue-straight-fit-washed-jeans-stretchable-jeanstrttowl-mblue?variant=53070587363644",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jeanstrttowl-mblue.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2rhZFKsYFyq6lhOvWm0Rv9",
+"title": "Men's Blue Dad Fit Solid Street Wear Ripped Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutC_8134415220952.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44237211697368",
+"title": "Men's Blue Dad Fit Solid Street Wear Ripped Jeans",
+"url": "https://tigc.in/products/0622-rgddnm-light-blue?variant=44237211697368",
+"price": {
+"amount": 95900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "34"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutC_8134415220952.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2QE1oBxeR0r3Vamt3HP6Cg",
+"title": "Men's Dark Blue Washed Bootcut Jeans Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Dark Grey"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootep-dblue_aba6c5dd-fb6e-4eb9-9057-f6fc46a49a89.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45203411337532",
+"title": "Men's Dark Blue Washed Bootcut Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-dark-blue-washed-bootcut-jeans-stretchable-bootep-dblue?variant=45203411337532",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootep-dblue_aba6c5dd-fb6e-4eb9-9057-f6fc46a49a89.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5RlZ7Dky0aWTAWMSzS9NO9",
+"title": "Men's Washed Blue Barrel Loose Fit Solid Street Wear Belted Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1223-712jgdnm1-12.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50243492413656",
+"title": "Men's Washed Blue Barrel Loose Fit Solid Street Wear Belted Jeans",
+"url": "https://tigc.in/products/mens-blue-barrel-loose-solid-denim-joggers-1223-712jgdnm1-12-blue?variant=50243492413656",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/1223-712jgdnm1-12.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/ltybZZaOw4MzHGLGWdLQ5",
+"title": "Men's Blue Bootcut Fit Solid Casual Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutC_10282862674136.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52546852126936",
+"title": "Men's Blue Bootcut Fit Solid Casual Jeans",
+"url": "https://tigc.in/products/men-s-blue-bootcut-fit-solid-casual-jeans-0826-515dnm-7?variant=52546852126936",
+"price": {
+"amount": 122900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/IG_calloutC_10282862674136.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/C2Jkkh4f81azADKT4ZJt0",
+"title": "Men's Light Blue Regular Fit Washed Jeans Stretchable",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "White Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/avwhkwhireg-lblu.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49366593306940",
+"title": "Men's Light Blue Regular Fit Washed Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-light-blue-regular-fit-washed-jeans-stretchable-avwhkwhireg-lblu?variant=49366593306940",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Fabric details",
+"label": "Denim"
+},
+{
+"name": "Color",
+"label": "Light Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/avwhkwhireg-lblu.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1KNgpkKpCRlFmgs7IDwp47",
+"title": "Men's Ice Blue Straight Fit Washed Jeans Stretchable",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jeanstrtwhsk-iceblue-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53070581694780",
+"title": "Men's Ice Blue Straight Fit Washed Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-ice-blue-straight-fit-washed-jeans-stretchable-jeanstrtwhsk-iceblue?variant=53070581694780",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Ice Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jeanstrtwhsk-iceblue-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4VJzBlQh45yte9yb1E7pje",
+"title": "Men's Light Blue Regular Fit Washed Jeans Stretchable",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Light Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/avtowlreg-lblu.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48455353401660",
+"title": "Men's Light Blue Regular Fit Washed Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-light-blue-regular-fit-washed-jeans-stretchable-avtowlreg-lblu?variant=48455353401660",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/avtowlreg-lblu.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/73mEw8rasmjgVBGvqXhIW1",
+"title": "Men's Dark Blue Washed Bootcut Jeans Stretchable",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootjenwhkyel-dblue-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48396771197244",
+"title": "Men's Dark Blue Washed Bootcut Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-dark-blue-washed-bootcut-jeans-stretchable-bootjenwhkyel-dblue?variant=48396771197244",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootjenwhkyel-dblue-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4eM8yx1fwOfOsy7P4NdKqB",
+"title": "Men's White Loose Fit Washed Jeans Non-Stretchable",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "Purple"
+},
+{
+"label": "White"
+},
+{
+"label": "Whitish Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jeanloose-white-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48479481921852",
+"title": "Men's White Loose Fit Washed Jeans Non-Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-white-loose-fit-washed-jeans-non-stretchable-jeanloose-white?variant=48479481921852",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jeanloose-white-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4UhFM4JKKOituvnI5TpJXg",
+"title": "Men's Blue Regular Fit Washed Jeans Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Dark Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Light Blue"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/epsjeanreg-mblue.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48455366771004",
+"title": "Men's Blue Regular Fit Washed Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-blue-regular-fit-washed-jeans-stretchable-epsjeanreg-mblue?variant=48455366771004",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/epsjeanreg-mblue.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5LNKRMFevhSnc3IQif1dYl",
+"title": "Men's Blue Washed Bootcut Jeans Stretchable",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "40"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootjeanwhkyel-02-mblue.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49953200210236",
+"title": "Men's Blue Washed Bootcut Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-blue-washed-bootcut-jeans-stretchable-bootjeanwhkyel-02-mblue?variant=49953200210236",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootjeanwhkyel-02-mblue.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/459YMCwmIJ6Oe9j5pex6FC",
+"title": "Men's Light Blue Washed Bootcut Jeans Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Light Blue"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootjeanwhsk-lblue-Main.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49953203061052",
+"title": "Men's Light Blue Washed Bootcut Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-light-blue-washed-bootcut-jeans-stretchable-bootjeanwhsk-lblue?variant=49953203061052",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/bootjeanwhsk-lblue-Main.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2GoI04HLCMd0F5xwsOhExI",
+"title": "Men's Dark Blue Regular Fit Washed Jeans Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Dark Grey"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "White"
+},
+{
+"label": "Whitish Grey"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/epsreg-dblue.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48455375290684",
+"title": "Men's Dark Blue Regular Fit Washed Jeans Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-dark-blue-regular-fit-washed-jeans-stretchable-epsreg-dblue?variant=48455375290684",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/epsreg-dblue.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/YrC4PQ4BFofnDhXnyiDo",
+"title": "Men Stretch Narrow Fit | Mid Blue Jeans | Premium Casual Denim",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Gray"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0671/3065/4873/files/dsdf-_1_ca0df767-e09d-4afa-bc93-b72343b56e17.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48281592135833",
+"title": "Men Stretch Narrow Fit | Mid Blue Jeans | Premium Casual Denim",
+"url": "https://sparkyjeans.in/products/men-stretch-narrow-fit-mid-blue-jeans-premium-casual-denim?variant=48281592135833",
+"price": {
+"amount": 111900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "34"
+}
+],
+"seller": {
+"name": "Sparkyjeans",
+"url": "https://sparkyjeans.in",
+"domain": "sparkyjeans.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0671/3065/4873/files/dsdf-_1_ca0df767-e09d-4afa-bc93-b72343b56e17.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5P4Bio89uBQlFeljVnOuuc",
+"title": "Purple By Highlander Men Blue Straight Fit Highly Distressed Stretchable Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "32"
+},
+{
+"label": "34"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0717/7152/1215/files/PHJN000113_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44880815751359",
+"title": "Purple By Highlander Men Blue Straight Fit Highly Distressed Stretchable Jeans",
+"url": "https://www.getketch.com/products/purple-by-highlander-men-blue-straight-fit-highly-distressed-stretchable-jeans-phjn000113?variant=44880815751359",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "32"
+}
+],
+"seller": {
+"name": "getketch",
+"url": "https://www.getketch.com",
+"domain": "getketchstore.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0717/7152/1215/files/PHJN000113_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6kMmNMvueHzAG1EsjD7Q0e",
+"title": "Men's Light Blue Loose Fit Solid Casual Belted Jeans",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Vintage Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/0224-CAPDNM-01_1_d5fd1915-6320-46f7-bae9-da7ae9ee9380.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49764075471064",
+"title": "Men's Light Blue Loose Fit Solid Casual Belted Jeans",
+"url": "https://tigc.in/products/mens-loose-fit-solid-mid-rise-capri-jeans-0224-capdnm-01-vintage-blue?variant=49764075471064",
+"price": {
+"amount": 87900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Vintage Blue"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "TIGC",
+"url": "https://tigc.in",
+"domain": "the-indian-garage.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0614/0903/4456/files/0224-CAPDNM-01_1_d5fd1915-6320-46f7-bae9-da7ae9ee9380.jpg"
+}
+]
+}
+]
+}
+]
+}

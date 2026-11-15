@@ -1,0 +1,1510 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/nLSASIuNukDp624CstLBS",
+"title": "Men Olive Carpenter Cargo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Olive"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/916cc3a5-fc78-4a24-8db9-c5133ca83731.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50758990364903",
+"title": "Men Olive Carpenter Cargo Pants",
+"url": "https://fyva.in/products/men-olive-carpanter-pants-fyaw24mpnt620olv?variant=50758990364903",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/916cc3a5-fc78-4a24-8db9-c5133ca83731.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7MmizxW7kSM08UrPZxZFmb",
+"title": "Men's Olive Cargo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "32"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0722/5268/6576/files/0W2A2042.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46598286049520",
+"title": "Men's Olive Cargo Pants",
+"url": "https://www.beevee.in/products/omcr3150olive?variant=46598286049520",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Beevee",
+"url": "https://www.beevee.in",
+"domain": "beevee123.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0722/5268/6576/files/0W2A2042.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/33UwBtTIPFlFg2w9mf3t4W",
+"title": "Men's Olive Green Regular Fit Solid Cargo Chino Pant with 6 Pockets",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Cream"
+},
+{
+"label": "Dark Grey"
+},
+{
+"label": "Dark Khaki"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Navy Blue"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "Royal Blue"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chicargo-06-olivegrn-1_b28138b3-092b-4194-9841-98d464b12e7b.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48398536900924",
+"title": "Men's Olive Green Regular Fit Solid Cargo Chino Pant with 6 Pockets",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-olive-green-regular-fit-solid-cargo-chino-pant-with-6-pockets-chicargo-06-olivegrn?variant=48398536900924",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive Green"
+},
+{
+"name": "Size",
+"label": "34"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chicargo-06-olivegrn-1_b28138b3-092b-4194-9841-98d464b12e7b.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/jsXQhTdFUsLt4wpZNTs2O",
+"title": "Men's Olive Loose Baggy Fit Solid Cargo Chino Pant with 6 Pockets Non-Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "Maroon"
+},
+{
+"label": "Navy"
+},
+{
+"label": "Olive"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chicargolos-02-olive.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50315296538940",
+"title": "Men's Olive Loose Baggy Fit Solid Cargo Chino Pant with 6 Pockets Non-Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-olive-loose-baggy-fit-solid-cargo-chino-pant-with-6-pockets-non-stretchable-chicargolos-02-olive?variant=50315296538940",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chicargolos-02-olive.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/44rS6NiNurj8ccQFFHN2fv",
+"title": "Men Olive Solid Regular Fit Lower",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "40/L"
+},
+{
+"label": "42/XL"
+},
+{
+"label": "44/XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260880867LO-2-38_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51169908228384",
+"title": "Men Olive Solid Regular Fit Lower",
+"url": "https://www.montecarlo.in/products/men-olive-solid-regular-fit-lower-2260880867lo-2?variant=51169908228384",
+"price": {
+"amount": 125900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "40/L"
+}
+],
+"seller": {
+"name": "Monte Carlo",
+"url": "https://www.montecarlo.in",
+"domain": "montecarlonew.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260880867LO-2-38_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3m5Zr6Hwo8xEdWKA6XX7mh",
+"title": "Olive Green Men Multi Pocket Solid Cargo Pant",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSCRG6PTDBOGRN01_7.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44316085420141",
+"title": "Olive Green Men Multi Pocket Solid Cargo Pant",
+"url": "https://www.gritstones.com/products/olive-green-men-multi-pocket-solid-cargo-pant-02?variant=44316085420141",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Gritstones",
+"url": "https://www.gritstones.com",
+"domain": "gritstones.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSCRG6PTDBOGRN01_7.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1GcR3SporQeqpbCLvpxMQ3",
+"title": "Urbano Fashion Men's Olive Loose Baggy Fit Solid Cargo Chino Pant with 6 Pockets Non-Stretchable",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Cream"
+},
+{
+"label": "Light Olive"
+},
+{
+"label": "Olive"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chicargolos-04-olive-1_5c93a4d5-d373-4384-b969-a33e35181554.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51018214539580",
+"title": "Urbano Fashion Men's Olive Loose Baggy Fit Solid Cargo Chino Pant with 6 Pockets Non-Stretchable",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-olive-loose-baggy-fit-solid-cargo-chino-pant-with-6-pockets-non-stretchable-chicargolos-04-olive?variant=51018214539580",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/chicargolos-04-olive-1_5c93a4d5-d373-4384-b969-a33e35181554.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3r7RWR1MxhgBFrd5DBb9JK",
+"title": "Rock.it Men Olive Solid Regular Fit Cargo",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30 EU"
+},
+{
+"label": "34 EU"
+},
+{
+"label": "36 EU"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260105481-3-30_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51260903751968",
+"title": "Rock.it Men Olive Solid Regular Fit Cargo",
+"url": "https://www.montecarlo.in/products/rock-it-men-olive-solid-regular-fit-cargo-2260105481-3?variant=51260903751968",
+"price": {
+"amount": 131300,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "30 EU"
+}
+],
+"seller": {
+"name": "Monte Carlo",
+"url": "https://www.montecarlo.in",
+"domain": "montecarlonew.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/2260105481-3-30_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1iiHpbfQ3sAci081giXMxL",
+"title": "Men's Dark Olive Narrow Fit Cargo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0834/5121/6153/files/1_2_8fda747b-441f-46ad-9eae-927edefa9a93.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51108688691481",
+"title": "Men's Dark Olive Narrow Fit Cargo Pants",
+"url": "https://pavilionjeans.com/products/mens-dark-olive-narrow-fit-cargo-pants?variant=51108688691481",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "28"
+}
+],
+"seller": {
+"name": "Pavilion Jeans Online Store",
+"url": "https://pavilionjeans.com",
+"domain": "f596e7-3.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0834/5121/6153/files/1_2_8fda747b-441f-46ad-9eae-927edefa9a93.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2oIzkteI829TEjxPTcv1gT",
+"title": "Olive Green Men Cotton Cargo Pant",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSCRG10PKTDECOGRN_2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43824186097773",
+"title": "Olive Green Men Cotton Cargo Pant",
+"url": "https://www.gritstones.com/products/olive-green-men-cotton-cargo-pant?variant=43824186097773",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Gritstones",
+"url": "https://www.gritstones.com",
+"domain": "gritstones.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSCRG10PKTDECOGRN_2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1JgPWpSZtWF1I570CNJbK1",
+"title": "Black Men Drawstring Cotton Cargo Pant",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Beige"
+},
+{
+"label": "Black"
+},
+{
+"label": "Brown"
+},
+{
+"label": "Dark Brown"
+},
+{
+"label": "Green"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "Steel Grey"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSCRG8PK04BLK_6.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44316052062317",
+"title": "Black Men Drawstring Cotton Cargo Pant",
+"url": "https://www.gritstones.com/products/black-men-drawstring-cotton-cargo-pant-06?variant=44316052062317",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Gritstones",
+"url": "https://www.gritstones.com",
+"domain": "gritstones.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0274/0086/3853/files/GSCRG8PK04BLK_6.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/66PfFUmQya1MRtcIWDXrcW",
+"title": "Mens Solid Olive Cargo Trousers",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30-31"
+},
+{
+"label": "32-33"
+},
+{
+"label": "34-35"
+},
+{
+"label": "36-37"
+},
+{
+"label": "38-39"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey Navy"
+},
+{
+"label": "Olive"
+},
+{
+"label": "Stone"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0587/4257/1092/files/13-06-2026--caio_jardel03571_44e29d23-1acf-4f09-9250-3b4fd007e2c1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47371023450196",
+"title": "Mens Solid Olive Cargo Trousers",
+"url": "https://bornfreefashions.com/products/mens-solid-olive-cargo-trousers?variant=47371023450196",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "34-35"
+}
+],
+"seller": {
+"name": "Bornfree Store",
+"url": "https://bornfreefashions.com",
+"domain": "345b3a-68.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0587/4257/1092/files/13-06-2026--caio_jardel03571_44e29d23-1acf-4f09-9250-3b4fd007e2c1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1gMZoTZ19igIU1xmxnpUPG",
+"title": "Attitude Start Of Fashion Men’s Olive Cargo Lower | Durable Cargo Pants for Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Olive"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0577/4127/9337/files/Green_JPG1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42662160728169",
+"title": "Attitude Start Of Fashion Men’s Olive Cargo Lower | Durable Cargo Pants for Men",
+"url": "https://attitudefashion.in/products/attitude-mens-regular-fit-cargo-baggy-lower-cotton-blend-elastic-waistband-pockets?variant=42662160728169",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Attitude Start Of Fashion",
+"url": "https://attitudefashion.in",
+"domain": "the-attitude-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0577/4127/9337/files/Green_JPG1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2GNwc7NHsy9ln9Qj3dMQxM",
+"title": "Mens Olive Cargo Pant",
+"options": [
+{
+"name": "Sku",
+"values": [
+{
+"label": "M11203B3"
+},
+{
+"label": "M11203B4"
+},
+{
+"label": "M11203B5"
+},
+{
+"label": "M11203D1"
+},
+{
+"label": "M11203D4"
+},
+{
+"label": "M11203D5"
+},
+{
+"label": "M11203D6"
+},
+{
+"label": "M11203D7"
+},
+{
+"label": "M11203E1"
+},
+{
+"label": "M11203E2"
+},
+{
+"label": "M11203E3"
+},
+{
+"label": "M11203F2"
+},
+{
+"label": "M11203F5"
+},
+{
+"label": "M11203F7"
+}
+]
+},
+{
+"name": "Moq | sizes | ratio",
+"values": [
+{
+"label": "3 pcs | 30-32-36 | 1-1-1"
+},
+{
+"label": "3 pcs | 30-34-36 | 1-1-1"
+},
+{
+"label": "3 pcs | 32-34-36 | 1-1-1"
+},
+{
+"label": "3 pcs | 32-36-38 | 1-1-1"
+},
+{
+"label": "3 pcs | 34-36-38 | 1-1-1"
+},
+{
+"label": "4 pcs | 30-32-34-36 | 1-1-1-1"
+},
+{
+"label": "4 pcs | 30-32-34-38 | 1-1-1-1"
+},
+{
+"label": "4 pcs | 32-36-38 | 1-1-2"
+},
+{
+"label": "4 pcs | 32-36-38 | 1-2-1"
+},
+{
+"label": "4 pcs | 34-36-38 | 1-1-2"
+},
+{
+"label": "5 pcs | 30-32-34-36-38 | 1-1-1-1-1"
+},
+{
+"label": "5 pcs | 34-36-38 | 2-1-2"
+}
+]
+},
+{
+"name": "Unit price",
+"values": [
+{
+"label": "₹625 | $7.81"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0660/8633/8733/files/M11203D2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45564009578669",
+"title": "Mens Olive Cargo Pant",
+"url": "https://shop4shops.in/products/mens-olive-cargo-pant-m11203d?variant=45564009578669",
+"price": {
+"amount": 187500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Unit price",
+"label": "₹625 | $7.81"
+},
+{
+"name": "Sku",
+"label": "M11203D5"
+},
+{
+"name": "Moq | sizes | ratio",
+"label": "3 pcs | 30-34-36 | 1-1-1"
+}
+],
+"seller": {
+"name": "Shopforshops",
+"url": "https://shop4shops.in",
+"domain": "shop4shops-webzplot.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0660/8633/8733/files/M11203D2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2Ep30rXimTK10bw8QS3Xbh",
+"title": "Men's Cotton Cargo Jogger Pants Olive Green",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL/36"
+},
+{
+"label": "3XL/38"
+},
+{
+"label": "L/32"
+},
+{
+"label": "M/30"
+},
+{
+"label": "XL/34"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0692/6339/2905/files/brown_image.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43869872816265",
+"title": "Men's Cotton Cargo Jogger Pants Olive Green",
+"url": "https://diruno.com/products/mens-cotton-cargo-jogger-pants-olive-green?variant=43869872816265",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M/30"
+}
+],
+"seller": {
+"name": "Diruno Fashion",
+"url": "https://diruno.com",
+"domain": "tvfpra-fq.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0692/6339/2905/files/brown_image.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6TYxqO13rWpM7ud33beWwz",
+"title": "Men Washed Olive Straight Fit Cargo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Olive"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/IMG_0074_8b35ab20-b781-428b-9a6b-16e8dab7a8ba.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50629342724327",
+"title": "Men Washed Olive Straight Fit Cargo Pants",
+"url": "https://fyva.in/products/men-olive-regular-fit-pants-fyaw24mpnt537olv?variant=50629342724327",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/IMG_0074_8b35ab20-b781-428b-9a6b-16e8dab7a8ba.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6pRkMER5jpSBwKtuR2bNpE",
+"title": "Olive Cargo With Utility Pockets",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/Bonkerscorner_dark_olive_cargo_pants7.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51717642486124",
+"title": "Olive Cargo With Utility Pockets",
+"url": "https://www.bonkerscorner.com/products/olive-cargo-with-utility-pockets?variant=51717642486124",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "BonkersCorner",
+"url": "https://www.bonkerscorner.com",
+"domain": "bonkerscorner-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0653/0541/1684/files/Bonkerscorner_dark_olive_cargo_pants7.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4s3pAnEV94YHpDoooERrG2",
+"title": "Olive Mid-Rise Straight Fit Woven Cargo Trouser For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Cotton"
+}
+]
+},
+{
+"name": "Judgeme:widget",
+"values": [
+{
+"label": "<div></div>"
+}
+]
+},
+{
+"name": "Mc-facebook:google_product_category",
+"values": [
+{
+"label": "1604"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB030_Olive-3_1731475283.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48943502196986",
+"title": "Olive Mid-Rise Straight Fit Woven Cargo Trouser For Men",
+"url": "https://thomasscott.in/products/men-olive-mid-rise-straight-fit-woven-cargo-trouser?variant=48943502196986",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Judgeme:widget",
+"label": "<div></div>"
+},
+{
+"name": "Fabric",
+"label": "Cotton"
+},
+{
+"name": "Mc-facebook:google_product_category",
+"label": "1604"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Thomas Scott",
+"url": "https://thomasscott.in",
+"domain": "thomasscott-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/2738/8922/files/NEWTSB030_Olive-3_1731475283.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3trknP0PbmNfNUXmfjVNl0",
+"title": "Men Cargo Olive Green Mid Rise",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "28"
+},
+{
+"label": "30"
+},
+{
+"label": "32"
+},
+{
+"label": "34"
+},
+{
+"label": "36"
+},
+{
+"label": "38"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+},
+{
+"label": "Khaki"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/7874/9892/files/MTRCG2BD021OLIVEGREEN_1_6189e264-2016-4e98-9c66-9d7ca4b30933.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46480692871364",
+"title": "Men Cargo Olive Green Mid Rise",
+"url": "https://spykar.com/products/mtrcg2bd021olivegreen?variant=46480692871364",
+"price": {
+"amount": 187900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Green"
+},
+{
+"name": "Size",
+"label": "30"
+}
+],
+"seller": {
+"name": "Spykar Lifestyles",
+"url": "https://spykar.com",
+"domain": "spykar-lifestyles.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0608/7874/9892/files/MTRCG2BD021OLIVEGREEN_1_6189e264-2016-4e98-9c66-9d7ca4b30933.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7oD2FuDjnxOpFQ5lxXwivY",
+"title": "Men Olive Regular Fit Cargo Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey"
+},
+{
+"label": "Olive"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/0T4A6554-AI.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50629331615975",
+"title": "Men Olive Regular Fit Cargo Pants",
+"url": "https://fyva.in/products/men-olive-regular-fit-pants-fyaw24mpnt511olv?variant=50629331615975",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Olive"
+},
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/0T4A6554-AI.jpg"
+}
+]
+}
+]
+}
+]
+}

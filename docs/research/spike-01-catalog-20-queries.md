@@ -1,6 +1,6 @@
 # Spike 01: 20 catalog queries vs the GO rule (scripted, 2026-11-09)
 
-Script: `src/spike/run_spike.py`. Raw responses: `docs/research/spike-01-raw/`. Limit 20 per search.
+Script: `src/spike/run_spike.py`. Raw responses: kept locally in `docs/research/spike-01-raw/`, not published (Shopify API terms; D61). Trimmed test copies: `tests/fixtures/search/`. Limit 20 per search.
 Every search sent ships_to=IN, available=true, price.max (paise), Target gender, context IN/INR.
 "Good" = in stock + INR + price <= cap (re-checked in code) + title has item word AND colour word (auto, human to confirm).
 

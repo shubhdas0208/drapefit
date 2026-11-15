@@ -1,0 +1,1344 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/4sHox3DQLyjA7vCq8pBtQm",
+"title": "Athena Women Black Self Design Bodycon Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0572/5716/4847/files/1_d0bab169-3baa-4cbb-8edb-efe065dda490.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43753549431060",
+"title": "Athena Women Black Self Design Bodycon Dress",
+"url": "https://athenalifestyle.com/products/athena-women-black-self-design-bodycon-dress?variant=43753549431060",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "athenalifestyle.com",
+"url": "https://athenalifestyle.com",
+"domain": "pavneet-d052.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0572/5716/4847/files/1_d0bab169-3baa-4cbb-8edb-efe065dda490.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5RKq4j6gtpo8c3yYhHjgZN",
+"title": "Black Floral Mesh Strap Bodycon Midi Dress with Ruffle Hem for Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0825/1260/9494/files/s9vq0jogbjquixxjil7q.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48347057914070",
+"title": "Black Floral Mesh Strap Bodycon Midi Dress with Ruffle Hem for Women",
+"url": "https://www.mirayfashions.com/products/black-floral-mesh-strap-bodycon-midi-dress-with-ruffle-hem-for-women?variant=48347057914070",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Miray ",
+"url": "https://www.mirayfashions.com",
+"domain": "1fbrif-gg.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0825/1260/9494/files/s9vq0jogbjquixxjil7q.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6AerkycLTaNjXtv5jOoL0O",
+"title": "Women Black Velvet Cowl Neck Bodycon Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+},
+{
+"label": "Large (L),38 EU"
+},
+{
+"label": "Medium (M),36 US"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11611-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46995450888493",
+"title": "Women Black Velvet Cowl Neck Bodycon Dress",
+"url": "https://sassafras.in/products/women-black-velvet-cowl-neck-bodycon-dress-sfdrss11611?variant=46995450888493",
+"price": {
+"amount": 95900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11611-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/bAwCSTtjxnIYOqYyWJ3nz",
+"title": "Women Black Rib Bodycon Midi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+},
+{
+"label": "Extra large (XL),40 UK"
+},
+{
+"label": "Extra small (XS),32 US"
+},
+{
+"label": "Large (L),38 EU"
+},
+{
+"label": "Medium (M),36 EU"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11578-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46995378929965",
+"title": "Women Black Rib Bodycon Midi Dress",
+"url": "https://sassafras.in/products/women-black-rib-bodycon-midi-dress-sfdrss11578?variant=46995378929965",
+"price": {
+"amount": 86300,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11578-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/140rNSW1dRM8aWy0n04Eit",
+"title": "Women Black Sequence Sleeve Detail Bodycon Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+},
+{
+"label": "6XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11778-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50177883111725",
+"title": "Women Black Sequence Sleeve Detail Bodycon Dress",
+"url": "https://sassafras.in/products/women-black-sequence-sleeve-detail-bodycon-dress-sfdrss11778?variant=50177883111725",
+"price": {
+"amount": 112400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11778-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7h3P6IMaJ1aeW4XDjVeuKT",
+"title": "Women Black Ribbed Bodycon Maxi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS12401-1_27f500b9-97cc-4d11-aec9-a45f76bd8d2a.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49894327583021",
+"title": "Women Black Ribbed Bodycon Maxi Dress",
+"url": "https://sassafras.in/products/women-black-ribbed-bodycon-maxi-dress-sfdrss12401?variant=49894327583021",
+"price": {
+"amount": 98900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS12401-1_27f500b9-97cc-4d11-aec9-a45f76bd8d2a.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5S5ClWzJyY21NrFt3cJe90",
+"title": "TWILA",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0823/1131/5740/files/R-0000-846.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53177988612380",
+"title": "TWILA",
+"url": "https://roslynbydemi.com/products/twila-dress?variant=53177988612380",
+"price": {
+"amount": 185000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Roslyn",
+"url": "https://roslynbydemi.com",
+"domain": "96f864-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0823/1131/5740/files/R-0000-846.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4dvWml6bA13EUv7x7UXhyW",
+"title": "Women Black Rib Side Slit Bodycon Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11399-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45262026309933",
+"title": "Women Black Rib Side Slit Bodycon Dress",
+"url": "https://sassafras.in/products/women-black-rib-side-slit-bodycon-dress-sfdrss11399?variant=45262026309933",
+"price": {
+"amount": 80900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11399-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/66mNezrwu91NidQNBBkqiu",
+"title": "Women's Black & White Feather Trim Bodycon Maxi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/CHN-2597_WhiteBlack_1_cd309917-6634-4e5a-9da6-39673efb5c0c.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51947658674452",
+"title": "Women's Black & White Feather Trim Bodycon Maxi Dress",
+"url": "https://showoffff.in/products/womens-white-dresses-chn-2597_whiteblack?variant=51947658674452",
+"price": {
+"amount": 126000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/CHN-2597_WhiteBlack_1_cd309917-6634-4e5a-9da6-39673efb5c0c.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3yV5chjfhLIhqr5fC6Wme8",
+"title": "Women Black Sequin Bodycon Midi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra small (XS),32 US"
+},
+{
+"label": "Medium (M),36 EU"
+},
+{
+"label": "Small (S),34 EU"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/SFDRSS10972-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51680319373543",
+"title": "Women Black Sequin Bodycon Midi Dress",
+"url": "https://fyva.in/products/women-black-sequin-bodycon-midi-dress-sfdrss10972?variant=51680319373543",
+"price": {
+"amount": 111900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/SFDRSS10972-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/53q94qotEhCxfflfGvkmsX",
+"title": "Women's Black Backless Lace-Up Maxi Dress – Bodycon Mermaid Fit Party & Evening Gown",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0825/1260/9494/files/1712477371093244953e2a08ca09171760fd08ed14.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48346478969046",
+"title": "Women's Black Backless Lace-Up Maxi Dress – Bodycon Mermaid Fit Party & Evening Gown",
+"url": "https://www.mirayfashions.com/products/womens-black-backless-lace-up-maxi-dress-bodycon-mermaid-fit-party-evening-gown?variant=48346478969046",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Miray ",
+"url": "https://www.mirayfashions.com",
+"domain": "1fbrif-gg.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0825/1260/9494/files/1712477371093244953e2a08ca09171760fd08ed14.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6qqtTINzAOyAMs6KK5Xf4s",
+"title": "Women Black Rib Polo Collar Tip Bodycon Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11402-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45262027391277",
+"title": "Women Black Rib Polo Collar Tip Bodycon Dress",
+"url": "https://sassafras.in/products/women-black-rib-polo-collar-tip-bodycon-dress-sfdrss11402?variant=45262027391277",
+"price": {
+"amount": 80900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/products/SFDRSS11402-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7esrcQKjDiJuvXTLCxzyHg",
+"title": "Women Black Waist Cutout Ruched Bodycon Midi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS13842-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52315874230573",
+"title": "Women Black Waist Cutout Ruched Bodycon Midi Dress",
+"url": "https://sassafras.in/products/women-black-waist-cutout-ruched-bodycon-midi-dress-sfdrss13842?variant=52315874230573",
+"price": {
+"amount": 112400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS13842-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7IPbhXn3LDmd24PxUr6XQ9",
+"title": "Superstar Black Ribbed Bodycon Maxi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301087961BLACK_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46004563116085",
+"title": "Superstar Black Ribbed Bodycon Maxi Dress",
+"url": "https://westside.com/products/superstar-black-ribbed-bodycon-maxi-dress-301087961",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "Westside",
+"url": "https://westside.com",
+"domain": "my-westside.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0266/6276/4597/files/301087961BLACK_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4cTj3Eztymd0i7LdqvqwHJ",
+"title": "U&F Beyond Women Plus size Black Sweetheart Neck Puff Sleeves Scuba Bodycon Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+},
+{
+"label": "6XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0727/0963/6379/files/D19620-11.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47672204198171",
+"title": "U&F Beyond Women Plus size Black Sweetheart Neck Puff Sleeves Scuba Bodycon Dress",
+"url": "https://uandf.co.in/products/women-plus-size-black-sweetheart-neck-puff-sleeves-scuba-bodycon-dress?variant=47672204198171",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "3XL"
+}
+],
+"seller": {
+"name": "U&F",
+"url": "https://uandf.co.in",
+"domain": "04326e.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0727/0963/6379/files/D19620-11.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5hBdAfToHFsFPa7h68KuWR",
+"title": "Black Long Sleeve Square Neck Maxi Bodycon Dress | Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+},
+{
+"name": "Material",
+"values": [
+{
+"label": "95%Polyester+5%Elastane"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0770/3819/0891/files/53414ee8c1cf2f48.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49436157935915",
+"title": "Black Long Sleeve Square Neck Maxi Bodycon Dress | Women",
+"url": "https://errabelly.co.in/products/black-long-sleeve-square-neck-maxi-bodycon-dress?variant=49436157935915",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Material",
+"label": "95%Polyester+5%Elastane"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Errabelly",
+"url": "https://errabelly.co.in",
+"domain": "f2c32b-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0770/3819/0891/files/53414ee8c1cf2f48.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4n8mHNQnqzwC5klJrCSeqe",
+"title": "Women Black Rhombus Neck Belted Bodycon Midi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Double extra large (XXL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS12898-1_4832fdce-2717-489d-b072-c601595f07a0.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50607169110317",
+"title": "Women Black Rhombus Neck Belted Bodycon Midi Dress",
+"url": "https://sassafras.in/products/women-black-rhombus-neck-belted-bodycon-midi-dress-sfdrss12898?variant=50607169110317",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS12898-1_4832fdce-2717-489d-b072-c601595f07a0.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3TQZLvS92tX5wxfyBrHxQG",
+"title": "Women Black Side Button Bodycon Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Double extra large (XXL)"
+},
+{
+"label": "Triple extra large (XXXL)"
+},
+{
+"label": "Four extra large (4XL)"
+},
+{
+"label": "Five extra large (5XL)"
+},
+{
+"label": "Six extra large (6XL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS13839-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52272974954797",
+"title": "Women Black Side Button Bodycon Dress",
+"url": "https://sassafras.in/products/women-black-side-button-bodycon-dress-sfdrss13839?variant=52272974954797",
+"price": {
+"amount": 149400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "Double extra large (XXL)"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS13839-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3Jgt0H6Mkgtq0gv2G1UxWf",
+"title": "Women Black Rib Polka Hem Frill Bodycon Midi Dress",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "6XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS13668-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51955784778029",
+"title": "Women Black Rib Polka Hem Frill Bodycon Midi Dress",
+"url": "https://sassafras.in/products/women-black-rib-polka-hem-frill-bodycon-midi-dress-sfdrss13668?variant=51955784778029",
+"price": {
+"amount": 112400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "6XL"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFDRSS13668-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4iOQWeb4WkSybFRzp7zey0",
+"title": "Women's Black Sleeveless Bodycon Midi Dress, Elegant Evening Wear",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0553/0445/4310/files/Sa1dda7afab3742a9a8e5b7bf5f01ed2cN.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/57099622547622",
+"title": "Women's Black Sleeveless Bodycon Midi Dress, Elegant Evening Wear",
+"url": "https://blingqueen.in/products/womens-black-sleeveless-bodycon-midi-dress-elegant-evening-wear?variant=57099622547622",
+"price": {
+"amount": 179900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "BLING QUEEN",
+"url": "https://blingqueen.in",
+"domain": "blingqueen-in.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0553/0445/4310/files/Sa1dda7afab3742a9a8e5b7bf5f01ed2cN.webp"
+}
+]
+}
+]
+}
+]
+}

@@ -1,0 +1,1209 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/3vdz0SED4lne0nNq5GiHDm",
+"title": "Women's Red Layered Crepe Wrap Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10403_Red_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48306172625172",
+"title": "Women's Red Layered Crepe Wrap Crop Top",
+"url": "https://showoffff.in/products/womens-red-solid-crop-topae-10403_red?variant=48306172625172",
+"price": {
+"amount": 61000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10403_Red_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1sim3H571FWVaQNUIRkvg7",
+"title": "Women Red Frilled Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Red"
+},
+{
+"label": "Teal"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/IMG_0052_abcb0738-24de-4b0e-88ef-d6b6af3c0da3.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51221657125095",
+"title": "Women Red Frilled Crop Top",
+"url": "https://fyva.in/products/women-red-frilled-crop-top-fskss24wtop866red?variant=51221657125095",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Red"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/IMG_0052_abcb0738-24de-4b0e-88ef-d6b6af3c0da3.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1z69B5L1IiWlDPvNO1WED0",
+"title": "Net Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0702/2310/2120/files/W244YJ23021CPB_20_281_29.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53030352978088",
+"title": "Net Crop Top",
+"url": "https://revolte.fashion/products/w244yj23021cpb?variant=53030352978088",
+"price": {
+"amount": 77900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Revolte",
+"url": "https://revolte.fashion",
+"domain": "kwm7bq-47.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0702/2310/2120/files/W244YJ23021CPB_20_281_29.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5XOKJWKmL5sUCetSGQ21HL",
+"title": "Red Solid Off Shoulder Crop Top",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0752/1081/7842/files/t-zz-00067.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45381382701362",
+"title": "Red Solid Off Shoulder Crop Top",
+"url": "https://zinklondon.in/products/red-solid-one-shoulder-crop-top-for-women-t-zz-00067?variant=45381382701362",
+"price": {
+"amount": 39900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Zink London",
+"url": "https://zinklondon.in",
+"domain": "zink-london.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0752/1081/7842/files/t-zz-00067.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2t3qSvEg4Rc4JzQ4gjPEyG",
+"title": "Women's Red Sweetheart Neck Bralette Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/TG-220_Red_1_4e000f89-2f15-4181-b27e-fb6ce0540f2e.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49422644019476",
+"title": "Women's Red Sweetheart Neck Bralette Crop Top",
+"url": "https://showoffff.in/products/tg-220_red?variant=49422644019476",
+"price": {
+"amount": 71500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/TG-220_Red_1_4e000f89-2f15-4181-b27e-fb6ce0540f2e.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/WTbxRqmnJQ7lilJEs54bf",
+"title": "Women's Red Net Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/AR-889_Red_1_bcf2cdb7-d14e-43ba-8975-3fd6a1dcdea2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49422549614868",
+"title": "Women's Red Net Crop Top",
+"url": "https://showoffff.in/products/ar-889_red?variant=49422549614868",
+"price": {
+"amount": 94000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/AR-889_Red_1_bcf2cdb7-d14e-43ba-8975-3fd6a1dcdea2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/Psm5t0vv8Jbzrs6q8BXO9",
+"title": "Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Red"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Cotton"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0272/8270/2424/products/TOP00008026_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45019169227068",
+"title": "Crop Top",
+"url": "https://street9.com/products/crop-top-top00008026?variant=45019169227068",
+"price": {
+"amount": 32200,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Red"
+},
+{
+"name": "Fabric",
+"label": "Cotton"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "STREET NINE FASHIONS",
+"url": "https://street9.com",
+"domain": "street-nine.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0272/8270/2424/products/TOP00008026_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6oLSKoUXp0iaJiEs18yTMw",
+"title": "Womens Red and White Striped Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Red"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0621/4687/1409/files/1279302-32882060.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67956929069169",
+"title": "Womens Red and White Striped Crop Top",
+"url": "https://www.ownd.in/products/womens-red-and-white-striped-crop-top-1279302?variant=67956929069169",
+"price": {
+"amount": 39900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Red"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "OWND!",
+"url": "https://www.ownd.in",
+"domain": "styleup-store-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0621/4687/1409/files/1279302-32882060.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4bnpegTvvptwNh4rSvACEH",
+"title": "Women's Red Floral Print Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10577_Red_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48305226613012",
+"title": "Women's Red Floral Print Crop Top",
+"url": "https://showoffff.in/products/womens-red-printed-top-ae-10577_red?variant=48305226613012",
+"price": {
+"amount": 76000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10577_Red_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5axgmHbXjC4JO1F9HsOQay",
+"title": "Women's Red Blouson Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10291_Burgundy_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48307407225108",
+"title": "Women's Red Blouson Crop Top",
+"url": "https://showoffff.in/products/womens-burgundy-solid-crop-top-ae-10291_burgundy?variant=48307407225108",
+"price": {
+"amount": 69500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10291_Burgundy_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7G4wbtwQyXwzlJV5Wl6wsc",
+"title": "Women's Red Checked Shoulder Straps Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/BEC-H0016_Red_1_9579736c-bd21-4194-9eb3-7d92705e66f9.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49733858427156",
+"title": "Women's Red Checked Shoulder Straps Crop Top",
+"url": "https://showoffff.in/products/bec-h0016_red?variant=49733858427156",
+"price": {
+"amount": 67000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/BEC-H0016_Red_1_9579736c-bd21-4194-9eb3-7d92705e66f9.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3QnHx7aMyE2wExM1f6NHFs",
+"title": "Women Red Rib Full Sleeve ACTIVE Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Red"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFTOPS42670-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52319824511277",
+"title": "Women Red Rib Full Sleeve ACTIVE Crop Top",
+"url": "https://sassafras.in/products/women-red-rib-full-sleeve-active-crop-top-sftops42670?variant=52319824511277",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Red"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "SASSAFRAS",
+"url": "https://sassafras.in",
+"domain": "sassafras-fashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0399/0231/4646/files/SFTOPS42670-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3Qn2XQuLXw4yQMelfCD1Tj",
+"title": "Women's Red Embellished One Shoulder Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10192_RedGold_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48308002488596",
+"title": "Women's Red Embellished One Shoulder Top",
+"url": "https://showoffff.in/products/womens-embellished-red-top-ae-10192_redgold?variant=48308002488596",
+"price": {
+"amount": 60500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/AE-10192_RedGold_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/70ul2zk1JB3W6dgHZs7M5U",
+"title": "Women Red Printed Crop Stylish Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Red"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0069/2292/8179/files/SSP0006_5.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47783708754145",
+"title": "Women Red Printed Crop Stylish Top",
+"url": "https://nayoclothing.com/products/ssp0006?variant=47783708754145",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Red"
+},
+{
+"name": "Size",
+"label": "Extra small (XS)"
+}
+],
+"seller": {
+"name": "Nayo Clothing",
+"url": "https://nayoclothing.com",
+"domain": "aasi-house-of-nayo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0069/2292/8179/files/SSP0006_5.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4elWxEvRISJizM2I1GW3P2",
+"title": "Women Red Velvet Square Neck Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Red"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/SHTOP42120-1_ff7ae91e-7e05-40f5-a104-80650658f214.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51642255278311",
+"title": "Women Red Velvet Square Neck Crop Top",
+"url": "https://fyva.in/products/women-red-velvet-square-neck-crop-top-shtop42120?variant=51642255278311",
+"price": {
+"amount": 81900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Red"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/SHTOP42120-1_ff7ae91e-7e05-40f5-a104-80650658f214.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6y0jiORql79RSK0YwQasRX",
+"title": "Red Ribbed V-Neck Full Sleeve Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L-38 Bust Size"
+},
+{
+"label": "M-36 Bust Size"
+},
+{
+"label": "S-34 Bust Size"
+},
+{
+"label": "XL-40 Bust Size"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0752/5990/4287/files/RedRibbedV-NeckFullSleeveToppairedwithBlackAccordionPleatedSkirt1x.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52631666327839",
+"title": "Red Ribbed V-Neck Full Sleeve Crop Top",
+"url": "https://rooclothing.in/products/red-ribbed-v-neck-full-sleeve-top?variant=52631666327839",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S-34 Bust Size"
+}
+],
+"seller": {
+"name": "ROO CLOTHING",
+"url": "https://rooclothing.in",
+"domain": "rooclothing-5172.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0752/5990/4287/files/RedRibbedV-NeckFullSleeveToppairedwithBlackAccordionPleatedSkirt1x.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5bBZibCF251lPlkMYz7jeP",
+"title": "Red Cotton Women’s Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0643/7119/6054/files/W25102WBL002_1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46232088248470",
+"title": "Red Cotton Women’s Crop Top",
+"url": "https://www.zop.in/products/red-cotton-women-s-crop-top?variant=46232088248470",
+"price": {
+"amount": 77500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Shiprocket Merchant App",
+"url": "https://www.zop.in",
+"domain": "zop-by-shiprocket.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0643/7119/6054/files/W25102WBL002_1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5e4NBwOp6Nh1QGSuOcc2MM",
+"title": "Crop Top",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0702/2310/2120/files/W254K2414110F_20_281_29.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/53033260581032",
+"title": "Crop Top",
+"url": "https://revolte.fashion/products/w254k2414110f?variant=53033260581032",
+"price": {
+"amount": 69396,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Revolte",
+"url": "https://revolte.fashion",
+"domain": "kwm7bq-47.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0702/2310/2120/files/W254K2414110F_20_281_29.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3mBgHGB9RKQJxvvISFUJBE",
+"title": "Solid Crop Top With Bow Detail",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Extra small (XS)"
+},
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Red"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0623/4754/2777/files/YWTO00395RED_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47423833276665",
+"title": "Solid Crop Top With Bow Detail",
+"url": "https://styleunion.in/products/solid-crop-top-with-bow-detail-ywto00395?variant=47423833276665",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Red"
+},
+{
+"name": "Size",
+"label": "Large (L)"
+}
+],
+"seller": {
+"name": "Style Union",
+"url": "https://styleunion.in",
+"domain": "styleunionindia.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0623/4754/2777/files/YWTO00395RED_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4iN8DilQ3J9l3cCL6TTYcg",
+"title": "Women’s Printed Crop Top – Stylish & Trendy Graphic Crop Tops Online",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L (Chest 35 inch)"
+},
+{
+"label": "M (Chest 33 inch)"
+},
+{
+"label": "S (Chest 31 inch)"
+},
+{
+"label": "XS (Chest 28 inch)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0752/9270/5081/files/Trendy_Womens_Red_Crop_Top.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49902515716409",
+"title": "Women’s Printed Crop Top – Stylish & Trendy Graphic Crop Tops Online",
+"url": "https://sheinic.com/products/womens-printed-crop-top-online?variant=49902515716409",
+"price": {
+"amount": 59900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS (Chest 28 inch)"
+}
+],
+"seller": {
+"name": "Sheinic",
+"url": "https://sheinic.com",
+"domain": "sheinic.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0752/9270/5081/files/Trendy_Womens_Red_Crop_Top.jpg"
+}
+]
+}
+]
+}
+]
+}

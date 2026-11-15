@@ -1,0 +1,869 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/24OjdPoZYDAco7942GAZkV",
+"title": "Mustard Yellow Printed Cotton Saree – Soft Cotton Saree for Women (BFCS10)",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/5517/7830/files/rn-image_picker_lib_temp_50a4a3dc-2a85-413b-818b-9602b29cab85.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45542888603750",
+"title": "Mustard Yellow Printed Cotton Saree – Soft Cotton Saree for Women (BFCS10)",
+"url": "https://bagrufashions.com/products/traditional-authentic-hand-block-printed-pure-organic-cotton-sarees-with-matching-blouse-copy-18?variant=45542888603750",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Bagru Fashions",
+"url": "https://bagrufashions.com",
+"domain": "524901-f4.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/5517/7830/files/rn-image_picker_lib_temp_50a4a3dc-2a85-413b-818b-9602b29cab85.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6mzUoDngLZ5X7MLmEkfVxE",
+"title": "Ivory White & Mustard Yellow Mysore silk sarees  with Gold Zari Butti Work",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0681/7870/6707/files/WhatsAppImage2026-06-04at11.33.38AM_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/54375106281747",
+"title": "Ivory White & Mustard Yellow Mysore silk sarees  with Gold Zari Butti Work",
+"url": "https://vootbuy.in/products/ivory-white-mustard-yellow-silk-saree-with-gold-zari-butti-work?variant=54375106281747",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Vootbuy",
+"url": "https://vootbuy.in",
+"domain": "vootbuy-3380.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0681/7870/6707/files/WhatsAppImage2026-06-04at11.33.38AM_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1ywWKDDgW91QJPQeUWNHw",
+"title": "Mustard  Mysore Silk Saree with Maroon & Gold Zari Border and Blouse",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0681/7870/6707/files/IMG-20251126-WA0011.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52735587778835",
+"title": "Mustard  Mysore Silk Saree with Maroon & Gold Zari Border and Blouse",
+"url": "https://vootbuy.in/products/mustard-semi-mysore-silk-saree-with-maroon-gold-zari-border-and-blouse?variant=52735587778835",
+"price": {
+"amount": 129900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Vootbuy",
+"url": "https://vootbuy.in",
+"domain": "vootbuy-3380.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0681/7870/6707/files/IMG-20251126-WA0011.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/65wqJf5Af2ogtYkkMA8pua",
+"title": "Royal Mustard Yellow  Satin Satin Silk Saree with Antique Gold Zari Weaving",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0681/7870/6707/files/010533.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52936017740051",
+"title": "Royal Mustard Yellow  Satin Satin Silk Saree with Antique Gold Zari Weaving",
+"url": "https://vootbuy.in/products/royal-mustard-yellow-satin-satin-silk-saree-with-antique-gold-zari-weaving?variant=52936017740051",
+"price": {
+"amount": 189900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Vootbuy",
+"url": "https://vootbuy.in",
+"domain": "vootbuy-3380.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0681/7870/6707/files/010533.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1hVrZyQGsPJQD2BXlGyCeC",
+"title": "Royal Mustard Yellow  Satin Satin Silk Saree with Antique Gold Zari Weaving",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0641/6295/5317/files/010533.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44904810348597",
+"title": "Royal Mustard Yellow  Satin Satin Silk Saree with Antique Gold Zari Weaving",
+"url": "https://mysorepattu.com/products/royal-mustard-yellow-satin-satin-silk-saree-with-antique-gold-zari-weaving?variant=44904810348597",
+"price": {
+"amount": 229790,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Mysore Pattu",
+"url": "https://mysorepattu.com",
+"domain": "232913-e7.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0641/6295/5317/files/010533.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/60asthK3ufzzXbPjwcGtqU",
+"title": "Dark Green Embroidered Silk Saree with Mustard Brocade Border and Embellished Blouse",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Green"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "Free Size"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0682/4614/3047/files/86ZGV3ZE6Y-2026-03-02_photo_2026_01_10_13_01_05_1W81VXGNON_2026_03_02.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42835764674631",
+"title": "Dark Green Embroidered Silk Saree with Mustard Brocade Border and Embellished Blouse",
+"url": "https://modamecca.in/products/dark-green-embroidered-silk-saree-with-mustard-brocade-border-and-embellished-blouse?variant=42835764674631",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Green"
+},
+{
+"name": "Size",
+"label": "Free Size"
+}
+],
+"seller": {
+"name": "Modamecca",
+"url": "https://modamecca.in",
+"domain": "dy3p0k-hc.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0682/4614/3047/files/86ZGV3ZE6Y-2026-03-02_photo_2026_01_10_13_01_05_1W81VXGNON_2026_03_02.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/48fscDvYnKaZe6R1N5LzAN",
+"title": "Mustard Yellow Mul Cotton Saree with Midnight Blue Contrast Pallu, Tassels & Matching Blouse",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0568/2757/6356/files/Batch_02_1080x1440_Style_10_HandInHair_88db0f05-eb4d-48eb-81ba-d9b8609a2a91.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67591081558052",
+"title": "Mustard Yellow Mul Cotton Saree with Midnight Blue Contrast Pallu, Tassels & Matching Blouse",
+"url": "https://www.almaarifashion.com/products/mustard-yellow-mul-cotton-saree-with-midnight-blue-contrast-pallu-tassels-matching-blouse?variant=67591081558052",
+"price": {
+"amount": 169900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Almaari Fashion",
+"url": "https://www.almaarifashion.com",
+"domain": "almaarifashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0568/2757/6356/files/Batch_02_1080x1440_Style_10_HandInHair_88db0f05-eb4d-48eb-81ba-d9b8609a2a91.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1MZMEtKNMqrVmnUpjfA2sS",
+"title": "Black Mustard Printed Cotton Saree – Soft Cotton Saree for Women(MVCS44)",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/5517/7830/files/rn-image_picker_lib_temp_ce6a9564-45a4-4d2a-9a57-e803fb6f2c09.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45546154360934",
+"title": "Black Mustard Printed Cotton Saree – Soft Cotton Saree for Women(MVCS44)",
+"url": "https://bagrufashions.com/products/traditional-authentic-hand-block-printed-pure-organic-cotton-sarees-with-matching-blouse-copy-27?variant=45546154360934",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Bagru Fashions",
+"url": "https://bagrufashions.com",
+"domain": "524901-f4.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/5517/7830/files/rn-image_picker_lib_temp_ce6a9564-45a4-4d2a-9a57-e803fb6f2c09.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1taowDyrspwrWY9iNszNwE",
+"title": "Ivory & Mustard Yellow Geometric Printed Mul Cotton Saree with Tassels & Attached Blouse Piece",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0568/2757/6356/files/LINEN325.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67585045463076",
+"title": "Ivory & Mustard Yellow Geometric Printed Mul Cotton Saree with Tassels & Attached Blouse Piece",
+"url": "https://www.almaarifashion.com/products/ivory-mustard-yellow-geometric-printed-mul-cotton-saree-with-tassels-attached-blouse-piece?variant=67585045463076",
+"price": {
+"amount": 169900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Almaari Fashion",
+"url": "https://www.almaarifashion.com",
+"domain": "almaarifashion.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0568/2757/6356/files/LINEN325.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/d3EFvCv1kBFmNUSSURE9W",
+"title": "Women's Mustard Vichitra Silk Solid Saree With Blouse Piece",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Mustard"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Vichitra Silk"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "Free Size"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/4095/6580/files/1776086144488-60b6228da7bf4f12-1FF5C7CCEA93AEDD4183B1F296025493.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67868606169303",
+"title": "Women's Mustard Vichitra Silk Solid Saree With Blouse Piece",
+"url": "https://noz2toz.com/products/womens-mustard-vichitra-silk-solid-saree-with-blouse-piece_kriyns6306?variant=67868606169303",
+"price": {
+"amount": 203000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Mustard"
+},
+{
+"name": "Fabric",
+"label": "Vichitra Silk"
+},
+{
+"name": "Size",
+"label": "Free Size"
+}
+],
+"seller": {
+"name": "NOZ2TOZ",
+"url": "https://noz2toz.com",
+"domain": "noz2toz.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0590/4095/6580/files/1776086144488-60b6228da7bf4f12-1FF5C7CCEA93AEDD4183B1F296025493.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/77FSRK6vctebSRSCNpKf2j",
+"title": "Oilmustured Weave Silk Saree",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0920/5723/9922/files/OilmusturedweaveSilkSaree.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/62139390689650",
+"title": "Oilmustured Weave Silk Saree",
+"url": "https://houseofkasturi.in/products/oilmustured-weave-silk-saree?variant=62139390689650",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "House of Kasturi",
+"url": "https://houseofkasturi.in",
+"domain": "cv50fw-vm.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0920/5723/9922/files/OilmusturedweaveSilkSaree.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4Mbtl4SuQAWB8dqXVOW9gn",
+"title": "Womens Fashion Ethnic Mustard Color Sarees-MLSHWSA1358MUS0ONE",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Yellow"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "Standard"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/5639/2227/files/VRA48624FMAIN_20241223111407470.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/40715013554211",
+"title": "Womens Fashion Ethnic Mustard Color Sarees-MLSHWSA1358MUS0ONE",
+"url": "https://desiqlo.com/products/suha-womens-fashion-ethnic-mustard-color-sarees-mlshwsa1358mus0one?variant=40715013554211",
+"price": {
+"amount": 150600,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Yellow"
+},
+{
+"name": "Size",
+"label": "Standard"
+}
+],
+"seller": {
+"name": "Desiqlo",
+"url": "https://desiqlo.com",
+"domain": "nakn1i-q5.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0710/5639/2227/files/VRA48624FMAIN_20241223111407470.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1twIZk7zVkT33Jj71BNwSO",
+"title": "Sneha Designer Saree- Mustered Yellow",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0776/7339/8484/files/WhatsAppImage2026-09-30at3.17.17PM_2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/67608694620372",
+"title": "Sneha Designer Saree- Mustered Yellow",
+"url": "https://pruthvirajsarees.com/products/sneha-designer-saree-mustered-yellow?variant=67608694620372",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Pruthviraj Sarees",
+"url": "https://pruthvirajsarees.com",
+"domain": "72dref-xc.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0776/7339/8484/files/WhatsAppImage2026-09-30at3.17.17PM_2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5Z5HgdNYdRsEHykPZ0QaFW",
+"title": "Awesome Mustard Yellow Banarasi Silk Woven Saree for Women",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0728/9470/9991/files/PRU37259.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52458576871655",
+"title": "Awesome Mustard Yellow Banarasi Silk Woven Saree for Women",
+"url": "https://mangaldeep.co.in/products/awesome-mustard-yellow-banarasi-silk-woven-saree-for-women?variant=52458576871655",
+"price": {
+"amount": 247000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Mangaldeep NX",
+"url": "https://mangaldeep.co.in",
+"domain": "ddkdju-2k.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0728/9470/9991/files/PRU37259.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3dLtNPfniNhGVCRa0G4iI",
+"title": "Vibrant Mustard Yellow Pure Cotton Woven Saree for Women",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0728/9470/9991/files/KLD4476.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52842710892775",
+"title": "Vibrant Mustard Yellow Pure Cotton Woven Saree for Women",
+"url": "https://mangaldeep.co.in/products/vibrant-mustard-yellow-pure-cotton-woven-saree-women?variant=52842710892775",
+"price": {
+"amount": 206000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Mangaldeep NX",
+"url": "https://mangaldeep.co.in",
+"domain": "ddkdju-2k.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0728/9470/9991/files/KLD4476.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/eqSJCMkxfyk80blmTQFJa",
+"title": "Women’s Mustard Yellow & Red Chanderi Silk Saree with Full Zari Work",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0581/9655/7906/files/Price-1322_-Chanderisilkwithfullzariwork_e3b92ef6-ffb5-49b6-8a55-b280eee2a096.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42638666104914",
+"title": "Women’s Mustard Yellow & Red Chanderi Silk Saree with Full Zari Work",
+"url": "https://www.skipmfamilyfashion.com/products/women-s-mustard-yellow-red-chanderi-silk-saree-with-full-zari-work?variant=42638666104914",
+"price": {
+"amount": 132200,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "My Store",
+"url": "https://www.skipmfamilyfashion.com",
+"domain": "svtxwv-jy.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0581/9655/7906/files/Price-1322_-Chanderisilkwithfullzariwork_e3b92ef6-ffb5-49b6-8a55-b280eee2a096.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6CTYFaSrT1FSMbyAUw0Noj",
+"title": "Mustard Silk Saree.",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Mustard"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Silk"
+}
+]
+},
+{
+"name": "Style",
+"values": [
+{
+"label": "101"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/6366/7449/products/4-1-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43122273419513",
+"title": "Mustard Silk Saree.",
+"url": "https://www.meenabazaar.shop/products/mustard-silk-saree?variant=43122273419513",
+"price": {
+"amount": 199000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Style",
+"label": "101"
+},
+{
+"name": "Color",
+"label": "Mustard"
+},
+{
+"name": "Fabric",
+"label": "Silk"
+}
+],
+"seller": {
+"name": "Meena Bazaar Shop",
+"url": "https://www.meenabazaar.shop",
+"domain": "meenabazaar-shop.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/6366/7449/products/4-1-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4nAfRcBKiUouR60PYLvs5c",
+"title": "Jaipur Kurti Women Mustard Digital Printed Saree With Tasselled Border",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Mustard"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "One Size"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0753/3228/8697/files/BEE128306E_281_29.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49158670385337",
+"title": "Jaipur Kurti Women Mustard Digital Printed Saree With Tasselled Border",
+"url": "https://jaipurkurti.com/products/jaipur-kurti-women-mustard-digital-printed-saree-with-tasselled-border-bee128306e?variant=49158670385337",
+"price": {
+"amount": 134900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Mustard"
+},
+{
+"name": "Size",
+"label": "One Size"
+}
+],
+"seller": {
+"name": "jaipurkurti",
+"url": "https://jaipurkurti.com",
+"domain": "jaipurkurtiin.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0753/3228/8697/files/BEE128306E_281_29.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3uGKbWOiUobfqeppQFKJUJ",
+"title": "Mustard Yellow Yeola Paithani Soft Silk Saree",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Mustard"
+}
+]
+},
+{
+"name": "Fabric",
+"values": [
+{
+"label": "Soft Silk"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "Unstitched"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0579/3975/5089/files/4_1c5edb8e-34be-485b-9735-7e5fce8731cd.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42475170627665",
+"title": "Mustard Yellow Yeola Paithani Soft Silk Saree",
+"url": "https://www.vastranand.in/products/mustard-yellow-yeola-paithani-soft-silk-saree?variant=42475170627665",
+"price": {
+"amount": 169500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Mustard"
+},
+{
+"name": "Fabric",
+"label": "Soft Silk"
+},
+{
+"name": "Size",
+"label": "Unstitched"
+}
+],
+"seller": {
+"name": "Vastranand",
+"url": "https://www.vastranand.in",
+"domain": "vastranand-shop.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0579/3975/5089/files/4_1c5edb8e-34be-485b-9735-7e5fce8731cd.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/29NqwJCDiC7azR1wdL2y8o",
+"title": "Dazzling Mustard Cotton Silk Saree With Seraphic Blouse Piece",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0853/1994/2441/files/KP-Karishma-Mustard_3.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47832175935785",
+"title": "Dazzling Mustard Cotton Silk Saree With Seraphic Blouse Piece",
+"url": "https://kankaari.com/products/dazzling-mustard-cotton-silk-saree-with-seraphic-blouse-piece?variant=47832175935785",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Kankaari",
+"url": "https://kankaari.com",
+"domain": "kan-kaari.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0853/1994/2441/files/KP-Karishma-Mustard_3.webp"
+}
+]
+}
+]
+}
+]
+}

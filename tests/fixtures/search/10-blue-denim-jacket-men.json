@@ -1,0 +1,1336 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/2cetjarpR6zLLTstB2b4XG",
+"title": "Men's Blue Relaxed Fit Full Sleeve Utility Denim Jacket",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Ice Grey"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jakt-denimtwlutfl-mblue.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52166880854332",
+"title": "Men's Blue Relaxed Fit Full Sleeve Utility Denim Jacket",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-blue-relaxed-fit-full-sleeve-utility-denim-jacket-jakt-denimtwlutfl-mblue?variant=52166880854332",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jakt-denimtwlutfl-mblue.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3vg2Zmd8uf8QxiVuxyA6LY",
+"title": "Men's Blue Washed Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/KZ-12061_Blue_1_ebd00766-be8e-414e-a0b0-c9c00bffcacf.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48308602503444",
+"title": "Men's Blue Washed Denim Jacket",
+"url": "https://showoffff.in/products/men-blue-solid-denim-jacket-kz-12061_blue?variant=48308602503444",
+"price": {
+"amount": 236000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/KZ-12061_Blue_1_ebd00766-be8e-414e-a0b0-c9c00bffcacf.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1tyZUJwBnPY9sGcP2SZhq7",
+"title": "Men's Dark Blue Relaxed Fit Full Sleeve Harrington Denim Jacket",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jakt-denimharg-dblue.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52166860865852",
+"title": "Men's Dark Blue Relaxed Fit Full Sleeve Harrington Denim Jacket",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-dark-blue-relaxed-fit-full-sleeve-harrington-denim-jacket-jakt-denimharg-dblue?variant=52166860865852",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Blue"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jakt-denimharg-dblue.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2cFY6Ireu9sxWhWwTvbOIK",
+"title": "Plus Men's Dark Blue Relaxed Fit Full Sleeve Utility Denim Jacket",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Grey"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Ice Grey"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denimtwlutfl-dblue-1_80098168-51f1-43e7-aa02-0249e17b4818.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52166885343548",
+"title": "Plus Men's Dark Blue Relaxed Fit Full Sleeve Utility Denim Jacket",
+"url": "https://www.urbanofashion.com/products/urbano-plus-mens-dark-blue-relaxed-fit-full-sleeve-utility-denim-jacket-plusjaktp-denimtwlutfl-dblue?variant=52166885343548",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Blue"
+},
+{
+"name": "Size",
+"label": "3XL"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denimtwlutfl-dblue-1_80098168-51f1-43e7-aa02-0249e17b4818.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/347MmavdMiaWyiX8B7prl0",
+"title": "Plus Men's Light Blue Regular Fit Washed Full Sleeve Denim Jacket",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Light Grey"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denimball-lblue-1_fbbc9095-3abb-4539-9375-368172c5ecb0.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49691810627900",
+"title": "Plus Men's Light Blue Regular Fit Washed Full Sleeve Denim Jacket",
+"url": "https://www.urbanofashion.com/products/urbano-plus-mens-light-blue-regular-fit-washed-full-sleeve-denim-jacket-plusjaktp-denimball-lblue?variant=49691810627900",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Blue"
+},
+{
+"name": "Size",
+"label": "4XL"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denimball-lblue-1_fbbc9095-3abb-4539-9375-368172c5ecb0.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7ejNg5Fr2XclVhaufmf7TB",
+"title": "Heavily Washed Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Light Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Light-Blue-Heavily-Washed-Denim-Jacket-1_cf3b72e1-ded6-4527-8a40-15fffef633c5.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44903449035010",
+"title": "Heavily Washed Denim Jacket",
+"url": "https://cahoot.in/products/light-blue-heavily-washed-denim-jacket-awics_csmawjk6064?variant=44903449035010",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Light-Blue-Heavily-Washed-Denim-Jacket-1_cf3b72e1-ded6-4527-8a40-15fffef633c5.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2jd3ylXMxXkz6b90FKCKKP",
+"title": "Plus Men's Black Regular Fit Washed Full Sleeve Denim Jacket",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Light Grey"
+},
+{
+"label": "Olive Green"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denim-black.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45203960496444",
+"title": "Plus Men's Black Regular Fit Washed Full Sleeve Denim Jacket",
+"url": "https://www.urbanofashion.com/products/urbano-plus-mens-black-regular-fit-washed-full-sleeve-denim-jacket-plusjaktp-denim-black?variant=45203960496444",
+"price": {
+"amount": 179900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Black"
+},
+{
+"name": "Size",
+"label": "4XL"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denim-black.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/511lqBYJEqQvr7qoEXPJYw",
+"title": "Men's Blue Regular Fit Washed Full Sleeve Denim Jacket",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Blue"
+},
+{
+"label": "Dark Blue"
+},
+{
+"label": "Light Blue"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jakt-denimvint-mblue_b2b88080-42a7-4cc2-9e83-f624c04bab43.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49691810038076",
+"title": "Men's Blue Regular Fit Washed Full Sleeve Denim Jacket",
+"url": "https://www.urbanofashion.com/products/urbano-fashion-mens-blue-regular-fit-washed-full-sleeve-denim-jacket-jakt-denimvint-mblue?variant=49691810038076",
+"price": {
+"amount": 159900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/jakt-denimvint-mblue_b2b88080-42a7-4cc2-9e83-f624c04bab43.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/pZ50QVjhEezuRMxupDq44",
+"title": "Criss-Cross Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Men-Blue-Criss-Cross-Denim-Jacket_1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44903443890434",
+"title": "Criss-Cross Denim Jacket",
+"url": "https://cahoot.in/products/men-blue-criss-cross-denim-jacket-awo23_csmawjk6065?variant=44903443890434",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Men-Blue-Criss-Cross-Denim-Jacket_1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6o6dzwmeMOwunrxh5SfJcp",
+"title": "Heavy Distressed Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Blue-Heavy-Distressed-Denim-Jacket-1_9772aa5e-2196-4a38-a173-39676a1ed5a4.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44903448838402",
+"title": "Heavy Distressed Denim Jacket",
+"url": "https://cahoot.in/products/blue-heavy-distressed-denim-jacket-awics_csmawjk6066?variant=44903448838402",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Blue-Heavy-Distressed-Denim-Jacket-1_9772aa5e-2196-4a38-a173-39676a1ed5a4.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/iZDXYnb9VZyQergPdM0FZ",
+"title": "Plus Men's Light Blue Relaxed Fit Full Sleeve Harrington Denim Jacket",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Ice Blue"
+},
+{
+"label": "Light Blue"
+},
+{
+"label": "Light Grey"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "5XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denimharg-lblue-1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52166883934524",
+"title": "Plus Men's Light Blue Relaxed Fit Full Sleeve Harrington Denim Jacket",
+"url": "https://www.urbanofashion.com/products/urbano-plus-mens-light-blue-relaxed-fit-full-sleeve-harrington-denim-jacket-plusjaktp-denimharg-lblue?variant=52166883934524",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Light Blue"
+},
+{
+"name": "Size",
+"label": "XXL"
+}
+],
+"seller": {
+"name": "Urbano Fashion",
+"url": "https://www.urbanofashion.com",
+"domain": "urbano-store-2023.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0759/1005/4204/files/plusjaktp-denimharg-lblue-1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/78f8WbtlFbJDKqifKHifA8",
+"title": "Men's Blue Spread Collar Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0556/9826/0107/files/MJKT00258_DIRTYBLUE-3.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42959261565067",
+"title": "Men's Blue Spread Collar Denim Jacket",
+"url": "https://cantabilshop.com/products/mens-blue-spread-collar-denim-jacket?variant=42959261565067",
+"price": {
+"amount": 209900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Cantabil",
+"url": "https://cantabilshop.com",
+"domain": "blue-wake-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0556/9826/0107/files/MJKT00258_DIRTYBLUE-3.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5QOIglCRbS2aUqND9jpxkD",
+"title": "Light-Wash Denim Jacket With Sweatshirt Sleeve",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Blue-and-Black-Light-Wash-Denim-Jacket-With-Sweatshirt-Sleeve-1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44903469515010",
+"title": "Light-Wash Denim Jacket With Sweatshirt Sleeve",
+"url": "https://cahoot.in/products/blue-black-light-wash-denim-jacket-with-sweatshirt-sleeve-cswin23_jkdenim_m_pln_dnbl?variant=44903469515010",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Blue-and-Black-Light-Wash-Denim-Jacket-With-Sweatshirt-Sleeve-1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7j4XUFfez6x8SQOq0ZeJif",
+"title": "Spread Collar Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+},
+{
+"name": "Product colour",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_8ea9fdd3-b6de-429c-81cb-2293e596b6cd.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45123751248042",
+"title": "Spread Collar Denim Jacket",
+"url": "https://uspoloassn.in/products/spread-collar-denim-jacket-oq1aoipsngs?variant=45123751248042",
+"price": {
+"amount": 220000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+},
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Product colour",
+"label": "Blue"
+}
+],
+"seller": {
+"name": "U.S. Polo Assn. India",
+"url": "https://uspoloassn.in",
+"domain": "u-s-polo-assn-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0617/2137/8986/files/1_8ea9fdd3-b6de-429c-81cb-2293e596b6cd.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1HKJ75GVwc4Wm7EzabZWSr",
+"title": "Men's Blue Washed Windcheater Rapid Dry Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/IB-DJ-04-4_Blue_1_2f36b5c7-6350-4500-92c0-a0e27acdf9c6.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48308962623764",
+"title": "Men's Blue Washed Windcheater Rapid Dry Denim Jacket",
+"url": "https://showoffff.in/products/men-solid-spread-collar-blue-denim-jacket-ib-dj-04-4_blue?variant=48308962623764",
+"price": {
+"amount": 197000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/IB-DJ-04-4_Blue_1_2f36b5c7-6350-4500-92c0-a0e27acdf9c6.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5yudK6zVfaC0kfsoX74FWr",
+"title": "Fleece Polka Dot Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Small (S)"
+},
+{
+"label": "Medium (M)"
+},
+{
+"label": "Large (L)"
+},
+{
+"label": "Extra large (XL)"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+},
+{
+"label": "Denim Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWJK6062_1_91b35952-dacf-4dcb-9d94-2fd8f185472d.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45559253270786",
+"title": "Fleece Polka Dot Denim Jacket",
+"url": "https://cahoot.in/products/mens-denim-blue-fleece-polka-dot-denim-jacket_csmawjk6062?variant=45559253270786",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Denim Blue"
+},
+{
+"name": "Size",
+"label": "Small (S)"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWJK6062_1_91b35952-dacf-4dcb-9d94-2fd8f185472d.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2PfAs95jzcumJiZFUtZ193",
+"title": "Fleece Block Denim Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Men-Navy-Blue-and-Chalk-White-Fleece-Block-Denim-Jacket_1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44903439270146",
+"title": "Fleece Block Denim Jacket",
+"url": "https://cahoot.in/products/men-navy-blue-and-chalk-white-fleece-block-denim-jacket-awt23_csmssrt5742?variant=44903439270146",
+"price": {
+"amount": 199900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/products/Men-Navy-Blue-and-Chalk-White-Fleece-Block-Denim-Jacket_1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7jHi8hyek1952qLVE58E58",
+"title": "Double Color Denim Jacquard Rider Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWJK3698_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50565834244354",
+"title": "Double Color Denim Jacquard Rider Jacket",
+"url": "https://cahoot.in/products/mens-blue-solid-jacket_csmawjk3698?variant=50565834244354",
+"price": {
+"amount": 224900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWJK3698_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2UN28OdNEGj5NeGfvBOsFs",
+"title": "Waxon Denim Jacket For Men",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "XXXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0738/1752/2453/files/6_54e1c415-e217-4ba9-9045-7c28fb7ef99f.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48591907553557",
+"title": "Waxon Denim Jacket For Men",
+"url": "https://www.nostrumfashion.com/products/waxon-denim-jacket-for-men?variant=48591907553557",
+"price": {
+"amount": 219900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Nostrum",
+"url": "https://www.nostrumfashion.com",
+"domain": "mystore-4791.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0738/1752/2453/files/6_54e1c415-e217-4ba9-9045-7c28fb7ef99f.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5d5mLHzaSin4uaVwceBE9b",
+"title": "Vintage Stone Wash Denim Trucker Jacket",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWJK3705_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50929591976194",
+"title": "Vintage Stone Wash Denim Trucker Jacket",
+"url": "https://cahoot.in/products/mens-blue-solid-jacket_csmawjk3705?variant=50929591976194",
+"price": {
+"amount": 209900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Cahoot",
+"url": "https://cahoot.in",
+"domain": "dx-cs.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0457/8246/6720/files/CSMAWJK3705_1.jpg"
+}
+]
+}
+]
+}
+]
+}

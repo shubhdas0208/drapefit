@@ -1,0 +1,1241 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/WYbhFwADaC59BdDd8u1yp",
+"title": "Men's Grey Crew Neck Brushed Fleece Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Silver"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/fmssfc23-silver.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49721930842429",
+"title": "Men's Grey Crew Neck Brushed Fleece Sweatshirt",
+"url": "https://www.numerounojeanswear.com/products/mens-grey-crew-neck-brushed-fleece-sweatshirt-fmssfc23-silver?variant=49721930842429",
+"price": {
+"amount": 104000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Silver"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Numero Uno",
+"url": "https://www.numerounojeanswear.com",
+"domain": "numerounojeanswear.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/fmssfc23-silver.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7FOpnhPmSUNmjkLM5YPR09",
+"title": "Men Grey Solid Round Neck Full Sleeve Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "Double extra large (XXL)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0782/2622/7509/files/2250101025-2-38_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51519158321461",
+"title": "Men Grey Solid Round Neck Full Sleeve Sweatshirt",
+"url": "https://www.rockit.co.in/products/rockit-men-grey-solid-round-neck-full-sleeve-sweatshirt-2250101025-2?variant=51519158321461",
+"price": {
+"amount": 98945,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "Double extra large (XXL)"
+}
+],
+"seller": {
+"name": "Rockit",
+"url": "https://www.rockit.co.in",
+"domain": "rockitbymontecarlo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0782/2622/7509/files/2250101025-2-38_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6pM1sFmpZMYg5ziNhHWVVn",
+"title": "Men's Solid Grey Melange Round Neck Sweatshirt",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0556/9826/0107/files/MSWS00173-GREYMELANGE_3.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42756177232011",
+"title": "Men's Solid Grey Melange Round Neck Sweatshirt",
+"url": "https://cantabilshop.com/products/mens-solid-grey-melange-round-neck-sweatshirt?variant=42756177232011",
+"price": {
+"amount": 79900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "Cantabil",
+"url": "https://cantabilshop.com",
+"domain": "blue-wake-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0556/9826/0107/files/MSWS00173-GREYMELANGE_3.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4wtrOfwrH5eNsQXdJRGueI",
+"title": "Men's Graphic Printed Grey Fuzzy Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/CHN-22001_Grey_1_cbdedfea-1956-4317-85f5-c684c7a686b5.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51684369236244",
+"title": "Men's Graphic Printed Grey Fuzzy Sweatshirt",
+"url": "https://showoffff.in/products/mens-grey-sweatshirts-chn-22001_grey?variant=51684369236244",
+"price": {
+"amount": 126000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/files/CHN-22001_Grey_1_cbdedfea-1956-4317-85f5-c684c7a686b5.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6C1ziJQrwhY7wHliiPH03I",
+"title": "Grey Plain Oversized Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1982/7331/files/VSS0423GYPL12.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/40238100512823",
+"title": "Grey Plain Oversized Sweatshirt",
+"url": "https://veirdo.in/products/relaxed-fit-grey-solid-sweatshirt?variant=40238100512823",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Veirdo",
+"url": "https://veirdo.in",
+"domain": "veirdo.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/1982/7331/files/VSS0423GYPL12.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/64ar2Hzhs9vqBMtuNOwlkz",
+"title": "Men Printed Sweatshirts Grey",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "m"
+},
+{
+"label": "l"
+},
+{
+"label": "xl"
+},
+{
+"label": "2xl"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0664/9102/3535/files/LWbkKX449b-dmI55zRPr-Sweatshirts.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45898386210991",
+"title": "Men Printed Sweatshirts Grey",
+"url": "https://www.reprise.co.in/products/men-printed-sweatshirts-grey?variant=45898386210991",
+"price": {
+"amount": 109900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "m"
+}
+],
+"seller": {
+"name": "Reprise",
+"url": "https://www.reprise.co.in",
+"domain": "reprise-official.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0664/9102/3535/files/LWbkKX449b-dmI55zRPr-Sweatshirts.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3iJfcDTrEpWNxBxjpPO1m5",
+"title": "Men Plain Zipper High Neck Casual Sweatshirt / Grey",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/11_6c6c54df-664a-41dc-b30e-745f04292667.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45764705616100",
+"title": "Men Plain Zipper High Neck Casual Sweatshirt / Grey",
+"url": "https://triprindia.com/products/men-plain-zipper-high-neck-casual-sweatshirt-grey?variant=45764705616100",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "TRIPR",
+"url": "https://triprindia.com",
+"domain": "tripr.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/11_6c6c54df-664a-41dc-b30e-745f04292667.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3dCaAxrMn7KlMrdbrceJZF",
+"title": "Raymond Men Grey Regular Fit Solid Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "39"
+},
+{
+"label": "40"
+},
+{
+"label": "42"
+},
+{
+"label": "44"
+},
+{
+"label": "46"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/files/RMWX01491-G4_20_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52639649071471",
+"title": "Raymond Men Grey Regular Fit Solid Sweatshirt",
+"url": "https://myraymond.com/products/raymond_men_grey_solid_regular_fit_acrlic_blend_sweatshirt_rmwx01491-g4?variant=52639649071471",
+"price": {
+"amount": 115400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Grey"
+},
+{
+"name": "Size",
+"label": "39"
+}
+],
+"seller": {
+"name": "MyRaymond",
+"url": "https://myraymond.com",
+"domain": "raymond-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/files/RMWX01491-G4_20_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/9Jcd8ByguUOw51U1UxUqS",
+"title": "Raymond Men Grey Regular Fit Solid Sweatshirt",
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/products/RCAF00074-G8_20_281_29.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43252718600350",
+"title": "Raymond Men Grey Regular Fit Solid Sweatshirt",
+"url": "https://myraymond.com/products/raymond-men-grey-solid-regular-fit-cotton-blend-sweatshirt?variant=43252718600350",
+"price": {
+"amount": 111300,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"seller": {
+"name": "MyRaymond",
+"url": "https://myraymond.com",
+"domain": "raymond-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/products/RCAF00074-G8_20_281_29.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2PLfYCcgoMspd4bMC656kw",
+"title": "Men's Solid Grey Brushed Fleece Regular Fit Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Stone"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/gmssfc2-stone.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49697776795965",
+"title": "Men's Solid Grey Brushed Fleece Regular Fit Sweatshirt",
+"url": "https://www.numerounojeanswear.com/products/mens-solid-grey-brushed-fleece-regular-fit-sweatshirt-gmssfc2-stone?variant=49697776795965",
+"price": {
+"amount": 104000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Stone"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Numero Uno",
+"url": "https://www.numerounojeanswear.com",
+"domain": "numerounojeanswear.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0775/6700/0893/files/gmssfc2-stone.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3cMPrQtz00b5CKo5i6ZZZp",
+"title": "Grey Winter Baggy Sweatshirt for Men  | Winter Casual Sweatshirt",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Ice Grey"
+},
+{
+"label": "Slate Olive"
+},
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Dimension in (cm)",
+"values": [
+{
+"label": "35*34*6"
+},
+{
+"label": "39*34*4"
+},
+{
+"label": "39*34*5"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/7787/2830/files/RWS0634_1_ab1528f5-6d4f-4a79-a08f-21258eaa9610.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45614049427646",
+"title": "Grey Winter Baggy Sweatshirt for Men  | Winter Casual Sweatshirt",
+"url": "https://redtape.com/products/red-tape-grey-winter-baggy-sweatshirt-for-menwinter-casualsweatshirt?variant=45614049427646",
+"price": {
+"amount": 84000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Dimension in (cm)",
+"label": "39*34*5"
+},
+{
+"name": "Color",
+"label": "Ice Grey"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "RedTape",
+"url": "https://redtape.com",
+"domain": "redtapein.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0642/7787/2830/files/RWS0634_1_ab1528f5-6d4f-4a79-a08f-21258eaa9610.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/AaJgmgUpZ0yiTgQWt20C0",
+"title": "Men's Comfort Fit Sweatshirt   |  Grey",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Black"
+},
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/1_e1455837-5dab-4a02-bfa0-e7f039d8ce68.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51716963893549",
+"title": "Men's Comfort Fit Sweatshirt   |  Grey",
+"url": "https://wrogn.com/products/mens-comfort-fit-sweatshirt-grey-wvss9011f?variant=51716963893549",
+"price": {
+"amount": 149900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Grey"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Wrogn",
+"url": "https://wrogn.com",
+"domain": "wrogn-website.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0818/0305/1309/files/1_e1455837-5dab-4a02-bfa0-e7f039d8ce68.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3Y4TpnGqPug3qGi1j5tzz0",
+"title": "Men Grey Round Neck Cotton Fleece Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/SW08191083PIC-2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51245116227815",
+"title": "Men Grey Round Neck Cotton Fleece Sweatshirt",
+"url": "https://fyva.in/products/men-grey-round-neck-cotton-fleece-sweatshirt-sw08191083?variant=51245116227815",
+"price": {
+"amount": 76900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Grey"
+},
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "FYVA",
+"url": "https://fyva.in",
+"domain": "197cc9-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0670/1291/9527/files/SW08191083PIC-2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/49rqrsSysY7UGsBiENvLwV",
+"title": "Men Zip-Top High Neck Grey Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/11_74d01780-2b37-4547-8a34-2fbfc8fe3af7.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45557800730852",
+"title": "Men Zip-Top High Neck Grey Sweatshirt",
+"url": "https://triprindia.com/products/men-winter-grey-high-necksweatshirt?variant=45557800730852",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "TRIPR",
+"url": "https://triprindia.com",
+"domain": "tripr.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/11_74d01780-2b37-4547-8a34-2fbfc8fe3af7.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/58w0zWv7GPwiTYZSYtfH92",
+"title": "Raymond Men Grey Solid Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "39"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/files/RMWX01489-G4_20_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52639648416111",
+"title": "Raymond Men Grey Solid Sweatshirt",
+"url": "https://myraymond.com/products/raymond_men_grey_solid_acrylic_sweatshirt_rmwx01489-g4?variant=52639648416111",
+"price": {
+"amount": 125900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Grey"
+},
+{
+"name": "Size",
+"label": "39"
+}
+],
+"seller": {
+"name": "MyRaymond",
+"url": "https://myraymond.com",
+"domain": "raymond-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/files/RMWX01489-G4_20_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3WMPWZjFHFWi1brHxBwJVD",
+"title": "PLAIN GREY MEN REGULAR FIT CASUAL SWEATSHIRT",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/GY1_converted_5044aa1d-44d9-4b24-b75f-d4a1c70f76ff.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/45648391930084",
+"title": "PLAIN GREY MEN REGULAR FIT CASUAL SWEATSHIRT",
+"url": "https://triprindia.com/products/grey-plain-sweatshirt-for-men?variant=45648391930084",
+"price": {
+"amount": 44900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "TRIPR",
+"url": "https://triprindia.com",
+"domain": "tripr.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/2028/4467/files/GY1_converted_5044aa1d-44d9-4b24-b75f-d4a1c70f76ff.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2EN43LHju1Ut3EnMTKuYvy",
+"title": "Men Grey Solid Round Neck Full Sleeve Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "46/3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/225566169-9-38_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51100358607136",
+"title": "Men Grey Solid Round Neck Full Sleeve Sweatshirt",
+"url": "https://www.montecarlo.in/products/men-grey-solid-round-neck-full-sleeve-sweatshirt-225566169-9?variant=51100358607136",
+"price": {
+"amount": 111500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "46/3XL"
+}
+],
+"seller": {
+"name": "Monte Carlo",
+"url": "https://www.montecarlo.in",
+"domain": "montecarlonew.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0761/3674/3200/files/225566169-9-38_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7KPQLqPGBivcXONJBjozuR",
+"title": "Eclipse Pullover Dark Grey",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Ash"
+},
+{
+"label": "Black "
+},
+{
+"label": "Brown"
+},
+{
+"label": "Dark Grey "
+},
+{
+"label": "Navy"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0763/8351/9023/files/Eclipsestraighttracksnpullover_32.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/51963203649839",
+"title": "Eclipse Pullover Dark Grey",
+"url": "https://fuaark.com/products/eclipse-pullover-dark-grey?variant=51963203649839",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Dark Grey "
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "FUAARK",
+"url": "https://fuaark.com",
+"domain": "fuaarkindia.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0763/8351/9023/files/Eclipsestraighttracksnpullover_32.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7wPzZByTDsRSxlUnnLB2hf",
+"title": "Grey Printed Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0855/2946/1042/files/Grey-Printed-Sweatshirt_01.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49268594704690",
+"title": "Grey Printed Sweatshirt",
+"url": "https://klubfox.com/products/klub-fox-winter-grey-printed-full-sleeve-sweatshirt-aw22-sst-8905?variant=49268594704690",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "Klub Fox",
+"url": "https://klubfox.com",
+"domain": "881a66-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0855/2946/1042/files/Grey-Printed-Sweatshirt_01.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/JgTRHOBGd009lXCBecqtn",
+"title": "Raymond Men Grey Regular Fit Solid Crew Neck Collar Sweatshirt",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Grey"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/files/RCAF00119-G4_20_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/52415413715311",
+"title": "Raymond Men Grey Regular Fit Solid Crew Neck Collar Sweatshirt",
+"url": "https://myraymond.com/products/raymond_men_grey_solid_regular_fit_cotton_blend_sweatshirt_rcaf00119-g4?variant=52415413715311",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Grey"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "MyRaymond",
+"url": "https://myraymond.com",
+"domain": "raymond-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0644/5944/0286/files/RCAF00119-G4_20_1.jpg"
+}
+]
+}
+]
+}
+]
+}

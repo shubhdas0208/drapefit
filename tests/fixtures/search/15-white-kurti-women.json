@@ -1,0 +1,1351 @@
+{
+"source": "Trimmed from a 2026-11 Shopify Global Catalog search (India). Test fixture only.",
+"products": [
+{
+"id": "gid://shopify/p/4MGH512XIcaWvxXURjYDFN",
+"title": "White Handloom Cotton Front-Slit Short Kurti for Women",
+"options": [
+{
+"name": "Color",
+"values": [
+{
+"label": "Brown"
+},
+{
+"label": "Cream"
+},
+{
+"label": "Green"
+},
+{
+"label": "Melange Grey"
+},
+{
+"label": "Orange"
+},
+{
+"label": "Pink"
+},
+{
+"label": "Sky Blue"
+},
+{
+"label": "White"
+},
+{
+"label": "Yellow"
+}
+]
+},
+{
+"name": "Size",
+"values": [
+{
+"label": "2XL(44)"
+},
+{
+"label": "3XL(46)"
+},
+{
+"label": "4XL(48)"
+},
+{
+"label": "5XL(50)"
+},
+{
+"label": "6XL(52)"
+},
+{
+"label": "L(40)"
+},
+{
+"label": "M(38)"
+},
+{
+"label": "S(36)"
+},
+{
+"label": "XL(42)"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0597/2217/0497/files/5.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/40651166515329",
+"title": "White Handloom Cotton Front-Slit Short Kurti for Women",
+"url": "https://saavstore.com/products/saav-white-handloom-short-kurti?variant=40651166515329",
+"price": {
+"amount": 69900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "S(36)"
+}
+],
+"seller": {
+"name": "SaavStore",
+"url": "https://saavstore.com",
+"domain": "qf30xt-7k.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0597/2217/0497/files/5.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2lclXbp1kkjJtnzVIhawlb",
+"title": "White Chikankari Short Kurti for Women with Straight Fit & Full Sleeves",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "36"
+},
+{
+"label": "38"
+},
+{
+"label": "40"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0857/8013/6211/files/white-chikankari-short-kurti-for-women-with-straight-fit-full-sleeves-3433652.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50392234098963",
+"title": "White Chikankari Short Kurti for Women with Straight Fit & Full Sleeves",
+"url": "https://thehouseofindu.com/products/white-chikankari-straight-short-kurti-women?variant=50392234098963",
+"price": {
+"amount": 49900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "36"
+}
+],
+"seller": {
+"name": "The House of Indu",
+"url": "https://thehouseofindu.com",
+"domain": "indu-in.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0857/8013/6211/files/white-chikankari-short-kurti-for-women-with-straight-fit-full-sleeves-3433652.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/24JFDcs6si8TPXSURjK5lj",
+"title": "White Cotton Chikankari Lace Kurti for Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+},
+{
+"label": "4XL"
+},
+{
+"label": "L-XL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0839/5695/7428/files/f86c3e_20f09fbcd04748059d06ff508273466c_mv2.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48849475404020",
+"title": "White Cotton Chikankari Lace Kurti for Women",
+"url": "https://everythinginchikankari.com/products/white-cotton-lace-chikankari-kurti-lucknowi?variant=48849475404020",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Size",
+"label": "4XL"
+}
+],
+"seller": {
+"name": "Everything In Chikankari",
+"url": "https://everythinginchikankari.com",
+"domain": "1suig1-xk.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0839/5695/7428/files/f86c3e_20f09fbcd04748059d06ff508273466c_mv2.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1zNjIezELj0MHZeM1s8auW",
+"title": "Womens Printed White Rayon Kurti",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/sod7h_512.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49961295118635",
+"title": "Womens Printed White Rayon Kurti",
+"url": "https://www.gillkart.com/products/womens-printed-white-rayon-kurti?variant=49961295118635",
+"price": {
+"amount": 63800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "GillKart",
+"url": "https://www.gillkart.com",
+"domain": "891d1e-3.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/sod7h_512.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7JHVayU9BxUnQDbwsXy3j1",
+"title": "Women's Off-White Fendi Kurti with Lining | Ethnic Wear",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "L"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0692/3462/2676/files/purple-kurti-seated-pose.png"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46781253288148",
+"title": "Women's Off-White Fendi Kurti with Lining | Ethnic Wear",
+"url": "https://www.raetrends.com/products/womens-off-white-fendi-kurti-lining-ethnic-wear?variant=46781253288148",
+"price": {
+"amount": 108900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "L"
+}
+],
+"seller": {
+"name": "RAE Trends",
+"url": "https://www.raetrends.com",
+"domain": "089ae9-28.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0692/3462/2676/files/purple-kurti-seated-pose.png"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/40NfxSRGFw4NHxg5J9eYEo",
+"title": "Womens Printed White Cotton Slub Kurti",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/1_512_9233254f-99ec-49c3-aa91-7577d0a262fd.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49962543350059",
+"title": "Womens Printed White Cotton Slub Kurti",
+"url": "https://www.gillkart.com/products/womens-printed-white-cotton-slub-kurti?variant=49962543350059",
+"price": {
+"amount": 62900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "GillKart",
+"url": "https://www.gillkart.com",
+"domain": "891d1e-3.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/1_512_9233254f-99ec-49c3-aa91-7577d0a262fd.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6t8VVHminY0SprnxgbgjCo",
+"title": "White Chikankari Kurti for Women with Blue Embroidery & Straight Fit",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0857/8013/6211/files/white-chikankari-kurti-for-women-with-blue-embroidery-straight-fit-1790610.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/50234428326163",
+"title": "White Chikankari Kurti for Women with Blue Embroidery & Straight Fit",
+"url": "https://thehouseofindu.com/products/white-blue-chikankari-straight-kurti-women?variant=50234428326163",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "The House of Indu",
+"url": "https://thehouseofindu.com",
+"domain": "indu-in.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0857/8013/6211/files/white-chikankari-kurti-for-women-with-blue-embroidery-straight-fit-1790610.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7cyxvmj3ZZW3QP1QjLiIIC",
+"title": "IRA Cotton Chikankari Kurti for Women | Lightweight Hand Embroidered Office & Daily Wear Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0568/7918/6016/files/rn-image_picker_lib_temp_4a84fe3b-b02e-4f02-823a-0e3555c7a264.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/42863494496352",
+"title": "IRA Cotton Chikankari Kurti for Women | Lightweight Hand Embroidered Office & Daily Wear Kurta",
+"url": "https://paridhanchikan.com/products/elegant-cotton-chikankari-kurti-for-women-lightweight-hand-embroidered-office-daily-wear-kurta-4?variant=42863494496352",
+"price": {
+"amount": 132500,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "XL"
+}
+],
+"seller": {
+"name": "Paridhan Chikan Exclusive",
+"url": "https://paridhanchikan.com",
+"domain": "9d55a3-73.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0568/7918/6016/files/rn-image_picker_lib_temp_4a84fe3b-b02e-4f02-823a-0e3555c7a264.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/4o8VmIeEMbBBs8xNKn84ms",
+"title": "Women's Off-White & Black Abstract Cotton Short Kurti",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Off-White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0764/4892/3847/files/PLS00038_1200x1800_3df1bbbf-e3a2-4be7-8e28-af021e778e4b.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46524689678535",
+"title": "Women's Off-White & Black Abstract Cotton Short Kurti",
+"url": "https://zayma.in/products/womens-white-black-abstract-cotton-short-kurti?variant=46524689678535",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Off-White"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": " Zayma",
+"url": "https://zayma.in",
+"domain": "zaymadigital.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0764/4892/3847/files/PLS00038_1200x1800_3df1bbbf-e3a2-4be7-8e28-af021e778e4b.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/5PrXxZqJUoWoqT5PWY52ci",
+"title": "Women's White Solid Straight Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/SKC-862_OffWhite_1.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/48305555276052",
+"title": "Women's White Solid Straight Kurta",
+"url": "https://showoffff.in/products/womens-white-solid-straight-kurta-skc-862_offwhite?variant=48305555276052",
+"price": {
+"amount": 104000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "Showoffff",
+"url": "https://showoffff.in",
+"domain": "show-off-clothing-store.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0842/6559/9252/products/SKC-862_OffWhite_1.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6Z9rpwhNmfhcriH7dLI6ZV",
+"title": "Jaipur Premium Women'S Off-White Cotton Casual Kurti Set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0687/7613/2701/files/Kalki_Kurti_Off_White_Cotton_Cas_8268e0c7-c388-4ec1-8e97-f874319a51a7.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/43579457208413",
+"title": "Jaipur Premium Women'S Off-White Cotton Casual Kurti Set",
+"url": "https://jaipuriclothing.com/products/womens-off-white-cotton-casual-kurti-set?variant=43579457208413",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Jaipuri Clothing",
+"url": "https://jaipuriclothing.com",
+"domain": "00qj4d-6r.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0687/7613/2701/files/Kalki_Kurti_Off_White_Cotton_Cas_8268e0c7-c388-4ec1-8e97-f874319a51a7.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2wdpZcc9ZCck8b3rgdwqvi",
+"title": "Womens Cotton Blend Printed Work Kurti With Bottom And Dupatta Set White",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "White"
+}
+]
+},
+{
+"name": "Pattern",
+"values": [
+{
+"label": "Printed"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/products/52995851470_9c20b980e1_o_d.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47600199631147",
+"title": "Womens Cotton Blend Printed Work Kurti With Bottom And Dupatta Set White",
+"url": "https://www.gillkart.com/products/womens-cotton-blend-printed-work-kurti-with-bottom-and-dupatta-set-white-1?variant=47600199631147",
+"price": {
+"amount": 97200,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "White"
+},
+{
+"name": "Pattern",
+"label": "Printed"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "GillKart",
+"url": "https://www.gillkart.com",
+"domain": "891d1e-3.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/products/52995851470_9c20b980e1_o_d.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/2s0RJlrzSknSiQ17DOumrh",
+"title": "Women White & Blue Striped Straight Kurta",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "XS"
+},
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0753/3228/8697/files/ANK-JK3662_20BLUE_281_29.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/47096624709817",
+"title": "Women White & Blue Striped Straight Kurta",
+"url": "https://jaipurkurti.com/products/women-white-blue-striped-straight-kurta-d-jk3662-blue?variant=47096624709817",
+"price": {
+"amount": 119900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "XS"
+}
+],
+"seller": {
+"name": "jaipurkurti",
+"url": "https://jaipurkurti.com",
+"domain": "jaipurkurtiin.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0753/3228/8697/files/ANK-JK3662_20BLUE_281_29.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6FUSlKWYM2tfVBFzAz0yGN",
+"title": "White Cotton Stretch Kurti Pants",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2P"
+},
+{
+"label": "3P"
+},
+{
+"label": "4P"
+},
+{
+"label": "2X"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0598/8158/6848/files/Cat_LPT1-WHITE74-08.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/41732113301664",
+"title": "White Cotton Stretch Kurti Pants",
+"url": "https://gocolors.com/products/women-solid-white-cotton-mid-rise-kurti-pants?variant=41732113301664",
+"price": {
+"amount": 89900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Go Fashion (India) Limited",
+"url": "https://gocolors.com",
+"domain": "go-colors-india.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0598/8158/6848/files/Cat_LPT1-WHITE74-08.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/6jQMTIh8CUgby1zuOmctJr",
+"title": "Women Cotton White Front Embroidery Kurta Pant set",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "3XL-46"
+},
+{
+"label": "L-40"
+},
+{
+"label": "M-38"
+},
+{
+"label": "XL-42"
+},
+{
+"label": "XXL-44"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0854/6851/2534/files/WhatsAppImage2024-09-23at8.45.10AM.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49594115424534",
+"title": "Women Cotton White Front Embroidery Kurta Pant set",
+"url": "https://tanvikurti.com/products/women-cotton-white-front-embroidery-kurta-pant-set?variant=49594115424534",
+"price": {
+"amount": 99900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "M-38"
+}
+],
+"seller": {
+"name": "Tanvi Kurti",
+"url": "https://tanvikurti.com",
+"domain": "c95660-2.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0854/6851/2534/files/WhatsAppImage2024-09-23at8.45.10AM.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/1D1bFaxuG291uOFbse3iTM",
+"title": "Off-White Cotton Premium & Elegant Kurta Sets For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Off White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0718/1379/1813/files/A-HJ2096WHT_11.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44763851948101",
+"title": "Off-White Cotton Premium & Elegant Kurta Sets For Women",
+"url": "https://whiiteking.com/products/off-white-cotton-premium-elegant-kurta-sets-for-women?variant=44763851948101",
+"price": {
+"amount": 125000,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Off White"
+},
+{
+"name": "Size",
+"label": "M"
+}
+],
+"seller": {
+"name": "WhiiteKing",
+"url": "https://whiiteking.com",
+"domain": "whiiteking.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0718/1379/1813/files/A-HJ2096WHT_11.jpg"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/22a1vDT5IBZMdwJC4WFrQz",
+"title": "White Black Embroidered Kurta Pant Dupatta Set For Women",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "2XL"
+},
+{
+"label": "3XL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0687/7613/2701/files/JK4-I.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/44987507572829",
+"title": "White Black Embroidered Kurta Pant Dupatta Set For Women",
+"url": "https://jaipuriclothing.com/products/white-black-embroidered-kurta-pant-dupatta-set-for-women?variant=44987507572829",
+"price": {
+"amount": 139900,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Jaipuri Clothing",
+"url": "https://jaipuriclothing.com",
+"domain": "00qj4d-6r.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0687/7613/2701/files/JK4-I.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/3IEhs1vGVXfqmvfx46QH7i",
+"title": "Women Blue and White Printed Straight Kurti",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Blue"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0870/1526/0463/files/52227ff1_1.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49203455197487",
+"title": "Women Blue and White Printed Straight Kurti",
+"url": "https://rainandrainbow.com/products/women-blue-and-white-printed-straight-kurti?variant=49203455197487",
+"price": {
+"amount": 87800,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Blue"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "Rain & Rainbow",
+"url": "https://rainandrainbow.com",
+"domain": "rainandrainbow1.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0870/1526/0463/files/52227ff1_1.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/7JLKMTLAo3YY7HO8joNwQd",
+"title": "Womens Anarkali Regular Kurti",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+},
+{
+"label": "XXXL"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/5ey7n_512_35f6ec39-a34d-45fc-a187-58d47312aae8.webp"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/49962536894763",
+"title": "Womens Anarkali Regular Kurti",
+"url": "https://www.gillkart.com/products/womens-anarkali-regular-kurti?variant=49962536894763",
+"price": {
+"amount": 58700,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": "GillKart",
+"url": "https://www.gillkart.com",
+"domain": "891d1e-3.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0821/4475/6011/files/5ey7n_512_35f6ec39-a34d-45fc-a187-58d47312aae8.webp"
+}
+]
+}
+]
+},
+{
+"id": "gid://shopify/p/59KcYhFxo6PB8bOtbGhsOu",
+"title": "Women's Off-White & Red Floral Cotton Long Kurti",
+"options": [
+{
+"name": "Size",
+"values": [
+{
+"label": "S"
+},
+{
+"label": "M"
+},
+{
+"label": "L"
+},
+{
+"label": "XL"
+},
+{
+"label": "XXL"
+}
+]
+},
+{
+"name": "Color",
+"values": [
+{
+"label": "Off-White"
+}
+]
+}
+],
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0764/4892/3847/files/PLS00224_standardized.jpg"
+}
+],
+"variants": [
+{
+"id": "gid://shopify/ProductVariant/46525833969863",
+"title": "Women's Off-White & Red Floral Cotton Long Kurti",
+"url": "https://zayma.in/products/womens-off-white-red-floral-cotton-long-kurti?variant=46525833969863",
+"price": {
+"amount": 115400,
+"currency": "INR"
+},
+"availability": {
+"available": true
+},
+"options": [
+{
+"name": "Color",
+"label": "Off-White"
+},
+{
+"name": "Size",
+"label": "S"
+}
+],
+"seller": {
+"name": " Zayma",
+"url": "https://zayma.in",
+"domain": "zaymadigital.myshopify.com"
+},
+"media": [
+{
+"url": "https://cdn.shopify.com/s/files/1/0764/4892/3847/files/PLS00224_standardized.jpg"
+}
+]
+}
+]
+}
+]
+}
